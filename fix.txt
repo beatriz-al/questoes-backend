@@ -1,0 +1,51 @@
+1. encoding do {provas}.json ta dando erro corrigir
+
+3. corrigir json provas cebraspe:
+    exemplo: 
+      {
+    "id": "ANM-21-PSS-2021-AGENCIA-NACIONAL-DE-MINERACAO-21-PSS",
+    "banca": "Cebraspe",
+    "data": "20/05/2021",
+    "cargo": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+    "variacao_prova": [
+      {
+        "tipo": "Objetiva",
+        "link_documento": "https://cdn.cebraspe.org.br/concursos/ANM_21_PSS/arquivos/MATRIZ_579_ANM.PDF",
+        "arquivo": "ANM-21-PSS-2021-AGENCIA-NACIONAL-DE-MINERACAO-21-PSS.pdf"
+      }
+    ],
+    "orgao_completo": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+    "orgao_abreviado": "ANM-21-PSS",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/ANM_21_PSS",
+    "categoria": "prova",
+    "ano": "2021",
+    "concurso": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+    "slug": "ANM_21_PSS"
+  },
+  {
+    "id": "ANM-21-PSS-2021-AGENCIA-NACIONAL-DE-MINERACAO-21-PSS",
+    "banca": "Cebraspe",
+    "data": "20/05/2021",
+    "cargo": "Técnico em Segurança de Barragens",
+    "variacao_prova": [
+      {
+        "tipo": "Objetiva",
+        "link_documento": "https://cdn.cebraspe.org.br/concursos/ANM_21_PSS/arquivos/MATRIZ_579_ANM.PDF",
+        "arquivo": "ANM-21-PSS-2021-AGENCIA-NACIONAL-DE-MINERACAO-21-PSS.pdf",
+        "gabarito": {
+          "link_documento": "https://cdn.cebraspe.org.br/concursos/ANM_21_PSS/arquivos/GAB_DEFINITIVO_MATRIZ_579_ANM_001_00.PDF",
+          "arquivo": "GAB_DEFINITIVO_MATRIZ_579_ANM_001_00.PDF", 
+          "label": "GABARITO DEFINITIVO - PROVA OBJETIVA - CONHECIMENTOS BÁSICOS"
+        }
+      }
+    ],
+    "orgao_completo": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+    "orgao_abreviado": "ANM-21-PSS",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/ANM_21_PSS",
+    "categoria": "prova",
+    "ano": "2021",
+    "concurso": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+    "slug": "ANM_21_PSS"
+  },
+
+  4. 

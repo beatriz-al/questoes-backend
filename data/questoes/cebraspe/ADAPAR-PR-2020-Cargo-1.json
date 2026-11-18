@@ -1,0 +1,133 @@
+{
+  "prova_id": "ADAPAR-PR-2020-Cargo-1",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargo 1",
+    "ano": "2020",
+    "orgao": "ADAPAR-PR",
+    "slug": "ADAPAR_PR_20",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/ADAPAR_PR_20",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/ADAPAR_PR_20/arquivos/MATRIZ_CARGO_1.PDF"
+  },
+  "erros": [],
+  "total": 9,
+  "total_grupos": 3,
+  "questoes": [
+    {
+      "id": "ADAPAR-PR-2020-Cargo-1-Objetiva-q1",
+      "enunciado_principal": "O CEBRASPE TRABALHA PARA OFERECER O MELHOR! LEIA COM ATENÇÃO AS INSTRUÇÕES ABAIXO.",
+      "itens": [
+        {
+          "numero": 1,
+          "enunciado": "Ao receber este caderno de prova, confira inicialmente se os dados transcritos acima estão corretos e se estão corretamente registrados na sua Folha de Respostas. Confira também os dados em cada página numerada deste caderno de prova (desconsidere estas instruções, caso se trate de caderno de prova reserva). Em seguida, verifique se ele contém a quantidade de questões indicada em sua Folha de Respostas, correspondentes à prova objetiva. Caso o caderno esteja incompleto, tenha qualquer defeito e(ou) apresente divergência quanto aos dados apresentados, solicite, de imediato, ao(à) aplicador(a) de prova mais próximo(a) que tome as providências necessárias.",
+          "gabarito": "B"
+        },
+        {
+          "numero": 2,
+          "enunciado": "Durante a realização da prova, não se comunique com outros(as) candidatos(as) nem se levante sem autorização de um(a) dos(as) aplicadores(as) de prova.",
+          "gabarito": "D"
+        },
+        {
+          "numero": 3,
+          "enunciado": "Na duração da prova, está incluído o tempo destinado à identificação — que será feita no decorrer da prova — e ao preenchimento da Folha de Respostas.",
+          "gabarito": "B"
+        },
+        {
+          "numero": 4,
+          "enunciado": "Ao terminar a prova, chame o(a) aplicador(a) de prova mais próximo(a), devolva-lhe a sua Folha de Respostas e deixe o local de prova.",
+          "gabarito": "A"
+        },
+        {
+          "numero": 5,
+          "enunciado": "Nenhuma folha deste caderno pode ser destacada, exceto a folha que contém o documento Folha de Respostas, cujo cabeçalho será destacado pelo(a) chefe de sala ao final da prova, para fins de desidentificação.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 6,
+          "enunciado": "A desobediência a qualquer uma das determinações constantes em edital, no presente caderno ou na Folha de Respostas implicará a anulação da sua prova. CADERNO DE PROVA OBJETIVA Nível Superior CONCURSO PÚBLICO",
+          "gabarito": "D"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ADAPAR-PR - Cargo 1 - 2020 - Objetiva",
+      "area": "Geral",
+      "assunto": null,
+      "keywords": [
+        "quantidade de questões",
+        "providências necessárias",
+        "determinações constantes"
+      ],
+      "arquivo": "ADAPAR-PR-2020-Cargo-1.pdf"
+    },
+    {
+      "id": "ADAPAR-PR-2020-Cargo-1-Objetiva-q35",
+      "enunciado_principal": "Sendo A, B, C e D proposições simples escolhidas adequadamente, assinale a opção que, no âmbito da lógica proposicional, apresenta uma expressão lógica que representa simbolicamente a sentença “Se o Paraná é uma área livre de febre aftosa sem vacinação, então haverá ampliação do comércio de carnes produzidas no estado e haverá aumento do preço do produto para os países compradores; com isso, o estado será mais rico”. A\n\n(A ÿ B w C) ÿ D B\n\n(A v B v C) ÿ D C\n\n(A ÿ B v C) ÿ D D\n\n(A ÿ B v C) v D E\n\n(A v B ÿ C) ÿ D QUESTÃO 11\n\nDeterminada agência tem, ao todo, 33 postos de fiscalização do trânsito agropecuário. Em cada um desses postos trabalham 10 servidores, e cada servidor trabalha em apenas um posto. Do total de servidores que trabalham nesses postos, 190 fiscalizam cargas relativas ao trânsito de animais, 155 fiscalizam cargas relativas ao trânsito de vegetais, 40 não fiscalizam nenhum tipo de carga, e alguns fiscalizam os dois tipos de carga. Nessa situação, o número de servidores que fiscalizam apenas cargas relativas ao trânsito de animais é igual a A",
+      "itens": [
+        {
+          "numero": 35,
+          "enunciado": "B",
+          "gabarito": "B"
+        },
+        {
+          "numero": 55,
+          "enunciado": "C 5. D 175. E 0. QUESTÃO 12 Determinada galinha poedeira produz, em média, 286 ovos ao longo de 52 semanas. Com relação a esse período, sabe-se que, na primeira semana, essa galinha produz, em média, um ovo por dia, e que a produção de ovos reduz linearmente, com decrescimento constante, ao longo das semanas. Nessa situação hipotética, a quantidade média de ovos que essa galinha produz na última das 52 semanas é igual a A . B 2. C 3. D . E 5. QUESTÃO 13",
+          "gabarito": ""
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ADAPAR-PR - Cargo 1 - 2020 - Objetiva - Raciocínio Lógico",
+      "area": "Raciocínio Lógico",
+      "assunto": "Raciocínio Lógico",
+      "keywords": [
+        "ampliação do comércio",
+        "fiscalização do trânsito",
+        "vacinação então",
+        "primeira semana",
+        "expressão lógica"
+      ],
+      "arquivo": "ADAPAR-PR-2020-Cargo-1.pdf"
+    },
+    {
+      "id": "ADAPAR-PR-2020-Cargo-1-Objetiva-q2",
+      "enunciado_principal": "QUESTÃO 21\n\nUm estudo prospectivo referente a certa doença produziu a distribuição de probabilidades mostrada na tabela seguinte, na qual a variável grupo remete a duas populações distintas, rotuladas como I (expostos) e II (não expostos). doença grupo sim não I 0,20 0,60 II 0,08 0,12 De acordo com essas informações, o risco relativo (relative risk) referente a essa situação hipotética é igual a A\n\n0,2. B\n\n0,5. C\n\n0,625. D",
+      "itens": [
+        {
+          "numero": 2,
+          "enunciado": "E 2,5. QUESTÃO 22",
+          "gabarito": "D"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "2,5. QUESTÃO 22"
+        }
+      ],
+      "prova": "Cebraspe - ADAPAR-PR - Cargo 1 - 2020 - Objetiva - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "distribuição de probabilidades"
+      ],
+      "arquivo": "ADAPAR-PR-2020-Cargo-1.pdf"
+    }
+  ]
+}

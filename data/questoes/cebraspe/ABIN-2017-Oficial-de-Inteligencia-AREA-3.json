@@ -1,0 +1,1440 @@
+{
+  "prova_id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Oficial de Inteligência - ÁREA 3",
+    "ano": "2017",
+    "orgao": "ABIN",
+    "slug": "ABIN_17",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/ABIN_17",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/ABIN_17/arquivos/378_ABIN_015_01.PDF",
+    "links_documento": [
+      "https://cdn.cebraspe.org.br/concursos/ABIN_17/arquivos/378_ABIN_015_01.PDF",
+      "https://cdn.cebraspe.org.br/concursos/ABIN_17/arquivos/378_ABIN_CB3_01.PDF"
+    ]
+  },
+  "erros": [],
+  "total": 125,
+  "total_grupos": 32,
+  "questoes": [
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q51",
+      "enunciado_principal": "Acerca dos crimes contra a incolumidade pública, julgue os itens que se seguem.",
+      "itens": [
+        {
+          "numero": 51,
+          "enunciado": "O crime de explosão é considerado um crime de dano, pois o objeto jurídico tutelado são os bens materiais.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 52,
+          "enunciado": "A conduta de disseminar germes patológicos com o objetivo de infectar plantas e animais não configura o crime de epidemia.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 53,
+          "enunciado": "O crime de difusão de doença ou praga é considerado um tipo penal de consumação permanente e de perigo concreto.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 54,
+          "enunciado": "Situação hipotética: Após anos de trabalho como auxiliar de enfermagem, Marcos abriu um consultório médico e passou a realizar consulta, a ministrar medicamentos aos seus pacientes e a realizar pequenas intervenções cirúrgicas. Assertiva: Nessa situação, Marcos pratica o crime de exercício ilegal da profissão.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 55,
+          "enunciado": "Em se tratando dos crimes de incêndio e desabamento, admite-se a modalidade culposa.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "crime de dano",
+        "crime de difusão",
+        "crime de explosão",
+        "difusão de doença",
+        "crime de exercício"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q56",
+      "enunciado_principal": "Julgue os itens seguintes, a respeito dos crimes contra a paz pública.",
+      "itens": [
+        {
+          "numero": 56,
+          "enunciado": "Os tipos penais definidos como incitação ao crime e apologia de crime são espécies de crimes contra a paz pública.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 57,
+          "enunciado": "No caso de três ou mais pessoas associarem-se com a intenção de cometer um único assalto a banco, estará configurado o crime de associação criminosa.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "crime de associação",
+        "incitação ao crime",
+        "intenção de cometer",
+        "paz pública",
+        "associação criminosa"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q58",
+      "enunciado_principal": "No que se refere aos crimes contra a fé pública, julgue os itens seguintes.",
+      "itens": [
+        {
+          "numero": 58,
+          "enunciado": "A falsificação de documento público e a falsificação de documento particular são consideradas crimes contra a fé pública, sendo a pena imputada ao primeiro tipo penal superior à do segundo.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 59,
+          "enunciado": "O crime de falsidade ideológica é considerado crime próprio, admitindo-se a modalidade tentada por ação e por omissão.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 60,
+          "enunciado": "A configuração do crime de moeda falsa exige que a falsificação não seja grosseira.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "falsificação de documento público e a falsificação de documento particular são consideradas crimes contra a fé pública, sendo a pena imputada ao primeiro tipo penal superior à do segundo."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "crime de falsidade",
+        "configuração do crime",
+        "falsificação de documento",
+        "documento público",
+        "documento particular"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q61",
+      "enunciado_principal": "Acerca dos crimes contra a administração pública, julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 61,
+          "enunciado": "Situação hipotética: Com o intuito de prejudicar a candidatura de Flávio, seu concorrente eleitoral, Alberto procurou uma delegacia de polícia e imputou falsamente a Flávio os crimes de corrupção passiva e lavagem de dinheiro. Reduzida a termo essas declarações, a autoridade policial instaurou inquérito policial para apurar os delitos. Assertiva: Nessa situação, Alberto responderá pelo crime de fraude processual.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 62,
+          "enunciado": "O crime de peculato pode ser praticado por quem exerce emprego público, ainda que sua atividade seja transitória ou sem remuneração.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 63,
+          "enunciado": "O crime de corrupção ativa e o de corrupção passiva são considerados crimes próprios praticados contra a administração pública.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 64,
+          "enunciado": "Para a configuração do crime de prevaricação faz-se necessário um ajuste de vontade entre o agente do Estado e o beneficiário do seu ato.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 65,
+          "enunciado": "Situação hipotética: Gustavo, sabedor de um crime praticado por seu filho Cácio, procurou a autoridade policial e assumiu a autoria do delito, com o objetivo de impedir que ele fosse processado e condenado. Assertiva: Nessa situação, a conduta de Gustavo configura o tipo penal de autoacusação falsa.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "crime de corrupção",
+        "crimes de corrupção",
+        "lavagem de dinheiro",
+        "configuração do crime",
+        "crime de prevaricação"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q66",
+      "enunciado_principal": "Com base no disposto na Lei n.º 4.898/1965, que trata do abuso de autoridade, julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 66,
+          "enunciado": "Havendo dúvidas quanto à possibilidade de condenação na esfera criminal, o processo administrativo deve ser suspenso até o fim da ação penal, no intuito de se evitarem decisões conflitantes.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 67,
+          "enunciado": "A representação da vítima do abuso, mesmo que desacompanhada de inquérito policial, é documento hábil para subsidiar a denúncia do Ministério Público e iniciar a ação penal.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 68,
+          "enunciado": "As sanções administrativas previstas para o crime de abuso de autoridade aplicam-se de acordo com a gravidade da conduta praticada e incluem a perda do cargo e a inabilitação para o exercício de qualquer outra função pública pelo prazo legal.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 69,
+          "enunciado": "As sanções penais previstas para o delito de abuso de autoridade incluem multa e detenção e podem ser aplicadas autônoma ou cumulativamente.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 70,
+          "enunciado": "Nos termos da lei, é possível a responsabilização civil, hipótese em que a sanção consistirá no pagamento do valor do dano cumulado com quantia indenizatória arbitrada pelo juiz.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "gravidade da conduta",
+        "possibilidade de condenação",
+        "representação da vítima",
+        "ação penal",
+        "função pública"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q71",
+      "enunciado_principal": "À luz do disposto no Estatuto do Desarmamento — Lei n.º 10.826/2003 —, julgue os itens que se seguem.",
+      "itens": [
+        {
+          "numero": 71,
+          "enunciado": "O interessado em adquirir arma de fogo de uso permitido deve atender a alguns requisitos, como idoneidade, ocupação lícita, residência certa, capacidade técnica e aptidão psicológica para o manuseio de arma de fogo, bem como declarar a efetiva necessidade da aquisição.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 72,
+          "enunciado": "Os agentes operacionais da ABIN têm o direito de portar arma de fogo de propriedade particular ou fornecida pela instituição, em todo o território nacional, desde que esteja em serviço.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 73,
+          "enunciado": "O porte de arma pelos agentes da ABIN está condicionado à aprovação no concurso e à posse no cargo, estando os agentes dispensados de comprovar os requisitos exigidos dos particulares.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 74,
+          "enunciado": "Compete à Polícia Federal a autorização de porte de arma de fogo de uso permitido em todo território nacional, ao Ministério da Justiça a autorização aos responsáveis pela segurança de cidadãos estrangeiros em visita ao Brasil e ao comando do Exército a autorização para o porte de trânsito de arma de fogo para colecionadores, atiradores e caçadores e de representantes estrangeiros em competição internacional oficial de tiro realizada no território nacional.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 75,
+          "enunciado": "Situação hipotética: Pedro, particular, autorizado a portar arma de fogo de uso permitido, foi detido portando arma em estado de notória embriaguez. Assertiva: Nessa situação, a suspensão ou a perda da autorização do porte depende de resultado de processo administrativo junto ao SINARM.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 76,
+          "enunciado": "É obrigatório o registro de arma de fogo no órgão competente, sendo o comando do Exército o responsável pelo registro de armas de uso restrito. Ainda conforme o disposto no Estatuto do Desarmamento, julgue os próximos itens.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 77,
+          "enunciado": "Comete crime o agente que deixa de observar as cautelas necessárias para impedir que menor de dezoito anos de idade se apodere de arma de fogo que esteja sob a sua posse, ainda que não haja consequências graves.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 78,
+          "enunciado": "A falta de comunicação à Polícia Federal de perda ou furto de arma de fogo que esteja sob a guarda de diretor responsável por empresa de segurança configura apenas infração administrativa, que pode ser punida com multa ou suspensão das atividades empresariais.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 79,
+          "enunciado": "As armas de fogo apreendidas e que não interessarem à persecução penal devem ser encaminhadas à Polícia Federal para destruição ou doação ao comando do Exército.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 80,
+          "enunciado": "O mero disparo de arma de fogo nas adjacências de lugar habitado é crime punido com reclusão, estando seu autor sujeito a um aumento de pena se for integrante dos órgãos elencados na lei.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "aumento de pena",
+        "necessidade da aquisição",
+        "suspensão das atividades",
+        "direito de portar",
+        "adjacências de lugar"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q81",
+      "enunciado_principal": "Com referência à divisão inter-regional do trabalho e da produção no Brasil, julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 81,
+          "enunciado": "A Zona Franca de Manaus é uma concentração industrial que, apesar de distar dos grandes centros urbanos e consumidores do centro-sul do país, se articula a praticamente todo o território nacional, ilustrando o processo de privatização do território por meio do uso privado de recursos públicos.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 82,
+          "enunciado": "A partir da reestruturação produtiva do território brasileiro, imposta pela globalização, três das principais metrópoles nacionais, São Paulo, Rio de Janeiro e Brasília, passaram a ter relações de complementariedade e de cooperação: enquanto São Paulo emergiu como potência industrial e o Rio de Janeiro expandiu a sua relevância econômica, Brasília se consolidou como o centro político do território.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 83,
+          "enunciado": "Com a globalização e as exigências do mercado global, todo o território nacional se inseriu em dinâmicas de competição internacional ligadas à exportação de produtos agropecuários e industriais ou nas atividades de suporte ao circuito superior e inferior da economia, gerando ciclos de desenvolvimento econômico.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 84,
+          "enunciado": "As atividades corporativas de empresas nacionais e internacionais (produção, circulação, distribuição e consumo) integram partes expressivas do território brasileiro, por meio de redes de infraestruturas, de informação e comunicação.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Zona Franca de Manaus é uma concentração industrial que, apesar de distar dos grandes centros urbanos e consumidores do centro-sul do país, se articula a praticamente todo o território nacional, ilustrando o processo de privatização do território por meio do uso privado de recursos públicos."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "processo de privatização",
+        "referência à divisão",
+        "atividades de suporte",
+        "exportação de produtos",
+        "privatização do território"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q85",
+      "enunciado_principal": "Julgue os itens subsequentes, acerca da estrutura urbana brasileira e das grandes metrópoles nacionais.",
+      "itens": [
+        {
+          "numero": 85,
+          "enunciado": "A organização do espaço urbano em áreas industriais, áreas de lazer, espaços públicos e locais de consumo, e a distribuição dos meios de transporte e dos serviços públicos de saúde e educação são determinadas pelo plano diretor de uso e ocupação do solo, o qual promove uma cidade mais igualitária e menos segregadora.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 86,
+          "enunciado": "As desigualdades sociais se refletem no espaço urbano e as formas produzidas são distintas em função de cada contexto territorial. As estruturas e formas urbanas das cidades dos países mais ricos da Europa e América Anglo-saxônica são totalmente diversas daquelas das cidades latino americanas e africanas.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 87,
+          "enunciado": "A grande cidade capitalista costuma dispor de áreas consolidadas, envelhecidas ou em processo de renovação, criadas em diferentes momentos do tempo, somadas a paisagens construídas recentemente.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "organização do espaço urbano em áreas industriais, áreas de lazer, espaços públicos e locais de consumo, e a distribuição dos meios de transporte e dos serviços públicos de saúde e educação são determinadas pelo plano diretor de uso e ocupação do solo, o qual promove uma cidade mais igualitária e menos segregadora."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "processo de renovação",
+        "cidade capitalista",
+        "cidades dos países",
+        "organização do espaço",
+        "estrutura urbana"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q88",
+      "enunciado_principal": "Julgue os itens subsequentes, a respeito da evolução da estrutura fundiária rural e dos movimentos demográficos no território brasileiro.",
+      "itens": [
+        {
+          "numero": 88,
+          "enunciado": "Por fazer uso de tecnologias que ampliam sua independência do espaço urbano, o campo não gera empregos necessários para o desenvolvimento de muitos dos municípios de pequeno porte demográfico inseridos em regiões produtivas do agronegócio no Brasil.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 89,
+          "enunciado": "A geração de emprego altamente especializado intensifica a divisão social do trabalho no campo e a concentração de empregos nos complexos agroindustriais especializados localizados em cidades médias, acima de 100 mil habitantes, bem como o trabalho sazonal, causando um processo migratório recente no Brasil: a migração descendente (de cidades pequenas para cidades médias) de profissionais especializados no agronegócio que migram em razão do período de safra e entressafra.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 90,
+          "enunciado": "A internacionalização da agropecuária brasileira ainda é totalmente dependente de investimentos de conglomerados e empresas estrangeiras que compram empresas nacionais do setor e terras para cultivo.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 91,
+          "enunciado": "A agricultura científica e o agronegócio têm impacto direto na concentração fundiária e no mercado de trabalho no campo, pois as empresas agrícolas compram ou arrendam vastas extensões de terra para o cultivo e geram empregos especializados, impondo novas relações de trabalho para os agricultores, que não têm condições técnicas e financeiras para competir com esse modelo de agricultura.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "evolução da estrutura",
+        "razão do período",
+        "geração de emprego",
+        "relações de trabalho",
+        "concentração de empregos"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q92",
+      "enunciado_principal": "Acerca da integração da indústria à estrutura urbana no Brasil, julgue os próximos itens.",
+      "itens": [
+        {
+          "numero": 92,
+          "enunciado": "O território brasileiro dispõe de áreas onde a globalização é absoluta, ou seja, áreas nas quais a produção, a circulação, a distribuição e a informação atendem aos interesses de grandes empresas multinacionais.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 93,
+          "enunciado": "Devido à organização produtiva de seu território, o Brasil é um espaço nacional do mercado global.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 94,
+          "enunciado": "A quantidade expressiva de pessoas em situação de pobreza extrema nas grandes cidades é uma barreira à expansão do crédito e da bolsa de valores no mercado brasileiro; o expressivo número de consumidores com baixa renda e com débitos em atraso implica limitações ao crédito e à financeirização da economia brasileira.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 95,
+          "enunciado": "A especialização das cidades acentua a divisão interurbana do trabalho; por isso, no estado de São Paulo, encontram-se cidades em que prevalecem empresas globais ligadas à produção de matérias-primas regionais, cidades especializadas em novas tecnologias, bem como cidades universitárias, locais onde as instituições de ensino superior direcionam o desenvolvimento local. A fábrica global instala-se além de toda e qualquer fronteira, articulando capital, tecnologia, força de trabalho, divisão do trabalho social e outras forças produtivas. Acompanhada pela publicidade, a mídia impressa e eletrônica, a indústria cultural, misturadas em jornais, revistas, livros, programas de rádio, emissões de televisão, videoclipes, fax, redes de computadores e outros meios de comunicação, informação e fabulação, dissolve fronteiras, agiliza os mercados, generaliza o consumismo. Provoca a desterritorialização e reterritorialização das coisas, gentes e ideias. Promove o redimensionamento de espaços e tempos. Octavio Ianni. Teorias da Globalização. Rio de Janeiro: Editora Civilização, 2002.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "emissões de televisão",
+        "barreira à expansão",
+        "expansão do crédito",
+        "divisão do trabalho",
+        "produção de matérias"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q96",
+      "enunciado_principal": "Considerando o texto precedente e os múltiplos aspectos a ele relacionados, julgue os itens seguintes.",
+      "itens": [
+        {
+          "numero": 96,
+          "enunciado": "A reestruturação produtiva promoveu a intensificação dos fluxos de capitais produtivos e financeiros, acentuando a divisão do trabalho entre os países e a novas formas de organizar a produção.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 97,
+          "enunciado": "A Organização Mundial de Saúde (OMS) classifica alguns comportamentos associados à dependência tecnológica, um dos efeitos mais recentes da globalização, como patologias.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 98,
+          "enunciado": "O processo de internacionalização da economia capitalista, que culminou na denominada globalização, é um fenômeno nascido no contexto do neoliberalismo que marcou o final do século XX.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 99,
+          "enunciado": "O processo de globalização se manifesta em todas as regiões do globo, de forma indiscriminada, tornando-as homogêneas, com a finalidade de atender às necessidades do capital.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 100,
+          "enunciado": "A globalização fortaleceu setores relacionados à tecnologia, propiciando a expansão de corporações desses setores e a consolidação de uma bolsa de valores voltada para empresas desse segmento.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reestruturação produtiva promoveu a intensificação dos fluxos de capitais produtivos e financeiros, acentuando a divisão do trabalho entre os países e a novas formas de organizar a produção."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "expansão de corporações",
+        "processo de globalização",
+        "divisão do trabalho",
+        "finalidade de atender",
+        "necessidades do capital"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q101",
+      "enunciado_principal": "No que se refere aos sistemas político-econômicos contemporâneos e suas áreas de influência e disputa, julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 101,
+          "enunciado": "A proteção dada pela China à Coréia do Norte tem relação direta com o alinhamento geopolítico e militar que a porção sul da península coreana tem com os Estados Unidos da América, que mantêm grandes bases e contingentes militares na Coreia do Sul, e busca evitar a hegemonia americana na região.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 102,
+          "enunciado": "A manutenção da liderança econômica e militar da China depende do controle da população, o que levou o governo do país a reforçar a política do filho único instituída desde a Revolução Cultural.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 103,
+          "enunciado": "Neo-eurasianismo é um termo empregado para se referir à ação da Rússia nas nações do antigo bloco soviético, bem como naquelas que estão no seu entorno e são estratégicas para seu projeto de poder.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 104,
+          "enunciado": "A nova rota da seda constitui um ambicioso projeto de integração da China em relação a países asiáticos, africanos e europeus, com investimentos da ordem de um trilhão de dólares para angariar novos parceiros econômicos e confrontar a hegemonia dos Estados Unidos da América. Internet: <http://www.euexperts.eu>. A ilustração precedente remete ao processo de retirada do Reino Unido da União Europeia, conhecido como Brexit. A respeito desse assunto e de aspectos a ele relacionados, julgue os próximos itens.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 105,
+          "enunciado": "O voto a favor do Brexit foi majoritário nas grandes cidades e nas regiões mais ricas do Reino Unido, que se consideram ameaçadas pela competição de outras nações do bloco.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 106,
+          "enunciado": "As medidas protecionistas dos países integrantes da União Europeia foram o principal motivo para que o governo conservador do Reino Unido propusesse o Brexit.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 107,
+          "enunciado": "O Brexit decorre da aplicação do artigo n.º 50 do Tratado de Lisboa, que estabelece regras para os países que desejarem deixar a União Europeia.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 108,
+          "enunciado": "O resultado do plebiscito sobre o Brexit representou a vontade de todas as nações integrantes do Reino Unido, cujas populações receavam o aumento crescente de imigrantes no Reino Unido, decorrente da instituição de normas de migração pouco restritivas pelos países integrantes da União Europeia.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proteção dada pela China à Coréia do Norte tem relação direta com o alinhamento geopolítico e militar que a porção sul da península coreana tem com os Estados Unidos da América, que mantêm grandes bases e contingentes militares na Coreia do Sul, e busca evitar a hegemonia americana na região."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "projeto de integração",
+        "trilhão de dólares",
+        "manutenção da liderança",
+        "ação da rússia",
+        "nações do antigo"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q109",
+      "enunciado_principal": "Internet: <https://br.sputniknews.com>. A charge precedente remete a recente crise entre o Qatar e seus vizinhos no Oriente Médio. A respeito desse assunto e de aspectos a ele relacionados, julgue os itens subsequentes.",
+      "itens": [
+        {
+          "numero": 109,
+          "enunciado": "O fechamento da única fronteira terrestre do país, com a Arábia Saudita, impediu o tráfego de mercadorias e resultou na escassez de alimentos, que tiveram de ser transportados por via aérea.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 110,
+          "enunciado": "No centro da referida crise está a relação entre Israel e Qatar, país oponente da Arábia Saudita em diversos conflitos, a exemplo das guerras do Iraque e da Síria.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 111,
+          "enunciado": "A crise se iniciou após uma visita do atual presidente dos Estados Unidos da América, Donald Trump, a países vizinhos do Qatar, quando o presidente criticou o emirado por oferecer apoio ao Irã, país que é visto pelo governo norte-americano como um Estado que fomenta o terrorismo.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 112,
+          "enunciado": "O Qatar hospeda dez mil soldados americanos e abriga a sede do comando central dos militares americanos no Oriente Médio.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "fechamento da única fronteira"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q113",
+      "enunciado_principal": "De acordo com a Organização das Nações Unidas (ONU), o número de megacidades no mundo aumentou de quatorze, em 1995, para vinte e nove, em 2015. Com relação a esse fenômeno de urbanização da sociedade contemporânea, julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 113,
+          "enunciado": "O conceito de megacidade coincide com o de cidade global.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 114,
+          "enunciado": "Denominam-se megacidades as áreas urbanas com população superior a dez milhões de habitantes.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 115,
+          "enunciado": "A maior parte das megacidades está localizada em países desenvolvidos, que possuem altos índices de urbanização.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 116,
+          "enunciado": "Os problemas de saúde física e mental decorrentes da vida nas megacidades levou ao surgimento da área do conhecimento denominada neuro-urbanismo.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "urbanização da sociedade",
+        "milhões de habitantes",
+        "cidade global",
+        "organização das nações unidas"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos-q117",
+      "enunciado_principal": "No que se refere às dinâmicas políticas e econômicas do Mercado Comum do Sul (MERCOSUL) e de outros blocos econômicos, julgue os itens subsequentes.",
+      "itens": [
+        {
+          "numero": 117,
+          "enunciado": "Nos últimos anos, o Paraguai vem atraindo indústrias brasileiras por intermédio da Lei das Maquilas, em um processo semelhante ao ocorrido no México, quando da formação do NAFTA.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 118,
+          "enunciado": "A dimensão política do bloco inclui o Parlamento do MERCOSUL (PARLASUL), criado em 2005 como órgão de representação dos povos do MERCOSUL, cuja sede é rotativa, assim como a presidência do bloco.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 119,
+          "enunciado": "A maior parte das mercadorias fabricadas nos países-membros do bloco pode ser comercializada internamente sem tarifa de importação; para diversos itens, as tarifas externas são padronizadas.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 120,
+          "enunciado": "O Brasil é o maior contribuinte do Fundo para a Convergência Estrutural do MERCOSUL (FOCEM), que entrou em operação em janeiro de 2007 com a aprovação dos primeiros projetos a serem financiados com recursos comunitários para fomentar a consolidação do processo de integração.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "assunto": "Conhecimentos Específicos",
+      "keywords": [
+        "órgão de representação",
+        "processo de integração",
+        "consolidação do processo",
+        "lei das maquilas",
+        "parlamento do mercosul"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q1",
+      "enunciado_principal": "Texto CB3A6AAA\n\n¿Tiene sentido emular las expediciones científicas del siglo XIX, como las del antropólogo y biólogo alemán Alexander von Humboldt, o como las que patrocinó Carlos III en el Nuevo Reino de Granada, la actual Colombia, en busca de especies vegetales y animales desconocidos en Europa? Lo cierto es que tras siglos de progreso científico, hoy parece no quedar ya apenas espacio para aquella sorpresa original. En cambio, sigue habiendo lugar para viajes humanísticos que intenten acercar culturas y divulgar el valor de la diversidad.\n\nEse es el espíritu que ha presidido el proyecto Chaco Ra’anga. Un viaje científico y cultural al corazón de Sudamérica: viajar no para certificar conocimientos, no para realizar dibujos al carboncillo de plantas nunca vistas y atravesar con alfileres mosquitos y reptiles, sino para señalar en el mapa regiones apartadas cuya idiosincrasia se encuentra en peligro, amenazada por la expansión de los núcleos urbanos y las explotaciones agrícolas, ganaderas y energéticas. Adentrarse en territorios periféricos, pues, para ejercer de testigos de una realidad conflictiva, y regresar con un relato que ilumine desastres aún evitables o tesoros que conviene preservar.\n\nChaco Ra’anga es el resultado de una expedición realizada por 12 viajeros, y promovida por Cooperación Española, por El Gran Chaco, en el corazón de América del Sur, una amplia región que abarca zonas de Bolivia, Paraguay, Brasil y Argentina, que alberga la segunda reserva boscosa más grande del continente después del Amazonas y una variedad de etnias y culturas propias que mantienen las esencias de sus pobladores primigenios. Internet: <https://elpais.com> (con adaptaciones). En relación al texto CB3A6AAA, juzgue los siguientes ítems.",
+      "itens": [
+        {
+          "numero": 1,
+          "enunciado": "La región de la expedición del proyecto Chaco Ra’anga es prácticamente inexistente.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 2,
+          "enunciado": "Todavía, gracias al testimonio de los viajeros del proyecto Chaco Ra’anga, pueden evitarse desastres y también conservarse riquezas.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 3,
+          "enunciado": "En “¿Tiene sentido emular las expediciones científicas del siglo XIX”, el verbo “emular” puede sustituirse por imitar sin que ocurran cambios semánticos significativos en el texto.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 4,
+          "enunciado": "Carlos III patrocinó expediciones a España.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 5,
+          "enunciado": "En el fragmento “viajar no para certificar conocimientos, no para realizar dibujos al carboncillo de plantas nunca vistas y atravesar con alfileres mosquitos y reptiles, sino para señalar en el mapa regiones apartadas”, el vocablo “sino” puede sustituirse por pero sin producir cambios significativos en la estructura semántica del texto.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Espanhola",
+      "area": "Língua Espanhola",
+      "assunto": "Língua Espanhola",
+      "keywords": [
+        "fragmento viajar",
+        "estructura semántica"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q1",
+      "enunciado_principal": "Text CB3A5AAA\n\nThe increase in scrutiny and reduction in powers for security agencies has to a considerable extent been triggered by the revelations of the former National Security agency whistle-blower Edward Snowden. These disclosures, along with other leaks from organizations such as WikiLeaks, have shed light on a series of illegal practices adopted by intelligence agencies in many countries, in particular the USA, Germany and the UK.\n\nThis has led to an unprecedented shift in the nature of intelligence legislation in many parts of the world, with security services witnessing a reduction in their powers for the first time in the post-9/11 era, defined by the West’s commitment to the war on terror.\n\nHowever, despite claims that the agencies are working in the interest of national security, critics counter that overbearing surveillance practices erode and restrict many civil liberties. In spite of the introduction of restrictions in the USA and Germany, Great Britain appears to be heading in the opposite direction when it comes to surveillance policy, with the UK’s Conservative government putting forward plans to grant spy agencies yet more powers to deal with threats to national security.\n\nThe British government has outlined its highly controversial plan to introduce the Investigatory Powers Bill, which would grant agencies not only more power but also allow them to force Internet companies to log and track users’ web history for up to a year to allow for the police and security services access. It is thought the plan would also compel companies to collect and hold data on mobile phone applications like WhatsApp and Snapchat.\n\nSnowden: the legacy of the Leaks. Internet: <www.mintpressnews> (adapted). Based on text CB3A5AAA, judge the following items.",
+      "itens": [
+        {
+          "numero": 1,
+          "enunciado": "In “These disclosures, along with other leaks from organizations such as WikiLeaks, have shed light on a series of illegal practices adopted by intelligence agencies in many countries”, “along with” can be correctly replaced with the synonymous expression after a long time.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 2,
+          "enunciado": "It can be inferred from the text that a bill, as in “The British government has outlined its highly controversial plan to introduce the Investigatory Powers Bill”, is a new law that was presented to Parliament for discussion, passed and is ready to be enacted.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 3,
+          "enunciado": "According to the text, the events that followed the September 11th attacks, as well as the systematic leaking of government classified material, have helped shape the way some intelligence agencies have been operating.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 4,
+          "enunciado": "The author of the text implies that the fight against terrorism is no longer a major priority for Anglo-American intelligence services.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 5,
+          "enunciado": "As far as the use of apostrophes is concerned, there is significant difference in meaning between “users’”, in “The British government has outlined its highly controversial plan to introduce the Investigatory Powers Bill, which would grant agencies not only more power but also allow them to force Internet companies to log and track users’ web history for up to a year to allow for the police and security services access”, and user’s.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q6",
+      "enunciado_principal": "Texto CB3A1AAA\n\nA atividade de inteligência é o exercício de ações especializadas para a obtenção e análise de dados, produção de conhecimentos e proteção de conhecimentos para o país. Inteligência e contrainteligência são os dois ramos dessa atividade. A inteligência compreende ações de obtenção de dados associadas à análise para a compreensão desses dados. A análise transforma os dados em cenário compreensível para o entendimento do passado, do presente e para a perspectiva de como tende a se configurar o futuro. Cabe à inteligência tratar fundamentalmente da produção de conhecimentos com o objetivo específico de auxiliar o usuário a tomar decisões de maneira mais fundamentada. A contrainteligência tem como atribuições a produção de conhecimentos e a realização de ações voltadas à proteção de dados, conhecimentos, infraestruturas críticas — comunicações, transportes, tecnologias de informação — e outros ativos sensíveis e sigilosos de interesse do Estado e da sociedade. O trabalho desenvolvido pela contrainteligência tem foco na defesa contra ameaças como a espionagem, a sabotagem, o vazamento de informações e o terrorismo, patrocinadas por instituições, grupos ou governos estrangeiros. Internet: <www.abin.gov.br> (com adaptações). Julgue os itens seguintes, relativos às ideias e aos aspectos linguísticos do texto CB3A1AAA.",
+      "itens": [
+        {
+          "numero": 6,
+          "enunciado": "No trecho “O trabalho desenvolvido pela contrainteligência tem foco na defesa contra ameaças como a espionagem”, o sentido do texto seria prejudicado, embora sua correção gramatical fosse preservada, caso a preposição presente na expressão “contra ameaças” fosse substituída pela preposição de.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 7,
+          "enunciado": "O escopo do trabalho da inteligência se confunde com o da contrainteligência, embora sejam duas facetas da atividade de inteligência.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 8,
+          "enunciado": "No texto, predomina a tipologia textual expositiva, dado o seu objetivo comunicativo de transmitir ao leitor um conjunto de informações relativas às atividades desenvolvidas sob o rótulo de inteligência.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 9,
+          "enunciado": "Em “Cabe à inteligência tratar fundamentalmente da produção de conhecimentos com o objetivo específico de auxiliar o usuário a tomar decisões de maneira mais fundamentada”, as orações “de auxiliar o usuário” e “a tomar decisões de maneira mais fundamentada” exercem a função de complemento do nome “objetivo”.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 10,
+          "enunciado": "No período “A contrainteligência tem como atribuições a produção de conhecimentos e a realização de ações voltadas à proteção de dados, conhecimentos, infraestruturas críticas — comunicações, transportes, tecnologias de informação — e outros ativos sensíveis e sigilosos de interesse do Estado e da sociedade”, os travessões isolam uma oração interferente, tendo sido empregados para dar-lhe ênfase.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "ações de obtenção",
+        "exercício de ações",
+        "decisões de maneira",
+        "realização de ações",
+        "função de complemento"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q11",
+      "enunciado_principal": "Texto CB3A1BBB\n\nNa legislação interna dos países, a espionagem costuma ser juridicamente entendida como a obtenção sub-reptícia e indevida de informação sigilosa do Estado. Esse tipo de conduta é criminalizado pela legislação de cada país. O mesmo se pode dizer do vazamento, que guarda estreita relação com a espionagem e que consiste na divulgação indevida de informações por quem tem o dever legal do sigilo.\n\nA espionagem é um dos poucos crimes na legislação brasileira que podem, em tempo de guerra, levar à pena de morte, seja o condenado nacional ou estrangeiro, civil ou militar, além de, em tempo de paz, sujeitar o militar que a pratique à indignidade para o oficialato.\n\nSe praticada por autoridade superior, a espionagem pode configurar, além de infração penal, crime de responsabilidade, que, a despeito do nome, não tem natureza de crime em sentido técnico, mas, sim, de infração política sujeita a cassação de mandato e suspensão de direitos políticos.\n\nFábio de Macedo Soares Pires Condeixa. Espionagem e direito. In:\n\nRevista Brasileira de Inteligência, n.º 10, 2015, p. 25-6 (com adaptações). A propósito das ideias e dos aspectos linguísticos do texto CB3A1BBB, julgue os itens subsequentes.",
+      "itens": [
+        {
+          "numero": 11,
+          "enunciado": "No primeiro parágrafo do texto, a “estreita relação” entre o “vazamento” e a “espionagem” refere-se tanto ao objeto com que lidam seus agentes — informações sigilosas — quanto aos meios indevidos de que esses agentes se utilizam — para obter esse objeto, no caso da espionagem, e para torná-lo público, no caso do vazamento.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 12,
+          "enunciado": "O texto aponta que, embora haja consenso entre os países acerca da definição do que vem a ser espionagem, a criminalização dessa conduta não é universal, a exemplo do caso brasileiro, país onde o acusado de espionagem é sentenciado à morte apenas em situações extremas.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 13,
+          "enunciado": "Na construção das cadeias referenciais do texto, os termos “Esse tipo de conduta” (“Esse tipo de conduta é criminalizado pela legislação de cada país” – primeiro parágrafo) e “a” (“sujeitar o militar que a pratique à indignidade para o oficialato” – segundo parágrafo) constituem diferentes formas de evocar o mesmo conteúdo semântico: o do referente “a espionagem” (primeiro período do texto).",
+          "gabarito": "E"
+        },
+        {
+          "numero": 14,
+          "enunciado": "O paralelismo sintático do último parágrafo do texto seria prejudicado se fosse inserido sinal indicativo de crase em “a cassação” (“não tem natureza de crime em sentido técnico, mas, sim, de infração política sujeita a cassação de mandato e suspensão de direitos políticos”).",
+          "gabarito": "C"
+        },
+        {
+          "numero": 15,
+          "enunciado": "A correção gramatical e as informações originais do texto seriam preservadas caso seu terceiro período — “O mesmo se pode dizer do vazamento, que guarda estreita relação com a espionagem e que consiste na divulgação indevida de informações por quem tem o dever legal do sigilo”— fosse assim reescrito: É possível afirmar o mesmo a propósito do vazamento, o qual mantém íntima relação com a espionagem e consiste na divulgação indevida de informações por aqueles que têm o dever legal do sigilo.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "natureza de crime",
+        "crime de responsabilidade",
+        "cassação de mandato",
+        "suspensão de direitos",
+        "construção das cadeias"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q16",
+      "enunciado_principal": "Julgue os itens que se seguem, a respeito do regime jurídico dos servidores públicos, da Lei de Responsabilidade Fiscal, da Lei de Improbidade Administrativa e da garantia empregatícia de servidores efetivos e vitalícios.",
+      "itens": [
+        {
+          "numero": 16,
+          "enunciado": "Cometerá ato de improbidade administrativa, violando o dever da imparcialidade, legalidade, lealdade às instituições, o servidor público que, em consequência de desafeição com determinado cidadão, negar publicidade de um ato oficial.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 17,
+          "enunciado": "A despeito do caráter compulsório da aposentadoria aos setenta anos de idade, o detentor de cargo público vitalício poderá exercê-lo até os oitenta anos de idade.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 18,
+          "enunciado": "Situação hipotética: José, servidor nomeado para cargo efetivo, passou pelo estágio probatório com nota dez na avaliação de desempenho do cargo, adquirindo a estabilidade no serviço público. Assertiva: Nessa situação, a despeito da excelência do seu desempenho, José poderá ser exonerado do serviço público seis meses após a conclusão do seu estágio probatório, caso apresente queda na produtividade por dois meses seguidos.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 19,
+          "enunciado": "Entre os instrumentos de transparência da gestão pública utilizados pelos servidores públicos e disponibilizados pelo poder público, encontram-se os meios eletrônicos de acesso público que asseguram ao cidadão o acesso a informações pormenorizadas sobre a gestão fiscal.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "lei de improbidade",
+        "ato de improbidade",
+        "lei de responsabilidade",
+        "transparência da gestão",
+        "avaliação de desempenho"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q20",
+      "enunciado_principal": "No que tange aos atos administrativos, julgue os itens seguintes.",
+      "itens": [
+        {
+          "numero": 20,
+          "enunciado": "O processo administrativo será regido por normas básicas que visem ao cumprimento dos fins da administração e obedecerá, entre outros, aos princípios da legalidade, da moralidade, da ampla defesa e do contraditório, excluindo-se desse rol o princípio da razoabilidade, por se tratar, no caso, de ato discricionário do agente público.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 21,
+          "enunciado": "Uma diferença entre a revogação e a anulação de um ato administrativo é a de que a revogação é medida privativa da administração, enquanto a anulação pode ser determinada pela administração ou pelo Poder Judiciário, não sendo, nesse caso, necessária a provocação do interessado.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 22,
+          "enunciado": "Nas situações de silêncio administrativo, duas soluções podem ser adotadas na esfera do direito administrativo. A primeira está atrelada ao que a lei determina em caso de ato de conteúdo vinculado. A segunda, por sua vez, ocorre no caso de ato de caráter discricionário, em que o interessado tem o direito de pleitear em juízo que se encerre a omissão ou que o juiz fixe prazo para a administração se pronunciar, evitando, dessa forma, a omissão da administração.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 23,
+          "enunciado": "Situação hipotética: Após decisão administrativa que lhe foi desfavorável, publicada no dia 1.º/2/2017, João decidiu interpor recurso administrativo. Tendo tomado ciência do ato negativo, após busca exaustiva, João verificou que não havia disposição legal específica para a apresentação do recurso e protocolou-o no dia 2/3/2017, com o intuito de esclarecer os pontos controversos da decisão. Assertiva: Nessa situação, o lapso temporal descrito caracteriza o recurso como tempestivo, razão por que ele deverá ser conhecido.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "ciência do ato",
+        "legalidade da moralidade",
+        "omissão da administração",
+        "ato de caráter",
+        "ato de conteúdo"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q24",
+      "enunciado_principal": "Julgue os itens seguintes, relativos ao direito de nacionalidade.",
+      "itens": [
+        {
+          "numero": 24,
+          "enunciado": "Os indivíduos que possuem multinacionalidade vinculam-se a dois requisitos de aquisição de nacionalidade primária: o direito de sangue e o direito de solo.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 25,
+          "enunciado": "Considera-se hipótese excepcional de quase nacionalidade aquela que depende tanto da manifestação da vontade do estrangeiro quanto da aquiescência do chefe do Poder Executivo.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 26,
+          "enunciado": "Filho de brasileiros nascido no estrangeiro que opte pela nacionalidade brasileira não poderá ser extraditado, uma vez que os efeitos dessa opção são plenos e têm eficácia retroativa.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "direito de nacionalidade",
+        "manifestação da vontade",
+        "aquisição de nacionalidade",
+        "nacionalidade primária",
+        "nacionalidade brasileira"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q27",
+      "enunciado_principal": "Acerca dos direitos políticos, julgue os itens que se seguem.",
+      "itens": [
+        {
+          "numero": 27,
+          "enunciado": "A condenação pela prática de ato de improbidade administrativa é hipótese de que resulta perda dos direitos políticos.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 28,
+          "enunciado": "Referendo é uma consulta ao povo quanto a assunto já transformado em lei, enquanto plebiscito é uma consulta prévia aos eleitores sobre assuntos políticos ou institucionais.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condenação pela prática de ato de improbidade administrativa é hipótese de que resulta perda dos direitos políticos."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "ato de improbidade administrativa"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q29",
+      "enunciado_principal": "Com relação à ordem social, julgue os itens subsequentes.",
+      "itens": [
+        {
+          "numero": 29,
+          "enunciado": "Pessoas físicas ou jurídicas que degradarem o meio ambiente poderão sofrer sanções penais, civis e administrativas.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 30,
+          "enunciado": "A efetivação do aproveitamento dos recursos hídricos e das riquezas minerais em terras indígenas depende de autorização do presidente da República, após consulta às comunidades afetadas.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 31,
+          "enunciado": "A localização das usinas que vierem a operar com reator nuclear deverá ser definida em lei complementar estadual.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "autorização do presidente",
+        "localização das usinas",
+        "efetivação do aproveitamento",
+        "sanções penais",
+        "lei complementar"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q32",
+      "enunciado_principal": "Com relação à Política Nacional de Inteligência (PNI), julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 32,
+          "enunciado": "A expansão da capacidade operacional da inteligência no espaço cibernético é diretriz da PNI, haja vista a rede mundial de computadores ser um espaço privilegiado de discussões.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 33,
+          "enunciado": "A elaboração de atos normativos e a disponibilização de recursos financeiros para atividades de inteligência são considerados instrumentos da inteligência previstos na PNI.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão da capacidade operacional da inteligência no espaço cibernético é diretriz da PNI, haja vista a rede mundial de computadores ser um espaço privilegiado de discussões."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "expansão da capacidade",
+        "atividades de inteligência",
+        "relação à política",
+        "instrumentos da inteligência",
+        "capacidade operacional"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q34",
+      "enunciado_principal": "Julgue os itens que se seguem, relativos à Estratégia Nacional de Inteligência.",
+      "itens": [
+        {
+          "numero": 34,
+          "enunciado": "O parlamento controla a legitimidade e a eficácia da atividade de inteligência e é considerado o mais poderoso órgão de controle desse tipo de atividade. Ele deve procurar influir permanentemente para atingir as mudanças desejadas, sendo-lhe, entretanto, vedado emanar recomendações, pois isso feriria a independência dos poderes da República.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 35,
+          "enunciado": "A atividade de inteligência no Brasil deve buscar a integração com os demais países do mundo, mas, em especial, com os da Organização dos Estados Americanos.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 36,
+          "enunciado": "A sabotagem é um tipo de ameaça cuja ação pode ter efeito tanto físico quanto material ou psicológico.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 37,
+          "enunciado": "A produção e a difusão de conhecimentos sobre fatos que tenham potencial influência sobre a salvaguarda da sociedade são atividades do ramo da contrainteligência.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "difusão de conhecimentos",
+        "atividade de inteligência",
+        "órgão de controle",
+        "independência dos poderes"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q38",
+      "enunciado_principal": "Com relação ao Sistema Brasileiro de Inteligência (SISBIN) e à estrutura regimental da ABIN, julgue os itens subsequentes.",
+      "itens": [
+        {
+          "numero": 38,
+          "enunciado": "A aprovação dos planos de operações da atividade de inteligência da ABIN é incumbência do chefe do Departamento de Operações de Inteligência.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 39,
+          "enunciado": "A criação do SISBIN impôs que as unidades da Federação fizessem parte dele.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 40,
+          "enunciado": "O Ministério da Indústria, Comércio Exterior e Serviços, o Ministério da Agricultura, Pecuária e Abastecimento e a Advocacia-Geral da União, por meio das respectivas secretarias-executivas, integram o SISBIN, cabendo a todos estes integrantes, no âmbito de suas competências, intercambiar informações necessárias à produção de conhecimentos relacionados às atividades de inteligência e contrainteligência.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aprovação dos planos de operações da atividade de inteligência da ABIN é incumbência do chefe do Departamento de Operações de Inteligência."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "unidades da federação",
+        "operações da atividade",
+        "atividade de inteligência",
+        "departamento de operações",
+        "operações de inteligência"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q41",
+      "enunciado_principal": "No que se refere à estruturação do plano de carreira e cargos da ABIN, julgue os itens seguintes.",
+      "itens": [
+        {
+          "numero": 41,
+          "enunciado": "A cessão de um agente de inteligência da ABIN para outro órgão público, para investidura em cargo do Grupo-Direção e Assessoramento Superiores, somente pode ocorrer se for para os níveis 4, 5, 6 ou equivalentes.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 42,
+          "enunciado": "O agente de inteligência tem como atribuição oferecer suporte especializado às atividades do oficial de inteligência previstas em lei, podendo ambos ser designados para prestar serviço no exterior.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cessão de um agente de inteligência da ABIN para outro órgão público, para investidura em cargo do Grupo-Direção e Assessoramento Superiores, somente pode ocorrer se for para os níveis 4, 5, 6 ou equivalentes."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "estruturação do plano",
+        "atividades do oficial",
+        "inteligência previstas",
+        "órgão público"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q43",
+      "enunciado_principal": "Com base na Lei de Acesso à Informação (Lei n.º 12.527/2011), julgue os itens a seguir.",
+      "itens": [
+        {
+          "numero": 43,
+          "enunciado": "Se um documento de um órgão público contiver informações de uma pessoa referentes a sua intimidade e vida privada, o acesso a essas informações será restrito pelo prazo máximo de cem anos a contar de sua produção, independentemente de sua classificação de sigilo.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 44,
+          "enunciado": "A classificação de uma informação como secreta é de competência indelegável do titular de autarquia federal.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "informação lei",
+        "lei de acesso",
+        "classificação de sigilo",
+        "órgão público",
+        "competência indelegável"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q45",
+      "enunciado_principal": "Descrição das figuras Figura I Uma caixa retangular contém em seu interior, da esquerda para a direita: um triângulo equilátero; uma circunferência; um triângulo equilátero e uma circunferência. Figura II Uma caixa retangular contém em seu interior da esquerda para a direita: um quadrado; uma estrela; um quadrado e um quadrado. Figura III Uma caixa retangular contém em seu interior da esquerda para a direita: uma seta voltada para cima; uma seta voltada para cima; um triângulo retângulo; uma seta voltada para cima; uma seta voltada para cima; um triangulo retângulo; uma seta voltada para cima e um triângulo retângulo. As três figuras descritas, cada uma com diversos símbolos, foram desenhadas na parede de um suposto esconderijo inimigo. O serviço de inteligência descobriu que cada um dos símbolos representa um dos algarismos 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Com referência a essas figuras, julgue os itens seguintes.",
+      "itens": [
+        {
+          "numero": 45,
+          "enunciado": "Considere que o símbolos na figura II indicam uma data: com dia e mês, nessa ordem. Nesse caso, há a possibilidade de pelo menos 7 interpretações para essa figura.",
+          "gabarito": "C"
+        },
+        {
+          "numero": 46,
+          "enunciado": "Considere que os símbolos da figura III indicam uma data: com dia, mês e ano entre 2000 e 2100, nessa ordem. Nesse caso, há a possibilidade de pelo menos 2 interpretações para essa figura.",
+          "gabarito": "E"
+        },
+        {
+          "numero": 47,
+          "enunciado": "Se o significado dos símbolos da figura I for “ano do século passado”, então existem pelo menos dois anos que podem estar representados nessa figura.",
+          "gabarito": "E"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "descrição das figuras figura"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q48",
+      "enunciado_principal": "As seguintes proposições lógicas formam um conjunto de premissas de um argumento:\n\nC\n\nSe Pedro não é músico, então André é servidor da ABIN.\n\nC\n\nSe André é servidor da ABIN, então Carlos não é um\n\nespião.\n\nC\n\nCarlos é um espião. A partir dessas premissas, julgue o item a seguir, acerca de lógica de argumentação.",
+      "itens": [
+        {
+          "numero": 48,
+          "enunciado": "Se a proposição lógica “Pedro é músico.” for a conclusão desse argumento, então, as premissas juntamente com essa conclusão constituem um argumento válido.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "Certo"
+        },
+        {
+          "letra": "E",
+          "texto": "Errado"
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "argumento então",
+        "proposição lógica",
+        "proposições lógicas"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    },
+    {
+      "id": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais-q49",
+      "enunciado_principal": "Considerando que P, Q e R sejam proposições simples, julgue os próximos itens.",
+      "itens": [
+        {
+          "numero": 49,
+          "enunciado": "A proposição P e (Q ou R) é equivalente à proposição (P e Q) ou (P e R).",
+          "gabarito": "C"
+        },
+        {
+          "numero": 50,
+          "enunciado": "A negação da proposição se P então Q é equivalente à proposição (não Q) e P.",
+          "gabarito": "C"
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proposição P e (Q ou R) é equivalente à proposição (P e Q) ou (P e R)."
+        }
+      ],
+      "prova": "Cebraspe - ABIN - Oficial de Inteligência - ÁREA 3 - 2017 - Conhecimentos Gerais - Língua Inglesa",
+      "area": "Língua Inglesa",
+      "assunto": "Língua Inglesa",
+      "keywords": [
+        "negação da proposição"
+      ],
+      "arquivo": "ABIN-2017-Oficial-de-Inteligencia-AREA-3-Conhecimentos-Gerais.pdf"
+    }
+  ]
+}

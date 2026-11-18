@@ -1,0 +1,1143 @@
+{
+  "prova_id": "AEB-2024-Cargo-2",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargo 2",
+    "ano": "2024",
+    "orgao": "AEB",
+    "slug": "AEB_24",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/AEB_24",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_002_01.pdf"
+  },
+  "erros": [
+    "Q30: enunciado vazio",
+    "Q31: enunciado vazio",
+    "Q35: enunciado vazio",
+    "Q36: enunciado vazio",
+    "Q43: enunciado vazio",
+    "Q47: enunciado vazio",
+    "Q48: enunciado vazio",
+    "Q52: enunciado vazio",
+    "Q54: enunciado vazio",
+    "Q56: enunciado vazio",
+    "Q58: enunciado vazio"
+  ],
+  "total": 29,
+  "questoes": [
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q21",
+      "numero": 21,
+      "enunciado_principal": "Quando de sua criação, a Agência Espacial Brasileira (AEB), autarquia federal de natureza civil, era vinculada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Força Aérea Brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "ao Ministério da Defesa."
+        },
+        {
+          "letra": "C",
+          "texto": "ao Ministério da Ciência, Tecnologia e Inovação."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Instituto Nacional de Pesquisas Espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "à Presidência da República."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "natureza civil",
+        "agência espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q22",
+      "numero": 22,
+      "enunciado_principal": "No que se refere à nova estrutura regimental da AEB, aprovada pelo Decreto n.º 11.192/2022, julgue os itens a seguir. I\n\nCompete à Diretoria de Assuntos Estratégicos acompanhar a\n\npolítica nacional de energia nuclear, e seus desdobramentos\n\nem objetivos e metas. II Compete à Diretoria de Gestão de Portfólio gerenciar os\n\ncontratos que, decorrentes de projetos em execução, sejam\n\nrelativos à transferência de tecnologias associadas a sistemas\n\nespaciais para o setor produtivo. III Compete à Diretoria de Inteligência Estratégica e Novos\n\nNegócios elaborar estudos estratégicos, em conjunto com as\n\nForças Armadas, para identificar ameaças internacionais no\n\nque se refere à utilização de armamento em ambiente espacial\n\npor outros países. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "utilização de armamento",
+        "gestão de portfólio",
+        "estrutura regimental",
+        "inteligência estratégica",
+        "transferência de tecnologias"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q23",
+      "numero": 23,
+      "enunciado_principal": "De acordo com o Decreto n.º 1.953/1996, os órgãos setoriais do Sistema Nacional de Desenvolvimento das Atividades Espaciais (SINDAE) são responsáveis por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizar estudos estratégicos de setores da economia para proposição e inclusão de novos projetos no Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "B",
+          "texto": "prover consultoria setorial ao órgão central para aconselhá-lo na execução do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "promover parcerias público-privadas para o desenvolvimento do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "elaborar e atualizar o Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "coordenar setores e executar ações do Programa Nacional de Atividades Espaciais."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "atividades espaciais",
+        "desenvolvimento das atividades"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q24",
+      "numero": 24,
+      "enunciado_principal": "Segundo o Programa Nacional de Atividades Espaciais (PNAE) 2022-2031, a Agência Espacial Brasileira (AEB) deve identificar continuamente propostas de missões espaciais que possam se submeter",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao padrão NASA (National Aeronautics and Space Administration)."
+        },
+        {
+          "letra": "B",
+          "texto": "à European Cooperation for Space Standardization (ECSS)."
+        },
+        {
+          "letra": "C",
+          "texto": "à ISO (International Organization for Standardization)."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Procedimento para Seleção e Adoção de Missões Espaciais (ProSAME)."
+        },
+        {
+          "letra": "E",
+          "texto": "à Associação Brasileira de Normas Técnicas (ABNT)."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "agência espacial",
+        "missões espaciais",
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q25",
+      "numero": 25,
+      "enunciado_principal": "Com base na Lei n.º 14.946/2024, a autorização para voo de um veículo lançador civil em espaço aéreo brasileiro deverá ser expedida",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela Agência Nacional de Aviação Civil e pelo Exército Brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "pela Agência Espacial Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "D",
+          "texto": "pela Agência Espacial Brasileira e pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "E",
+          "texto": "pela Agência Nacional de Aviação Civil."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q26",
+      "numero": 26,
+      "enunciado_principal": "Em relação à propriedade intelectual e à transferência de tecnologia, julgue os seguintes itens, considerando a Lei da Propriedade Industrial. I\n\nTeorias científicas e métodos matemáticos podem ser\n\nconsiderados uma invenção, desde que sejam inéditos e nunca\n\ntenham sido publicados. II Para que uma patente seja concedida, a invenção necessita\n\natender aos requisitos de novidade, atividade inventiva e\n\naplicação industrial. III O memorial de cálculo é exigido durante o pedido de patentes\n\nperante o INPI. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "lei da propriedade",
+        "relação à propriedade",
+        "novidade atividade",
+        "atividade inventiva",
+        "aplicação industrial"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q27",
+      "numero": 27,
+      "enunciado_principal": "Um\n\ndos\n\neixos do\n\nPrograma\n\nNacional de\n\nAtividades Espaciais (PNAE) 2022-2031 consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "limitar a exploração privada de lançamentos de veículos espaciais a partir do território brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "estabelecer um percentual mínimo de investimento do orçamento da AEB para a manutenção do Programa Espacial Brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "fomentar o desenvolvimento de competências científica, tecnológica e de inovação para o setor espacial."
+        },
+        {
+          "letra": "D",
+          "texto": "estimular a abertura de novos programas de pós-graduação stricto sensu em sistemas espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "definir uma meta de lançamentos de satélites durante o intervalo do PNAE."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q28",
+      "numero": 28,
+      "enunciado_principal": "Acerca dos instrumentos de financiamento para a ciência, tecnologia e inovação, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Encomenda tecnológica é um mecanismo que obriga à administração pública a contratação de empresa para a realização de atividades de pesquisa e desenvolvimento."
+        },
+        {
+          "letra": "B",
+          "texto": "A concessão de bolsas é destinada a despertar vocações científicas e a incentivar talentos dentro de universidades, sendo vedada a pesquisadores da iniciativa privada."
+        },
+        {
+          "letra": "C",
+          "texto": "O empréstimo tem a finalidade de apoiar planos de investimentos estratégicos em inovação de empresas brasileiras, sendo o CNPq a principal entidade responsável pela utilização desse instrumento."
+        },
+        {
+          "letra": "D",
+          "texto": "A subvenção econômica permite a aplicação de recursos públicos reembolsáveis diretamente em empresas públicas ou privadas."
+        },
+        {
+          "letra": "E",
+          "texto": "A chamada Lei do Bem é um incentivo fiscal que estabelece mecanismos de benefícios para empresas que realizem investimentos em atividades de pesquisa, desenvolvimento e inovação."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "instrumentos de financiamento"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q29",
+      "numero": 29,
+      "enunciado_principal": "Em relação aos atores descritos na Política Nacional de Ciência, Tecnologia e Inovação (PNCTI), assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Câmara dos Deputados participa da PNCTI por meio de estruturas institucionais, como a Comissão Permanente de Ciência e Tecnologia, Comunicação e Informática."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as agências reguladoras são atores ativos da PNCTI, devido às obrigações de financiamento, impostas a empresas dos setores regulados, oriundas das chamadas cláusulas de pesquisa, desenvolvimento e inovação."
+        },
+        {
+          "letra": "C",
+          "texto": "O CNPq é agência ligada ao Ministério da Educação (MEC) e tem como uma das principais atribuições fomentar a pesquisa científica e tecnológica e incentivar a formação de pesquisadores brasileiros."
+        },
+        {
+          "letra": "D",
+          "texto": "Conforme a PNCTI, o sistema de ciência, tecnologia e inovação possui atores somente no âmbito federal, excluídos os níveis estaduais e municipais."
+        },
+        {
+          "letra": "E",
+          "texto": "Na PNCTI, somente exercem papel como atores as entidades do poder executivo, que efetuam, entre outras atividades, o controle das políticas governamentais."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q32",
+      "numero": 32,
+      "enunciado_principal": "No que se refere à análise das estratégias e dos resultados das políticas públicas, é correto afirmar que a corrente teórica neoinstitucionalista",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "negligencia o papel das instituições na análise das políticas públicas, concentrando-se exclusivamente nos aspectos econômicos e nas relações de poder entre os atores sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "foca exclusivamente os grupos de interesse e as demandas da sociedade civil como determinantes das políticas públicas, em contraposição ao papel do Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "prioriza a análise do Estado como um ator neutro que busca conciliar os interesses diversos da sociedade, desde sua origem, sem considerar a influência das instituições."
+        },
+        {
+          "letra": "D",
+          "texto": "baseia-se em uma perspectiva marxista, considerando as políticas públicas reflexo dos interesses do capital e da luta de classes, sem levar em conta a autonomia do Estado."
+        },
+        {
+          "letra": "E",
+          "texto": "focava inicialmente o Estado como o principal agente na formulação de políticas (state-centered), tendo evoluído para uma abordagem que prevê um equilíbrio entre o papel do Estado e o da sociedade (polity-centered) na formulação dessas políticas."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "análise das estratégias"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q33",
+      "numero": 33,
+      "enunciado_principal": "Assinale a opção correta no que diz respeito aos modelos de tomada de decisão em políticas públicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O modelo racional é aplicável apenas em contextos de certeza, ao passo que o incremental é mais flexível e adaptável; o chamado modelo da lata de lixo combina elementos de ambos, com foco na interação entre problemas e soluções."
+        },
+        {
+          "letra": "B",
+          "texto": "O modelo racional é baseado em negociações e compromissos, ao passo que o incremental foca a maximização dos objetivos com base em informações precisas; o chamado modelo da lata de lixo prioriza a convergência de problemas e soluções."
+        },
+        {
+          "letra": "C",
+          "texto": "O modelo racional é focado em decisões técnicas, ao passo que o incremental prioriza aspectos políticos; o chamado modelo da lata de lixo é uma variante do incremental, mas com maior ênfase nas instituições."
+        },
+        {
+          "letra": "D",
+          "texto": "O modelo racional busca maximizar os objetivos com base em informações precisas, ao passo que o incremental envolve negociações e compromissos; o chamado modelo da lata de lixo é similar ao incremental, mas com foco em ambiguidades."
+        },
+        {
+          "letra": "E",
+          "texto": "O modelo racional avalia todas as alternativas possíveis para maximizar os objetivos, ao passo que o incremental envolve mudanças graduais por meio de negociações; o chamado modelo da lata de lixo caracteriza-se pela busca de soluções para problemas mal definidos."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q34",
+      "numero": 34,
+      "enunciado_principal": "Constitui exemplo de política pública redistributiva",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a concessão de subsídios para empresas que contratem jovens aprendizes, com vistas ao aumento da empregabilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "a implementação de um sistema de saúde universal que ofereça atendimento gratuito a todos os cidadãos, independentemente da renda."
+        },
+        {
+          "letra": "C",
+          "texto": "a criação de um programa de isenção de impostos para pessoas com renda inferior a determinado limite, de forma a permitir que esses indivíduos tenham maior poder de compra."
+        },
+        {
+          "letra": "D",
+          "texto": "o financiamento de projetos culturais que visem promover a diversidade e a inclusão social em comunidades carentes."
+        },
+        {
+          "letra": "E",
+          "texto": "a construção de estradas e infraestrutura que beneficiem a população em geral, sem foco em grupos específicos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q37",
+      "numero": 37,
+      "enunciado_principal": "De acordo com a Lei n.º 14.133/2021, se um órgão público decidir contratar diretamente profissional do setor artístico que seja consagrado pela opinião pública, a licitação será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dispensável."
+        },
+        {
+          "letra": "B",
+          "texto": "obrigatória, na modalidade diálogo competitivo."
+        },
+        {
+          "letra": "C",
+          "texto": "dispensada."
+        },
+        {
+          "letra": "D",
+          "texto": "obrigatória, na modalidade concurso."
+        },
+        {
+          "letra": "E",
+          "texto": "inexigível."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "órgão público",
+        "opinião pública"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q38",
+      "numero": 38,
+      "enunciado_principal": "Nos termos na Lei n.º 11.079/2004, é vedada a celebração de contrato de parceria público-privada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cujo edital inverta a ordem das fases de habilitação e julgamento."
+        },
+        {
+          "letra": "B",
+          "texto": "em que a contraprestação da administração pública seja feita por cessão de créditos não tributários."
+        },
+        {
+          "letra": "C",
+          "texto": "cujo valor seja igual a R$ 20.000.000."
+        },
+        {
+          "letra": "D",
+          "texto": "cujo período de prestação do serviço seja de 2 anos."
+        },
+        {
+          "letra": "E",
+          "texto": "em que a contraprestação da administração pública seja feita por ordem bancária."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "celebração de contrato"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q39",
+      "numero": 39,
+      "enunciado_principal": "Suponha que dois atos administrativos tenham sido extintos: o primeiro, por razões de oportunidade e conveniência, e o segundo, por razões de ilegalidade. Nessa situação hipotética, houve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a anulação do primeiro ato e a invalidação do segundo."
+        },
+        {
+          "letra": "B",
+          "texto": "a revogação do primeiro ato e a invalidação do segundo."
+        },
+        {
+          "letra": "C",
+          "texto": "a anulação do primeiro ato e a revogação do segundo."
+        },
+        {
+          "letra": "D",
+          "texto": "a revogação do primeiro e do segundo atos."
+        },
+        {
+          "letra": "E",
+          "texto": "a invalidação do primeiro ato e a anulação do segundo."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "primeiro por razões",
+        "razões de ilegalidade",
+        "razões de oportunidade"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q40",
+      "numero": 40,
+      "enunciado_principal": "Assinale a opção em que é corretamente apresentada entidade que é criada por lei, tem personalidade jurídica de direito público, tem capacidade de autoadministração, tem fins ou atividades especializados e está sujeita a controle ou tutela.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "empresa pública"
+        },
+        {
+          "letra": "B",
+          "texto": "autarquia"
+        },
+        {
+          "letra": "C",
+          "texto": "fundação pública de direito público"
+        },
+        {
+          "letra": "D",
+          "texto": "fundação pública de direito privado"
+        },
+        {
+          "letra": "E",
+          "texto": "sociedade de economia mista"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "direito público",
+        "capacidade de autoadministração",
+        "personalidade jurídica de direito"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q41",
+      "numero": 41,
+      "enunciado_principal": "De acordo com o art. 5.º, inciso XIII, da Constituição Federal de 1988, “é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer”. Essa norma constitucional é considerada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ilimitada."
+        },
+        {
+          "letra": "B",
+          "texto": "programática."
+        },
+        {
+          "letra": "C",
+          "texto": "de eficácia limitada."
+        },
+        {
+          "letra": "D",
+          "texto": "de eficácia plena."
+        },
+        {
+          "letra": "E",
+          "texto": "de eficácia contida."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "constituição federal",
+        "qualificações profissionais"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q42",
+      "numero": 42,
+      "enunciado_principal": "Lucas, filho de um uruguaio e de uma argentina, nasceu no Brasil, no estado do Rio de Janeiro, enquanto sua mãe estava no País a serviço da Argentina. Pedro, filho de casal de brasileiros, nasceu no México, onde seus pais estavam a serviço do Brasil. Marcos, por sua vez, filho de casal de brasileiros, nasceu no Paraguai durante uma viagem a passeio de seus pais, tendo sido registrado em repartição brasileira competente no local de nascimento. Nessas situações, segundo a Constituição Federal de 1988, será(ão) considerado(s) brasileiro(s) nato(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pedro, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "Lucas, Pedro e Marcos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pedro e Marcos, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "Lucas e Pedro, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "Lucas e Marcos, apenas."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "repartição brasileira",
+        "constituição federal",
+        "brasileira competente"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q44",
+      "numero": 44,
+      "enunciado_principal": "Assinale a opção em que é corretamente apresentado direito dos trabalhadores urbanos e rurais que, conforme a CF, também se aplica aos servidores ocupantes de cargo público.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fundo de garantia do tempo de serviço"
+        },
+        {
+          "letra": "B",
+          "texto": "seguro-desemprego"
+        },
+        {
+          "letra": "C",
+          "texto": "repouso semanal remunerado"
+        },
+        {
+          "letra": "D",
+          "texto": "irredutibilidade do salário"
+        },
+        {
+          "letra": "E",
+          "texto": "proteção do salário na forma da lei"
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "direito dos trabalhadores urbanos"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q45",
+      "numero": 45,
+      "enunciado_principal": "De acordo com a CF, é inelegível o indivíduo que I\n\nseja estrangeiro. II seja analfabeto. III seja conscrito e esteja prestando serviço militar obrigatório. IV tenha 75 anos de idade. Estão certos os itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q46",
+      "numero": 46,
+      "enunciado_principal": "Acerca de estrutura e estratégia organizacionais, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma estrutura com baixa amplitude administrativa possui custos administrativos maiores, pela necessidade de haver mais chefes para menos subordinados."
+        },
+        {
+          "letra": "B",
+          "texto": "Na estrutura linear, cada subordinado reporta-se a vários chefes, cada um deles na sua área de atuação, não havendo, portanto, unidade de comando."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada organização possui uma estrutura formal, representada por um organograma, e uma estrutura informal, que se estabelece de forma espontânea e que se extingue com o tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "As estruturas organizacionais possuem os mesmos graus de centralização e descentralização."
+        },
+        {
+          "letra": "E",
+          "texto": "À medida que se sobe na estrutura organizacional, eleva-se a amplitude de controle."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q49",
+      "numero": 49,
+      "enunciado_principal": "Os indicadores de acompanhamento e avaliação devem estar alinhados aos objetivos e metas da organização ou do projeto, de modo a garantir o fornecimento de informações úteis para a tomada de decisões. Tal característica refere-se à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comparabilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "ação."
+        },
+        {
+          "letra": "C",
+          "texto": "relevância."
+        },
+        {
+          "letra": "D",
+          "texto": "clareza."
+        },
+        {
+          "letra": "E",
+          "texto": "mensurabilidade."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "fornecimento de informações úteis"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q50",
+      "numero": 50,
+      "enunciado_principal": "Conforme a Lei Geral de Proteção de Dados Pessoais, nas atividades de tratamento de dados pessoais deve-se observar o princípio da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prevenção, que é a adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais."
+        },
+        {
+          "letra": "B",
+          "texto": "transparência, que se traduz na compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento."
+        },
+        {
+          "letra": "C",
+          "texto": "adequação, consubstanciado na realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular."
+        },
+        {
+          "letra": "D",
+          "texto": "segurança, que consiste na impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos."
+        },
+        {
+          "letra": "E",
+          "texto": "finalidade, que garante, aos titulares, consulta facilitada e gratuita sobre a forma e a duração do tratamento."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "atividades de tratamento",
+        "lei geral de proteção"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q51",
+      "numero": 51,
+      "enunciado_principal": "Considerando a relação entre orçamento e política fiscal, julgue os itens a seguir. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "política fiscal pode contribuir para a manutenção de elevado nível de emprego por meio de incentivos governamentais. II A estabilidade nos níveis de preços pode ser influenciada pela política fiscal, especialmente por meio da gestão orçamentária dos gastos e receitas públicas. III A política fiscal influencia de forma direta a administração da taxa de câmbio, por meio da execução orçamentária e do equilíbrio fiscal. Assinale a opção correta."
+        },
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q53",
+      "numero": 53,
+      "enunciado_principal": "O plano plurianual, as diretrizes orçamentárias e os orçamentos anuais são estabelecidos em leis de iniciativa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da Câmara dos Deputados."
+        },
+        {
+          "letra": "B",
+          "texto": "do Tribunal de Contas da União."
+        },
+        {
+          "letra": "C",
+          "texto": "do Poder Legislativo."
+        },
+        {
+          "letra": "D",
+          "texto": "do Poder Executivo."
+        },
+        {
+          "letra": "E",
+          "texto": "do Senado Federal."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "orçamentos anuais"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q55",
+      "numero": 55,
+      "enunciado_principal": "Instituído pela Lei Complementar n.º 200/2023, o regime fiscal sustentável (RFS)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabelece que o crescimento real dos limites da despesa primária poderá variar de 0,6% a 2,5% ao ano."
+        },
+        {
+          "letra": "B",
+          "texto": "tem como único objetivo a manutenção de superávit primário em todos os exercícios financeiros."
+        },
+        {
+          "letra": "C",
+          "texto": "estabelece um limite fixo e inalterável para as despesas primárias do governo."
+        },
+        {
+          "letra": "D",
+          "texto": "permite o crescimento ilimitado das despesas públicas caso a arrecadação supere as metas estabelecidas."
+        },
+        {
+          "letra": "E",
+          "texto": "prevê que o equilíbrio das contas públicas seja automaticamente mantido por meio da arrecadação tributária e do crescimento econômico, o que dispensa a necessidade de ajustes fiscais."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "lei complementar"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q57",
+      "numero": 57,
+      "enunciado_principal": "Acerca do ciclo de vida e da organização de projetos, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando a curva de potencial de adição de valor é inferior à de custos de correção, tem-se o cenário ideal para a intervenção construtiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Quanto mais o projeto se desenvolve, maior é a sua capacidade de adequação."
+        },
+        {
+          "letra": "C",
+          "texto": "As características do projeto tendem a permanecer constantes com a conclusão de cada uma de suas fases."
+        },
+        {
+          "letra": "D",
+          "texto": "A incerteza relativa aos prazos e custos do projeto cresce com o término de cada fase sua."
+        },
+        {
+          "letra": "E",
+          "texto": "O ciclo de vida do projeto é geralmente caracterizado por um início lento, seguido de um processo acelerado até atingir um pico, e, depois, uma desaceleração até o término."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "organização de projetos assinale"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q59",
+      "numero": 59,
+      "enunciado_principal": "No que se refere a ferramentas e técnicas de gerenciamento de projetos, aquela que ajuda a melhorar a eficiência e a produtividade do projeto; baseia-se na limitação do trabalho em andamento e na colaboração em tempo real; e utiliza cartões organizados em colunas, os quais representam os diferentes estágios do fluxo de trabalho, é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Kanban."
+        },
+        {
+          "letra": "B",
+          "texto": "Scrum."
+        },
+        {
+          "letra": "C",
+          "texto": "diagrama de Ishikawa."
+        },
+        {
+          "letra": "D",
+          "texto": "gráfico de Gantt."
+        },
+        {
+          "letra": "E",
+          "texto": "Design Thinking."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "produtividade do projeto",
+        "gerenciamento de projetos",
+        "limitação do trabalho"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-2-Conhecimentos-Especificos-q60",
+      "numero": 60,
+      "enunciado_principal": "Em relação a escritórios de projetos (EPs) nas organizações, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os EPs têm como objetivo prioritário suportar os projetos, visando aumentar o nível de maturidade organizacional e, assim, aumentar a taxa de sucesso desses projetos."
+        },
+        {
+          "letra": "B",
+          "texto": "O crescimento do interesse pelos EPs é decorrente da existência de padrão para reportar desempenho de projetos distintos e da sobrecarga de gestores."
+        },
+        {
+          "letra": "C",
+          "texto": "Os EPs são responsáveis pela asseguração dos recursos financeiros necessários ao desenvolvimento dos projetos, bem como pelo gerenciamento de cronogramas."
+        },
+        {
+          "letra": "D",
+          "texto": "Os EPs de controle assumem o gerenciamento direto dos projetos, de modo a garantir que as partes interessadas estejam bem informadas em relação às suas execuções."
+        },
+        {
+          "letra": "E",
+          "texto": "A constituição dos EPs atém-se à escolha do tipo de escritório a ser implementado e à obtenção de apoio necessário dos patrocinadores."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 2 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 2",
+      "keywords": [
+        "escritórios de projetos"
+      ],
+      "arquivo": "AEB-2024-Cargo-2-Conhecimentos-Especificos.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1397 @@
+{
+  "prova_id": "AEB-2024-Cargo-4",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargo 4",
+    "ano": "2024",
+    "orgao": "AEB",
+    "slug": "AEB_24",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/AEB_24",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_004_01.pdf"
+  },
+  "erros": [
+    "Q33: enunciado vazio",
+    "Q35: enunciado vazio",
+    "Q51: enunciado vazio",
+    "Q52: enunciado vazio"
+  ],
+  "total": 36,
+  "questoes": [
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q21",
+      "numero": 21,
+      "enunciado_principal": "Quando de sua criação, a Agência Espacial Brasileira (AEB), autarquia federal de natureza civil, era vinculada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Força Aérea Brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "ao Ministério da Defesa."
+        },
+        {
+          "letra": "C",
+          "texto": "ao Instituto Nacional de Pesquisas Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Ministério da Ciência, Tecnologia e Inovação."
+        },
+        {
+          "letra": "E",
+          "texto": "à Presidência da República."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "natureza civil",
+        "agência espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q22",
+      "numero": 22,
+      "enunciado_principal": "No que se refere à nova estrutura regimental da AEB, aprovada pelo Decreto n.º 11.192/2022, julgue os itens a seguir. I\n\nCompete à Diretoria de Assuntos Estratégicos acompanhar a\n\npolítica nacional de energia nuclear, e seus desdobramentos\n\nem objetivos e metas. II Compete à Diretoria de Gestão de Portfólio gerenciar os\n\ncontratos que, decorrentes de projetos em execução, sejam\n\nrelativos à transferência de tecnologias associadas a sistemas\n\nespaciais para o setor produtivo. III Compete à Diretoria de Inteligência Estratégica e Novos\n\nNegócios elaborar estudos estratégicos, em conjunto com as\n\nForças Armadas, para identificar ameaças internacionais no\n\nque se refere à utilização de armamento em ambiente espacial\n\npor outros países. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "utilização de armamento",
+        "gestão de portfólio",
+        "estrutura regimental",
+        "inteligência estratégica",
+        "transferência de tecnologias"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q23",
+      "numero": 23,
+      "enunciado_principal": "De acordo com o Decreto n.º 1.953/1996, os órgãos setoriais do Sistema Nacional de Desenvolvimento das Atividades Espaciais (SINDAE) são responsáveis por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizar estudos estratégicos de setores da economia para proposição e inclusão de novos projetos no Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "B",
+          "texto": "promover parcerias público-privadas para o desenvolvimento do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "elaborar e atualizar o Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "prover consultoria setorial ao órgão central para aconselhá-lo na execução do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "coordenar setores e executar ações do Programa Nacional de Atividades Espaciais."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "atividades espaciais",
+        "desenvolvimento das atividades"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q24",
+      "numero": 24,
+      "enunciado_principal": "Segundo o Programa Nacional de Atividades Espaciais (PNAE) 2022-2031, a Agência Espacial Brasileira (AEB) deve identificar continuamente propostas de missões espaciais que possam se submeter",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à ISO (International Organization for Standardization)."
+        },
+        {
+          "letra": "B",
+          "texto": "ao padrão NASA (National Aeronautics and Space Administration)."
+        },
+        {
+          "letra": "C",
+          "texto": "à European Cooperation for Space Standardization (ECSS)."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Procedimento para Seleção e Adoção de Missões Espaciais (ProSAME)."
+        },
+        {
+          "letra": "E",
+          "texto": "à Associação Brasileira de Normas Técnicas (ABNT)."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "agência espacial",
+        "missões espaciais",
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q25",
+      "numero": 25,
+      "enunciado_principal": "Com base na Lei n.º 14.946/2024, a autorização para voo de um veículo lançador civil em espaço aéreo brasileiro deverá ser expedida",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela Agência Nacional de Aviação Civil e pelo Exército Brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "pela Agência Espacial Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "D",
+          "texto": "pela Agência Espacial Brasileira e pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "E",
+          "texto": "pela Agência Nacional de Aviação Civil."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q26",
+      "numero": 26,
+      "enunciado_principal": "Acerca dos diagramas UML, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No diagrama de estados, uma transição entre dois estados só pode ocorrer se houver uma ação explícita associada a ela."
+        },
+        {
+          "letra": "B",
+          "texto": "Em um diagrama de implantação, a comunicação entre nós físicos deve ser representada exclusivamente por conexões diretas, sem permitir abstrações, como dependências lógicas ou protocolos de comunicação."
+        },
+        {
+          "letra": "C",
+          "texto": "O diagrama de atividades e o diagrama de sequência são equivalentes, pois ambos descrevem a troca de mensagens entre objetos ao longo do tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "O diagrama de sequência detalha a ordem temporal de execução de interações entre objetos, enquanto o diagrama de colaboração foca na organização estrutural dos objetos e suas relações em um contexto específico de interação."
+        },
+        {
+          "letra": "E",
+          "texto": "Em um diagrama de classes UML, uma classe de associação pode ser instanciada independentemente dos objetos relacionados, permitindo-se o gerenciamento isolado de seus atributos e operações como se fosse uma entidade autônoma."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q27",
+      "numero": 27,
+      "enunciado_principal": "Considere as seguintes situações, relativas a metodologias ágeis no contexto de desenvolvimento de software. I\n\nUma equipe organiza o trabalho em iterações fixas, com\n\neventos, como planejamento, reuniões diárias, revisão e\n\nretrospectiva, para promover a inspeção contínua e a\n\nadaptação dos processos. II Uma equipe busca a excelência técnica, adotando práticas\n\nrobustas de engenharia, como desenvolvimento orientado por\n\ntestes (TDD), programação em par e integração contínua,\n\ncom o objetivo de melhorar a qualidade do código. III Uma equipe gerencia o fluxo de trabalho por meio de\n\num quadro visual, estabelecendo limites para as tarefas em\n\nprogresso (WIP) e permitindo ajustes rápidos conforme\n\nsurgem gargalos. IV Uma equipe adota princípios que visam a eliminar\n\ndesperdícios e a otimizar os processos, focando na criação de\n\nvalor e na melhoria contínua dos métodos de trabalho. Assinale a opção em que estão associados corretamente cada um dos itens precedentes à sua respectiva metodologia ágil, na ordem em que foram citados.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Kanban, XP, Scrum, Lean"
+        },
+        {
+          "letra": "B",
+          "texto": "Scrum, XP, Kanban, Lean"
+        },
+        {
+          "letra": "C",
+          "texto": "XP, Scrum, Kanban, Lean"
+        },
+        {
+          "letra": "D",
+          "texto": "Scrum, Lean, XP, Kanban"
+        },
+        {
+          "letra": "E",
+          "texto": "Scrum, XP, Lean, Kanban"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "adaptação dos processos",
+        "diárias revisão",
+        "reuniões diárias",
+        "planejamento reuniões",
+        "qualidade do código"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q28",
+      "numero": 28,
+      "enunciado_principal": "Considerando os diferentes aspectos do ePING e a tecnologia na administração pública, julgue os itens a seguir. I\n\nO ePING define diretrizes para a segurança da informação,\n\nestabelecendo requisitos para autenticação, criptografia e\n\ncontrole de acessos em sistemas governamentais. II O ePING estabelece que os serviços web, inclusive APIs\n\nRESTful,\n\ndevem ser\n\nutilizados\n\npara garantir\n\na interoperabilidade entre sistemas de diferentes órgãos governamentais. III O ePING define padrões e especificações técnicas que devem\n\nser seguidos para garantir a integração de dados e serviços\n\ngovernamentais. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "administração pública",
+        "especificações técnicas"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q29",
+      "numero": 29,
+      "enunciado_principal": "Considere que uma agência espacial esteja desenvolvendo um software de controle de missão para um satélite de observação da Terra. Nesse contexto, assinale a opção que corresponde à técnica de elicitação de requisitos mais eficaz para garantir que a interface do usuário atenda às necessidades críticas de precisão, confiabilidade e usabilidade, especialmente em situações de alta pressão.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sessões de brainstorming com a equipe de desenvolvimento e especialistas em controle de missão para gerar ideias inovadoras sobre funcionalidades e design da interface"
+        },
+        {
+          "letra": "B",
+          "texto": "análise de extensos documentos de requisitos de softwares de controle de missão de satélites anteriores, priorizando-se a reutilização de funcionalidades comprovadas"
+        },
+        {
+          "letra": "C",
+          "texto": "aplicação de questionários detalhados, com perguntas técnicas sobre as preferências de leiaute e de organização de dados dos cientistas e engenheiros"
+        },
+        {
+          "letra": "D",
+          "texto": "criação de protótipos interativos de alta fidelidade da interface do usuário, que permitem que os cientistas e engenheiros simulem cenários de missão críticos e forneçam feedback detalhado a respeito da usabilidade e da precisão dos dados"
+        },
+        {
+          "letra": "E",
+          "texto": "realização de entrevistas formais com cientistas e engenheiros, focadas em suas experiências passadas com softwares de controle de missão e nos desafios enfrentados Espaço livre"
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "elicitação de requisitos",
+        "precisão confiabilidade",
+        "agência espacial",
+        "necessidades críticas de precisão"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q30",
+      "numero": 30,
+      "enunciado_principal": "Considere que, no banco de dados de certa agência espacial, existam as tabelas materiais e testes seguintes, que armazenam informações a respeito da resistência térmica e estrutural de materiais testados para aplicações aeroespaciais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "partir das informações precedentes, assinale a opção que corresponde à consulta SQL que, caso seja executada, retornará apenas materiais do tipo metal que foram testados, pelo menos, três vezes e foram aprovados, pelo menos, duas vezes."
+        },
+        {
+          "letra": "A",
+          "texto": "B"
+        },
+        {
+          "letra": "C",
+          "texto": "D"
+        },
+        {
+          "letra": "E",
+          "texto": "Espaço livre testes |+++++++++++++++++++++++++++++++++++++++++++| |id_teste|id_material|temp_max|pre_max|resul| |1 |101 |1200.5 |50 |1 | |2 |102 |950.0 |30 |0 | |3 |101 |1250.0 |55 |1 | |4 |103 |1000.0 |40 |1 | |5 |101 |1100.0 |45 |0 | |6 |102 |970.0 |35 |1 | |7 |101 |1300.0 |60 |1 | |+++++++++++++++++++++++++++++++++++++++++++| materiais |+++++++++++++++++++++++++++++++++++++++++++| |id_material|nome_material|tipo | |101 |titânio |metal | |102 |kevlar |polímero | |103 |carbono |composto | |+++++++++++++++++++++++++++++++++++++++++++| SELECT m.nome_material, COUNT(t.id_teste) AS total_testes, COUNT(t.resultado) AS total_aprovados FROM testes t JOIN materiais m ON t.id_material = m.id_material WHERE m.tipo = 'Metal' GROUP BY m.nome_material HAVING total_testes >= 3 AND total_aprovados >= 2; SELECT nome_material FROM materiais WHERE tipo = 'Metal' GROUP BY nome_material HAVING COUNT(*) >= 3 AND COUNT(CASE WHEN resultado = 'Aprovado' THEN 1 END) >= 2; SELECT m.nome_material, COUNT(t.id_teste) AS total_testes, SUM(CASE WHEN t.resultado = 'Aprovado' THEN 1 ELSE 0 END) AS total_aprovados FROM testes t JOIN materiais m ON t.id_material = m.id_material WHERE m.tipo = 'Metal' GROUP BY m.nome_material HAVING COUNT(t.id_teste) >= 3 AND SUM(CASE WHEN t.resultado = 'Aprovado' THEN 1 ELSE 0 END) >= 2; SELECT m.nome_material, COUNT(t.id_teste) AS total_testes FROM testes t JOIN materiais m ON t.id_material = m.id_material WHERE m.tipo = 'Metal' GROUP BY m.nome_material HAVING COUNT(*) >= 3; SELECT m.nome_material, COUNT(*) AS total_testes FROM materiais m JOIN testes t ON m.id_material = t.id_material GROUP BY m.nome_material HAVING COUNT(*) >= 3 and m.tipo = 'Metal' AND t.resultado = 'Aprovado';"
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "agência espacial",
+        "resistência térmica",
+        "aplicações aeroespaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q31",
+      "numero": 31,
+      "enunciado_principal": "No contexto da mineração de dados, diferentes algoritmos são utilizados\n\npara\n\nsolucionar problemas\n\nespecíficos, como segmentação de dados, descoberta de padrões e construção de modelos\n\npreditivos. Considerando\n\nos métodos\n\nApriori, FP-Growth, k-means e árvores de decisão, assinale a opção que corresponde à descrição correta do funcionamento de um desses algoritmos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Apriori gera padrões frequentes analisando apenas pares de itens, sem a necessidade de avaliar conjuntos de itens maiores ao longo do processo."
+        },
+        {
+          "letra": "B",
+          "texto": "O algoritmo FP-Growth é amplamente utilizado para descoberta de padrões frequentes em grandes bases de dados, sendo uma alternativa eficiente ao Apriori ao evitar a geração de candidatos."
+        },
+        {
+          "letra": "C",
+          "texto": "O k-means automaticamente determina o número ideal de clusters com base na densidade dos dados, sem necessidade de parametrização prévia."
+        },
+        {
+          "letra": "D",
+          "texto": "O k-means é um algoritmo de agrupamento que pode identificar clusters de formatos arbitrários e é robusto contra outliers, sendo adequado para dados com distribuições não esféricas."
+        },
+        {
+          "letra": "E",
+          "texto": "A árvore de decisão é insensível a ruídos, sendo capaz de generalizar bem para novos dados, independentemente da qualidade do conjunto de treinamento."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "construção de modelos",
+        "descrição correta do funcionamento"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q32",
+      "numero": 32,
+      "enunciado_principal": "Considerando\n\nos possíveis\n\nusos de\n\nsoluções\n\nde BI (business intelligence) em uma agência espacial, julgue os próximos itens. I\n\nFerramentas de BI permitem a análise de grandes volumes de\n\ndados provenientes de sensores e satélites, auxiliando na\n\nprevisão de fenômenos espaciais e na otimização de missões. II O BI limita-se ao uso de dashboards para visualização de\n\ndados, sem impacto na modelagem preditiva ou em decisões\n\nestratégicas para exploração espacial. III As ferramentas de BI em uma agência espacial operam\n\nexclusivamente em redes locais, sem integração com sistemas\n\nde Big Data e computação em nuvem. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "otimização de missões",
+        "análise de grandes",
+        "previsão de fenômenos",
+        "agência espacial",
+        "modelagem preditiva"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q34",
+      "numero": 34,
+      "enunciado_principal": "Acerca do ciclo de vida e da organização de projetos, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quanto mais o projeto se desenvolve, maior é a sua capacidade de adequação."
+        },
+        {
+          "letra": "B",
+          "texto": "Quando a curva de potencial de adição de valor é inferior à de custos de correção, tem-se o cenário ideal para a intervenção construtiva."
+        },
+        {
+          "letra": "C",
+          "texto": "As características do projeto tendem a permanecer constantes com a conclusão de cada uma de suas fases."
+        },
+        {
+          "letra": "D",
+          "texto": "A incerteza relativa aos prazos e custos do projeto cresce com o término de cada fase sua."
+        },
+        {
+          "letra": "E",
+          "texto": "O ciclo de vida do projeto é geralmente caracterizado por um início lento, seguido de um processo acelerado até atingir um pico, e, depois, uma desaceleração até o término."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "organização de projetos assinale"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q36",
+      "numero": 36,
+      "enunciado_principal": "No que se refere a ferramentas e técnicas de gerenciamento de projetos, aquela que ajuda a melhorar a eficiência e a produtividade do projeto; baseia-se na limitação do trabalho em andamento e na colaboração em tempo real; e utiliza cartões organizados em colunas, os quais representam os diferentes estágios do fluxo de trabalho, é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Kanban."
+        },
+        {
+          "letra": "B",
+          "texto": "Scrum."
+        },
+        {
+          "letra": "C",
+          "texto": "diagrama de Ishikawa."
+        },
+        {
+          "letra": "D",
+          "texto": "gráfico de Gantt."
+        },
+        {
+          "letra": "E",
+          "texto": "Design Thinking."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "produtividade do projeto",
+        "gerenciamento de projetos",
+        "limitação do trabalho"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q37",
+      "numero": 37,
+      "enunciado_principal": "Em relação a escritórios de projetos (EPs) nas organizações, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A constituição dos EPs atém-se à escolha do tipo de escritório a ser implementado e à obtenção de apoio necessário dos patrocinadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Os EPs de controle assumem o gerenciamento direto dos projetos, de modo a garantir que as partes interessadas estejam bem informadas em relação às suas execuções."
+        },
+        {
+          "letra": "C",
+          "texto": "Os EPs têm como objetivo prioritário suportar os projetos, visando aumentar o nível de maturidade organizacional e, assim, aumentar a taxa de sucesso desses projetos."
+        },
+        {
+          "letra": "D",
+          "texto": "O crescimento do interesse pelos EPs é decorrente da existência de padrão para reportar desempenho de projetos distintos e da sobrecarga de gestores."
+        },
+        {
+          "letra": "E",
+          "texto": "Os EPs são responsáveis pela asseguração dos recursos financeiros necessários ao desenvolvimento dos projetos, bem como pelo gerenciamento de cronogramas."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "escritórios de projetos"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q38",
+      "numero": 38,
+      "enunciado_principal": "Acerca da gestão de programas e da gestão de portfólio de projetos nas organizações, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O planejamento de programa de projetos se dá a partir dos níveis mais baixos, que levarão aos arranjos mais detalhados."
+        },
+        {
+          "letra": "B",
+          "texto": "O sucesso do portfólio é medido de acordo com o atendimento das necessidades e dos benefícios esperados em sua alçada."
+        },
+        {
+          "letra": "C",
+          "texto": "O interesse na estruturação do programa de projetos se insere na esfera operacional da organização."
+        },
+        {
+          "letra": "D",
+          "texto": "O portfólio é um conjunto de projetos, programas e outros esforços que são agrupados para facilitar o atingimento dos objetivos estratégicos da organização."
+        },
+        {
+          "letra": "E",
+          "texto": "As mudanças no portfólio são ajustadas mais em função das necessidades do gestor do que em função das demandas do mercado."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "gestão de programas",
+        "gestão de portfólio de projetos"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q39",
+      "numero": 39,
+      "enunciado_principal": "Determinado atributo de indicadores permite a construção de séries históricas devido à integridade em relação a fatores externos ou outras variáveis, possibilitando o acompanhamento das especificidades do projeto que foram selecionadas para monitoramento. Trata-se do atributo denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representatividade."
+        },
+        {
+          "letra": "B",
+          "texto": "disponibilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "sensibilidade."
+        },
+        {
+          "letra": "D",
+          "texto": "tempestividade."
+        },
+        {
+          "letra": "E",
+          "texto": "estabilidade."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "especificidades do projeto",
+        "acompanhamento das especificidades",
+        "construção de séries históricas"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q40",
+      "numero": 40,
+      "enunciado_principal": "Assinale a opção que corresponde à camada que tem a função de decidir qual rota uma mensagem deve seguir para chegar ao seu destino.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de aplicação"
+        },
+        {
+          "letra": "B",
+          "texto": "física"
+        },
+        {
+          "letra": "C",
+          "texto": "de enlace"
+        },
+        {
+          "letra": "D",
+          "texto": "de transporte"
+        },
+        {
+          "letra": "E",
+          "texto": "de rede"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "função de decidir"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q41",
+      "numero": 41,
+      "enunciado_principal": "O firewall do tipo bridge, também conhecido como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "NAT firewall, é capaz de inspecionar, filtrar e mover pacotes de rede entre interfaces."
+        },
+        {
+          "letra": "B",
+          "texto": "firewall transparente, é capaz de inspecionar, filtrar e mover quadros de rede entre interfaces."
+        },
+        {
+          "letra": "C",
+          "texto": "IP firewall, é capaz de inspecionar, filtrar e mover pacotes de rede entre interfaces."
+        },
+        {
+          "letra": "D",
+          "texto": "firewall de transporte, é capaz de inspecionar, filtrar e mover pacotes de rede entre interfaces."
+        },
+        {
+          "letra": "E",
+          "texto": "firewall de aplicação, é capaz de inspecionar, filtrar e mover dados da aplicação."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q42",
+      "numero": 42,
+      "enunciado_principal": "Assinale a opção em que está citada corretamente uma mensagem enviada de um dispositivo de rede para um sistema de gerenciamento SNMP.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SNMP down"
+        },
+        {
+          "letra": "B",
+          "texto": "SNMP trap"
+        },
+        {
+          "letra": "C",
+          "texto": "SNMP get"
+        },
+        {
+          "letra": "D",
+          "texto": "SNMP put"
+        },
+        {
+          "letra": "E",
+          "texto": "SNMP read"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q43",
+      "numero": 43,
+      "enunciado_principal": "Assinale a opção que corresponde a um algoritmo de prevenção de deadlocks.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "banker’s algorithm (algoritmo do banqueiro)"
+        },
+        {
+          "letra": "B",
+          "texto": "token bucket algorithm (algoritmo balde de tokens)"
+        },
+        {
+          "letra": "C",
+          "texto": "Dijkstra’s algorithm (algoritmo Dijkstra)"
+        },
+        {
+          "letra": "D",
+          "texto": "Bellman–Ford algorithm (algoritmo Bellman-Ford)"
+        },
+        {
+          "letra": "E",
+          "texto": "Viterbi algorithm (algoritmo Viterbi)"
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "prevenção de deadlocks"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q44",
+      "numero": 44,
+      "enunciado_principal": "Assinale a opção em que está apresentado o método de gerenciamento de memória no qual cada processo recebe um único bloco contínuo de memória, o que faz com que todos os dados de um processo sejam armazenados em locais de memória adjacentes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fragmentation"
+        },
+        {
+          "letra": "B",
+          "texto": "partition table"
+        },
+        {
+          "letra": "C",
+          "texto": "contiguous memory allocation"
+        },
+        {
+          "letra": "D",
+          "texto": "dynamic partition allocation"
+        },
+        {
+          "letra": "E",
+          "texto": "swapping"
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "gerenciamento de memória",
+        "memória adjacentes"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q45",
+      "numero": 45,
+      "enunciado_principal": "O sistema-padrão de arquivos para o sistema operacional Windows 11 é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "EXT4."
+        },
+        {
+          "letra": "B",
+          "texto": "RAID5."
+        },
+        {
+          "letra": "C",
+          "texto": "FAT."
+        },
+        {
+          "letra": "D",
+          "texto": "FAT32."
+        },
+        {
+          "letra": "E",
+          "texto": "NTFS."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "padrão de arquivos"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q46",
+      "numero": 46,
+      "enunciado_principal": "Assinale a opção que corresponde ao papel executado pelo servidor representante da área administrativa, indicado pela autoridade competente dessa área para fiscalizar o contrato quanto aos aspectos administrativos, segundo a Instrução Normativa SGD/ME n.º 94/2022.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fiscal administrativo do contrato"
+        },
+        {
+          "letra": "B",
+          "texto": "fiscal técnico do contrato"
+        },
+        {
+          "letra": "C",
+          "texto": "gestor do contrato"
+        },
+        {
+          "letra": "D",
+          "texto": "fiscal setorial do contrato"
+        },
+        {
+          "letra": "E",
+          "texto": "preposto"
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "instrução normativa",
+        "autoridade competente"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q47",
+      "numero": 47,
+      "enunciado_principal": "Assinale a opção que apresenta perspectivas consideradas originais do BSC (balanced scorecard).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SMART e processos internos"
+        },
+        {
+          "letra": "B",
+          "texto": "KPI e processos internos"
+        },
+        {
+          "letra": "C",
+          "texto": "clientes e processos internos"
+        },
+        {
+          "letra": "D",
+          "texto": "finanças e SMART"
+        },
+        {
+          "letra": "E",
+          "texto": "clientes e KPI"
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q48",
+      "numero": 48,
+      "enunciado_principal": "O framework COBIT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "requer modificação estrutural de redes e sistemas de informação, porque domínios preconizados requerem o uso de ERP (Enterprise Resouce Planning) interligado à NBR/ISO."
+        },
+        {
+          "letra": "B",
+          "texto": "trabalha com o uso de processos que cobrem controles em domínios para gerenciamento aplicado à TI."
+        },
+        {
+          "letra": "C",
+          "texto": "é restrito à aplicação de controles voltados ao negócio de cadeia de suprimento para TI."
+        },
+        {
+          "letra": "D",
+          "texto": "implementa uma quantidade ilimitada de domínios de conhecimento relativos a processos aplicados à TI."
+        },
+        {
+          "letra": "E",
+          "texto": "modifica o conceito de TI e deixa claro que processos aplicados ao negócio são gerenciados pelas normas da NBR/ISO."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q49",
+      "numero": 49,
+      "enunciado_principal": "Assinale a opção cuja sigla corresponde a uma notação gráfica utilizada para a modelagem de processos de negócio.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SIPOC"
+        },
+        {
+          "letra": "B",
+          "texto": "XML"
+        },
+        {
+          "letra": "C",
+          "texto": "SWOT"
+        },
+        {
+          "letra": "D",
+          "texto": "GUT"
+        },
+        {
+          "letra": "E",
+          "texto": "BPMN"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "modelagem de processos",
+        "processos de negócio",
+        "notação gráfica"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q50",
+      "numero": 50,
+      "enunciado_principal": "Em uma organização, o plano diretor de tecnologia da informação e comunicação (PDTIC) deve estar alinhado ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "processo de resposta a incidente."
+        },
+        {
+          "letra": "B",
+          "texto": "plano estratégico de TI."
+        },
+        {
+          "letra": "C",
+          "texto": "ciclo PDCA (plan-do-check-act)."
+        },
+        {
+          "letra": "D",
+          "texto": "método 5W2H."
+        },
+        {
+          "letra": "E",
+          "texto": "modelo de acessibilidade em governo eletrônico."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q53",
+      "numero": 53,
+      "enunciado_principal": "Julgue os itens a seguir, considerando as dimensões do gerenciamento de serviços do ITIL 4. I\n\nDe acordo com a dimensão informação e tecnologia, em\n\numa organização, a área de tecnologia deve apoiar a gestão de\n\nserviços, mas os dados que ela processa são de\n\nresponsabilidade da área de gestão da informação, não da\n\nárea de tecnologia. II A dimensão organizações e pessoas justifica a implantação do\n\nmodelo PESTLE para analisar os fatores externos à\n\norganização, e é oriundo de outras dimensões, tais como\n\npolítica, economia, sociedade, tecnologia, marcos legais e\n\nquestões ecológicas. III A dimensão parceiros e fornecedores prevê a integração de\n\nserviços de fornecedores e parceiros da organização, para\n\ngarantir\n\nque os\n\nrelacionamentos de\n\nserviço\n\nsejam coordenados adequadamente. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "gestão da informação",
+        "dimensões do gerenciamento",
+        "dimensão informação",
+        "dimensão organizações",
+        "gerenciamento de serviços"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q54",
+      "numero": 54,
+      "enunciado_principal": "Assinale a opção que corresponde a um ataque que se caracteriza pela inundação de um recurso de rede para torná-lo lento ou inacessível para usuários legítimos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "phishing"
+        },
+        {
+          "letra": "B",
+          "texto": "negação de serviço"
+        },
+        {
+          "letra": "C",
+          "texto": "ransoware"
+        },
+        {
+          "letra": "D",
+          "texto": "XSS"
+        },
+        {
+          "letra": "E",
+          "texto": "SQL injection"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q55",
+      "numero": 55,
+      "enunciado_principal": "Em certo sistema, existe um firewall de rede entre um usuário comum e outros serviços de rede. Um usuário desse sistema executou\n\numa consulta\n\ncom o\n\ncomando nslookup prova.org.br. Nessa situação hipotética, para que o comando seja executado com sucesso, o administrador do sistema deve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impedir que o tráfego com os protocolos TCP e(ou) UDP alcance a porta 80 para o servidor prova.org.br."
+        },
+        {
+          "letra": "B",
+          "texto": "permitir que o tráfego com os protocolos ICMP alcance a porta 53 para o servidor prova.org.br."
+        },
+        {
+          "letra": "C",
+          "texto": "permitir que o tráfego com os protocolos TCP e(ou) UDP alcance a porta 53 para o servidor DNS correspondente na rede em questão."
+        },
+        {
+          "letra": "D",
+          "texto": "impedir que o tráfego com os protocolos TCP e(ou) UDP alcance a porta 53 para o servidor DNS correspondente na rede em questão."
+        },
+        {
+          "letra": "E",
+          "texto": "permitir que o tráfego com os protocolos TCP e(ou) UDP alcance a porta 80 para o servidor prova.org.br."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q56",
+      "numero": 56,
+      "enunciado_principal": "Assinale a opção que corresponde a dois sistemas detectores de intrusão que são de código aberto e que estão disponíveis na Internet.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SNORT e SURICATA"
+        },
+        {
+          "letra": "B",
+          "texto": "SNORT e PFSENSE"
+        },
+        {
+          "letra": "C",
+          "texto": "SURICATA e PFSENSE"
+        },
+        {
+          "letra": "D",
+          "texto": "SURICATA e IPTABLES"
+        },
+        {
+          "letra": "E",
+          "texto": "SNORT e IPTABLES"
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "estão disponíveis"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q57",
+      "numero": 57,
+      "enunciado_principal": "Um protocolo de autenticação que utiliza JSON Web Token (JWT) é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "LDAP."
+        },
+        {
+          "letra": "B",
+          "texto": "SSO."
+        },
+        {
+          "letra": "C",
+          "texto": "FIDO."
+        },
+        {
+          "letra": "D",
+          "texto": "NTLM."
+        },
+        {
+          "letra": "E",
+          "texto": "OPENID."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q58",
+      "numero": 58,
+      "enunciado_principal": "Assinale a opção em que está apresentado corretamente o tipo de cifra de chave simétrica no qual os dígitos de texto simples são combinados com um fluxo de dígitos cifrados pseudoaleatórios.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cifra de fluxo"
+        },
+        {
+          "letra": "B",
+          "texto": "one time pad"
+        },
+        {
+          "letra": "C",
+          "texto": "chave pública"
+        },
+        {
+          "letra": "D",
+          "texto": "curva elíptica"
+        },
+        {
+          "letra": "E",
+          "texto": "digestor de mensagem"
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q59",
+      "numero": 59,
+      "enunciado_principal": "O padrão utilizado para certificados digitais com chave pública é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "IETF."
+        },
+        {
+          "letra": "B",
+          "texto": "X.509."
+        },
+        {
+          "letra": "C",
+          "texto": "BASE64."
+        },
+        {
+          "letra": "D",
+          "texto": "CRL."
+        },
+        {
+          "letra": "E",
+          "texto": "ECDSA."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-4-Conhecimentos-Especificos-q60",
+      "numero": 60,
+      "enunciado_principal": "O protocolo que permite funções de autenticação e de troca de chave e que trabalha em conjunto com o IPSec é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AH."
+        },
+        {
+          "letra": "B",
+          "texto": "ESP."
+        },
+        {
+          "letra": "C",
+          "texto": "ISAKMP."
+        },
+        {
+          "letra": "D",
+          "texto": "SA."
+        },
+        {
+          "letra": "E",
+          "texto": "ECN. Espaço livre"
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 4 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 4",
+      "keywords": [
+        "funções de autenticação"
+      ],
+      "arquivo": "AEB-2024-Cargo-4-Conhecimentos-Especificos.pdf"
+    }
+  ]
+}

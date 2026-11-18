@@ -1,0 +1,789 @@
+{
+  "prova_id": "AEB-2024-Cargos-2-3-4",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargos 2, 3, 4",
+    "ano": "2024",
+    "orgao": "AEB",
+    "slug": "AEB_24",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/AEB_24",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_CB1_01.pdf"
+  },
+  "erros": [],
+  "total": 20,
+  "questoes": [
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q1",
+      "numero": 1,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nCom base no texto CB1A1, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Jeremy Bentham se opunha à defesa dos interesses de minorias."
+        },
+        {
+          "letra": "B",
+          "texto": "Jeremy Bentham criou o utilitarismo com o intuito de reinstituir a moral na sociedade inglesa de sua época."
+        },
+        {
+          "letra": "C",
+          "texto": "Raoul Van Caenegem aperfeiçoou o conceito de utilitarismo criado por Bentham."
+        },
+        {
+          "letra": "D",
+          "texto": "Jeremy Bentham, por meio do utilitarismo, pôs em questão o sistema jurídico de sua época."
+        },
+        {
+          "letra": "E",
+          "texto": "Raoul Van Caenegem adaptou o princípio da utilidade de Bentham para que pudesse ser aplicado à sociedade moderna."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q2",
+      "numero": 2,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nDe acordo com as ideias veiculadas no texto CB1A1, o utilitarismo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "advoga a adoção de ações capazes de promover prazer e felicidade, de forma ampla, ao maior número de pessoas possível."
+        },
+        {
+          "letra": "B",
+          "texto": "inova o mundo jurídico inglês pela introdução de princípios éticos nas práticas jurídicas."
+        },
+        {
+          "letra": "C",
+          "texto": "foi o movimento que deu origem à codificação das leis na Inglaterra."
+        },
+        {
+          "letra": "D",
+          "texto": "é um princípio subjacente às normas jurídicas das sociedades modernas."
+        },
+        {
+          "letra": "E",
+          "texto": "foi criado com vistas a direcionar as ações dos governantes para o bem-estar do povo inglês."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q3",
+      "numero": 3,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nCada uma das opções a seguir apresenta uma proposta de reescrita para o trecho entre aspas no terceiro parágrafo do texto CB1A1. Assinale a opção em que a proposta apresentada mantém a correção gramatical e os sentidos do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“o princípio que aprova, ou não, qualquer ação, consoante à tendência que tem de aumentar ou diminuir a felicidade da pessoa que o interesse está em jogo, ou seja, à tendência de promover ou de comprometer a felicidade da mesma”"
+        },
+        {
+          "letra": "B",
+          "texto": "“o princípio que aprova ou condena qualquer ação, conforme aumenta ou diminui a felicidade da pessoa de quem o interesse está em jogo, ou seja, conforme promove ou compromete a felicidade de alguém”"
+        },
+        {
+          "letra": "C",
+          "texto": "“o princípio que aprova ou reprova qualquer ação, de acordo com sua tendência de aumentar ou diminuir a felicidade da pessoa cujo o interesse está em jogo, ou seja, de promover ou de prejudicar a felicidade de alguém”"
+        },
+        {
+          "letra": "D",
+          "texto": "“o princípio que aprova ou condena qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa da qual o interesse está em jogo, logo, de promover ou de comprometer a felicidade de alguém”"
+        },
+        {
+          "letra": "E",
+          "texto": "“o princípio que aprova ou reprova qualquer ação, conforme a tendência que tem de aumentar ou de diminuir a felicidade da pessoa cujo interesse está em jogo, isto é, segundo a tendência de promover ou de comprometer a felicidade de alguém”"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q4",
+      "numero": 4,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nEstariam mantidas a correção gramatical e a coerência das ideias do texto CB1A1 caso a expressão “na medida em que” (primeiro período do penúltimo parágrafo) fosse substituída por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mas."
+        },
+        {
+          "letra": "B",
+          "texto": "por que."
+        },
+        {
+          "letra": "C",
+          "texto": "por isso."
+        },
+        {
+          "letra": "D",
+          "texto": "conquanto."
+        },
+        {
+          "letra": "E",
+          "texto": "uma vez que."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q5",
+      "numero": 5,
+      "enunciado_principal": "De acordo com o Manual de Redação da Presidência da República, são atributos da redação oficial, entre outros,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a padronização e a linguagem burocrática."
+        },
+        {
+          "letra": "B",
+          "texto": "o vocabulário rebuscado e o uso do padrão culto da língua."
+        },
+        {
+          "letra": "C",
+          "texto": "a clareza, a objetividade e a economia de pensamento."
+        },
+        {
+          "letra": "D",
+          "texto": "a pessoalidade e a formalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "a concisão, a coesão e a coerência. <<<HLINE>>> Text CB1A2 Spending time in space and having an unrivalled view of planet Earth is an experience many of us dream of, but the human body evolved to function in the gravity of Earth. So fully recovering from spending time in the weightlessness of space can take years. “It’s a fact that space is by far the most extreme environment that humans have ever encountered and we’ve just not evolved to handle the extreme conditions,” Professor Damian Bailey, who studies human physiology, says. To begin with, the heart and blood vessels have an easier time as they no longer have to pump blood against gravity — and they start to weaken. And the bones become weaker and more brittle. There should be a balance between the cells breaking down old bone and those making new, but that balance is disrupted without the feedback and resistance of working against gravity. “Every month, about % of bones and muscles are going to wither away — it’s accelerated ageing,” Professor Bailey says. Microgravity also distorts the vestibular system, which is how you balance and sense which way is up. In space, there is no up, down or sideways. It can be disorientating when you go up — and again when you return to Earth. James Gallagher. What nine months in space does to the human body. Internet: <bbc.com> (adapted)."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "redação da presidência",
+        "presidência da república",
+        "redação oficial"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q6",
+      "numero": 6,
+      "enunciado_principal": "It can be inferred from text CB1A2 that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the heart and blood vessels become more active because they have to work harder in space."
+        },
+        {
+          "letra": "B",
+          "texto": "people feel off balance when they travel to space because of its dimensions."
+        },
+        {
+          "letra": "C",
+          "texto": "the view of Earth from space is unlike any other thing a person may experience."
+        },
+        {
+          "letra": "D",
+          "texto": "space is more dangerous for humans than extremely cold places on Earth."
+        },
+        {
+          "letra": "E",
+          "texto": "there are no harmful physical effects for people who spend less than a month in space."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q7",
+      "numero": 7,
+      "enunciado_principal": "Considering the second paragraph of text CB1A2, choose the correct option.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "In the excerpt ‘it’s accelerated ageing’, the word ‘it’ is a singular pronoun replacing ‘1% of bones and muscles’."
+        },
+        {
+          "letra": "B",
+          "texto": "In the fragment ‘It’s a fact that space is by far the most extreme environment that humans have ever encountered’, ‘that’ is a pronoun replacing the word ‘It’."
+        },
+        {
+          "letra": "C",
+          "texto": "In “Professor Damian Bailey, who studies human physiology”, omitting the comma would not change the meaning of the fragment or harm its correctness."
+        },
+        {
+          "letra": "D",
+          "texto": "In the fragment “There should be a balance between the cells breaking down old bone and those making new”, the word “those” refers to the cells that make bones smaller."
+        },
+        {
+          "letra": "E",
+          "texto": "In the second sentence of the paragraph, both occurrences of the pronoun “they” refer to “the heart and blood vessels”."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q8",
+      "numero": 8,
+      "enunciado_principal": "About the vocabulary used in the second paragraph of text CB1A2, it is correct to affirm that “brittle” (third sentence) and ‘wither away’ (last sentence)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "are used to describe physical conditions limited to people who travel into space."
+        },
+        {
+          "letra": "B",
+          "texto": "can be understood as expressions used to describe the ‘accelerated ageing’ mentioned by Professor Bailey."
+        },
+        {
+          "letra": "C",
+          "texto": "are verbs used to describe what happens to human muscles when in space."
+        },
+        {
+          "letra": "D",
+          "texto": "can be respectively and correctly replaced with flexible and wear out."
+        },
+        {
+          "letra": "E",
+          "texto": "are used as synonyms, as both express how the human body behaves in space."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q9",
+      "numero": 9,
+      "enunciado_principal": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n.º 1.171/1994) prevê expressamente que, no exercício de função pública, a conduta de tratar mal uma pessoa que paga seus tributos direta ou indiretamente caracteriza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prevaricação."
+        },
+        {
+          "letra": "B",
+          "texto": "ato de improbidade administrativa."
+        },
+        {
+          "letra": "C",
+          "texto": "imprudência no desempenho da função pública."
+        },
+        {
+          "letra": "D",
+          "texto": "causa de dano moral."
+        },
+        {
+          "letra": "E",
+          "texto": "ato de desumanidade."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "exercício de função pública"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q10",
+      "numero": 10,
+      "enunciado_principal": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n.º 1.171/1994) estabelece que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é vedado ao servidor público deixar de utilizar os avanços técnicos e científicos ao seu alcance ou do seu conhecimento para o desenvolvimento de suas funções."
+        },
+        {
+          "letra": "B",
+          "texto": "a função pública é tida como exercício profissional e, como tal, não se integra na vida particular do servidor."
+        },
+        {
+          "letra": "C",
+          "texto": "qualquer ausência do servidor de seu local de trabalho é um fator de desmoralização do serviço público."
+        },
+        {
+          "letra": "D",
+          "texto": "a moralidade da administração pública é circunscrita à distinção entre o bem e o mal."
+        },
+        {
+          "letra": "E",
+          "texto": "é facultada ao servidor público a participação em movimentos e estudos que se relacionem com a melhoria do exercício de suas funções."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q11",
+      "numero": 11,
+      "enunciado_principal": "De acordo com o Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e das Fundações Públicas Federais (Lei n.º 8.112/1990), um dos requisitos básicos para a investidura em cargo público é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ter idade mínima de 21 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "ser domiciliado no território nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "ter nascido no Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "estar no gozo dos direitos políticos."
+        },
+        {
+          "letra": "E",
+          "texto": "possuir o segundo grau completo."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "união das autarquias",
+        "fundações públicas"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q12",
+      "numero": 12,
+      "enunciado_principal": "Considerando o disposto na Lei n.º 8.429/1992, que trata de atos de improbidade administrativa, julgue os seguintes itens. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "transitoriedade do exercício de função no setor público afasta o enquadramento de quem a ocupa no conceito de agente público, para fins de aplicação da citada lei. II A prática de ato com base em divergência interpretativa de lei pendente de pacificação nos tribunais é, por si só, insuficiente para a caracterização da improbidade. III Atos culposos são passíveis de enquadramento em alguma das hipóteses legais de ato de improbidade administrativa. IV Aquele que concorrer dolosamente para a prática de ato de improbidade administrativa, mesmo sem ser servidor público, deverá responder pelo ato. Estão certos apenas os itens"
+        },
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "improbidade administrativa"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q13",
+      "numero": 13,
+      "enunciado_principal": "Assinale a opção correta a respeito de planejamento estratégico nas organizações públicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Baixo custo de capital, alta liquidez e alta lucratividade são exemplos de forças em finanças da organização."
+        },
+        {
+          "letra": "B",
+          "texto": "Na elaboração do planejamento estratégico, a formulação das estratégias e políticas antecede a definição das metas e dos objetivos."
+        },
+        {
+          "letra": "C",
+          "texto": "A assertiva de “ser a instituição estratégica de Estado responsável por conectar soluções espaciais aos desafios da sociedade” pode ser entendida como a missão da Agência Espacial Brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "Os valores organizacionais constituem o conjunto de princípios que facilitam o comprometimento dos colaboradores entre si, e não seu comprometimento com o mercado."
+        },
+        {
+          "letra": "E",
+          "texto": "Os pontos fortes decorrem de quaisquer setores do mercado em que a organização pode conseguir vantagens competitivas, tais como novos segmentos e alianças estratégicas."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "organizações públicas",
+        "planejamento estratégico"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q14",
+      "numero": 14,
+      "enunciado_principal": "Em relação ao plano plurianual (PPA), à lei de diretrizes orçamentárias (LDO) e à lei orçamentária anual (LOA), assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A lei que institui o PPA deve estabelecer, de forma nacionalizada, diretrizes, objetivos e metas da administração pública para as despesas de capital e outras delas decorrentes."
+        },
+        {
+          "letra": "B",
+          "texto": "O Poder Executivo deve elaborar a proposta da LOA e enviá-la ao Poder Legislativo até três meses antes do encerramento do exercício financeiro."
+        },
+        {
+          "letra": "C",
+          "texto": "O PPA tem vigência de cinco anos e cumpre a função de estabelecer diretrizes, objetivos e metas de médio prazo da administração pública."
+        },
+        {
+          "letra": "D",
+          "texto": "O exercício da função do planejamento orçamentário é dever do Estado, tendo caráter determinante para o setor público e indicativo para o setor privado."
+        },
+        {
+          "letra": "E",
+          "texto": "A LDO deve estabelecer as diretrizes de política fiscal e respectivas metas, independentemente da trajetória sustentável da dívida pública."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "lei orçamentária",
+        "orçamentária anual",
+        "relação ao plano plurianual",
+        "lei de diretrizes orçamentárias"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q15",
+      "numero": 15,
+      "enunciado_principal": "Assinale a opção correta com base na Lei n.º 8.112/1990.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As sanções civis, penais e administrativas aplicáveis a servidores públicos são inacumuláveis e independentes entre si."
+        },
+        {
+          "letra": "B",
+          "texto": "Nomeação, promoção e readaptação são formas de provimento de cargo público."
+        },
+        {
+          "letra": "C",
+          "texto": "A readaptação consiste no retorno do servidor estável ao cargo anteriormente ocupado em decorrência de sua inabilitação em estágio probatório relativo a outro cargo."
+        },
+        {
+          "letra": "D",
+          "texto": "A reversão de servidor pode ocorrer no interesse da administração pública, desde que sua aposentadoria tenha sido involuntária."
+        },
+        {
+          "letra": "E",
+          "texto": "O prazo para o servidor empossado em cargo público entrar em exercício é de trinta dias, contados a partir da data da posse."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q16",
+      "numero": 16,
+      "enunciado_principal": "Considerando as disposições da Lei n.º 14.133/2021, julgue os itens seguintes. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "empreitada por preço unitário é a contratação da execução de obra ou de serviço por preço certo e total. II O pregão é modalidade de licitação facultativa para aquisição de bens e serviços comuns, podendo o critério de julgamento ser o de menor preço. III A contratação de obras e serviços de engenharia pelo sistema de registro de preços está sintetizada no critério de necessidade permanente ou frequente de obra ou serviço a ser contratado. IV Realizada licitação há menos de seis meses sem que tenham surgido licitantes interessados, será dispensável a licitação para a contratação do mesmo objeto, se mantidas todas as condições definidas no edital daquele certame precedente. V Na execução indireta de obras e serviços de engenharia, são admitidos, entre outros, os regimes de contratação integrada, semi-integrada e por tarefa. Estão certos apenas os itens"
+        },
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e V."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "IV e V."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [
+        "disposições da lei"
+      ],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q17",
+      "numero": 17,
+      "enunciado_principal": "Um malware projetado para monitorar as atividades de um sistema e enviar as informações coletadas para terceiros é do tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trojan."
+        },
+        {
+          "letra": "B",
+          "texto": "ransoware."
+        },
+        {
+          "letra": "C",
+          "texto": "adware."
+        },
+        {
+          "letra": "D",
+          "texto": "rootkit."
+        },
+        {
+          "letra": "E",
+          "texto": "spyware."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q18",
+      "numero": 18,
+      "enunciado_principal": "Os dados relativos a eventos que ocorrem com determinada periodicidade e, portanto, sofrem mudanças constantes são dados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colaborativos."
+        },
+        {
+          "letra": "B",
+          "texto": "transacionais."
+        },
+        {
+          "letra": "C",
+          "texto": "inteligentes."
+        },
+        {
+          "letra": "D",
+          "texto": "federados."
+        },
+        {
+          "letra": "E",
+          "texto": "brutos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q19",
+      "numero": 19,
+      "enunciado_principal": "Para representar objetos lineares unidimensionais, utiliza-se visualização de dados do tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de rede."
+        },
+        {
+          "letra": "B",
+          "texto": "temporal."
+        },
+        {
+          "letra": "C",
+          "texto": "geoespacial."
+        },
+        {
+          "letra": "D",
+          "texto": "multidimensional."
+        },
+        {
+          "letra": "E",
+          "texto": "hierárquica."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos-q20",
+      "numero": 20,
+      "enunciado_principal": "Em business intelligence, mineração de dados consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "processo analógico que cria dados oriundo de padrões inconsistentes entre variáveis, de forma a validá-los com novos subconjuntos de dados."
+        },
+        {
+          "letra": "B",
+          "texto": "processo analítico projetado para explorar grandes quantidades de dados na busca de padrões consistentes e(ou) relacionamentos sistemáticos entre variáveis."
+        },
+        {
+          "letra": "C",
+          "texto": "processo analítico que define o valor e a relação que, por sua vez, vão transformar a informação em peça fundamental para um banco de dados relacional."
+        },
+        {
+          "letra": "D",
+          "texto": "processo analógico que utiliza dados não estruturados para gerar padrões consistentes entre uma ou mais variáveis, de forma a validá-los com novos subconjuntos de dados."
+        },
+        {
+          "letra": "E",
+          "texto": "processo analítico que independe do valor e da relação que é capaz de transformar a informação em peça fundamental para um banco de dados não relacional. <<<HLINE>>> Espaço livre"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargos 2, 3, 4 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargos 2, 3, 4",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargos-2-3-4-Conhecimentos-Basicos.pdf"
+    }
+  ]
+}

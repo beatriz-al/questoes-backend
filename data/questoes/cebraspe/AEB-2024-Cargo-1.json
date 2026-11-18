@@ -1,0 +1,2037 @@
+{
+  "prova_id": "AEB-2024-Cargo-1",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargo 1",
+    "ano": "2024",
+    "orgao": "AEB",
+    "slug": "AEB_24",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/AEB_24",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_CB2_01.pdf",
+    "links_documento": [
+      "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_CB2_01.pdf",
+      "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_001_01.pdf"
+    ]
+  },
+  "erros": [
+    "Q35: alternativas insuficientes (1)",
+    "Q36: enunciado vazio",
+    "Q39: enunciado vazio",
+    "Q41: enunciado vazio",
+    "Q46: enunciado vazio",
+    "Q48: enunciado vazio",
+    "Q52: enunciado vazio",
+    "Q56: enunciado vazio"
+  ],
+  "total": 52,
+  "questoes": [
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q1",
+      "numero": 1,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nCom base no texto CB1A1, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Jeremy Bentham, por meio do utilitarismo, pôs em questão o sistema jurídico de sua época."
+        },
+        {
+          "letra": "B",
+          "texto": "Jeremy Bentham se opunha à defesa dos interesses de minorias."
+        },
+        {
+          "letra": "C",
+          "texto": "Jeremy Bentham criou o utilitarismo com o intuito de reinstituir a moral na sociedade inglesa de sua época."
+        },
+        {
+          "letra": "D",
+          "texto": "Raoul Van Caenegem aperfeiçoou o conceito de utilitarismo criado por Bentham."
+        },
+        {
+          "letra": "E",
+          "texto": "Raoul Van Caenegem adaptou o princípio da utilidade de Bentham para que pudesse ser aplicado à sociedade moderna."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q2",
+      "numero": 2,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nDe acordo com as ideias veiculadas no texto CB1A1, o utilitarismo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "advoga a adoção de ações capazes de promover prazer e felicidade, de forma ampla, ao maior número de pessoas possível."
+        },
+        {
+          "letra": "B",
+          "texto": "foi o movimento que deu origem à codificação das leis na Inglaterra."
+        },
+        {
+          "letra": "C",
+          "texto": "é um princípio subjacente às normas jurídicas das sociedades modernas."
+        },
+        {
+          "letra": "D",
+          "texto": "inova o mundo jurídico inglês pela introdução de princípios éticos nas práticas jurídicas."
+        },
+        {
+          "letra": "E",
+          "texto": "foi criado com vistas a direcionar as ações dos governantes para o bem-estar do povo inglês."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q3",
+      "numero": 3,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nNo texto CB1A1, o vocábulo “auspícios” (último período do primeiro parágrafo) está empregado com o mesmo sentido de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inovação."
+        },
+        {
+          "letra": "B",
+          "texto": "apogeu."
+        },
+        {
+          "letra": "C",
+          "texto": "chancela."
+        },
+        {
+          "letra": "D",
+          "texto": "prestígio."
+        },
+        {
+          "letra": "E",
+          "texto": "triunfo."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q4",
+      "numero": 4,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nCada uma das opções a seguir apresenta uma proposta de reescrita para o trecho entre aspas no terceiro parágrafo do texto CB1A1. Assinale a opção em que a proposta apresentada mantém a correção gramatical e os sentidos do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“o princípio que aprova, ou não, qualquer ação, consoante à tendência que tem de aumentar ou diminuir a felicidade da pessoa que o interesse está em jogo, ou seja, à tendência de promover ou de comprometer a felicidade da mesma”"
+        },
+        {
+          "letra": "B",
+          "texto": "“o princípio que aprova ou condena qualquer ação, conforme aumenta ou diminui a felicidade da pessoa de quem o interesse está em jogo, ou seja, conforme promove ou compromete a felicidade de alguém”"
+        },
+        {
+          "letra": "C",
+          "texto": "“o princípio que aprova ou condena qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa da qual o interesse está em jogo, logo, de promover ou de comprometer a felicidade de alguém”"
+        },
+        {
+          "letra": "D",
+          "texto": "“o princípio que aprova ou reprova qualquer ação, de acordo com sua tendência de aumentar ou diminuir a felicidade da pessoa cujo o interesse está em jogo, ou seja, de promover ou de prejudicar a felicidade de alguém”"
+        },
+        {
+          "letra": "E",
+          "texto": "“o princípio que aprova ou reprova qualquer ação, conforme a tendência que tem de aumentar ou de diminuir a felicidade da pessoa cujo interesse está em jogo, isto é, segundo a tendência de promover ou de comprometer a felicidade de alguém”"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q5",
+      "numero": 5,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nEstariam mantidas a correção gramatical e a coerência das ideias do texto CB1A1 caso a expressão “na medida em que” (primeiro período do penúltimo parágrafo) fosse substituída por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mas."
+        },
+        {
+          "letra": "B",
+          "texto": "por que."
+        },
+        {
+          "letra": "C",
+          "texto": "por isso."
+        },
+        {
+          "letra": "D",
+          "texto": "conquanto."
+        },
+        {
+          "letra": "E",
+          "texto": "uma vez que."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q6",
+      "numero": 6,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nNo primeiro período do penúltimo parágrafo do texto CB1A1, a expressão “os efeitos das ações” exerce a função sintática de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "complemento direto da forma verbal “avaliem”."
+        },
+        {
+          "letra": "B",
+          "texto": "aposto explicativo."
+        },
+        {
+          "letra": "C",
+          "texto": "sujeito da oração expressa pela forma verbal “requer”."
+        },
+        {
+          "letra": "D",
+          "texto": "sujeito da oração expressa pela forma verbal “avaliem”."
+        },
+        {
+          "letra": "E",
+          "texto": "complemento direto da forma verbal “requer”."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q7",
+      "numero": 7,
+      "enunciado_principal": "Texto CB1A1\n\nJeremy Bentham, filósofo e jurista que viveu na Inglaterra entre 1748 e 1832, foi o criador do utilitarismo como filosofia moral. Tal concepção surgiu em um período bastante específico, a era da razão. Bentham dirigiu suas críticas principalmente ao direito, tendo sido um vigoroso defensor da codificação das leis em\n\num\n\npaís\n\nque possui\n\no\n\nsistema consuetudinário. A originalidade de suas críticas se forjava sob os auspícios da idade das luzes.\n\nRaoul Van Caenegem, historiador belga e renomado especialista no campo da história jurídica europeia, afirma, sobre o utilitarismo, que “O ponto de partida para a crítica de Bentham ao sistema inglês (que, em sua época, era substancialmente medieval) não foi o direito natural continental, mas sim uma ideia inteiramente original: o princípio da utilidade. Bentham não formulou axiomas nem deduziu normas do direito a partir deles; em vez disso, questionou a utilidade de cada conceito e norma jurídica, e o objetivo prático destes para o homem e a sociedade de sua época”.\n\nSegundo Caenegem, o princípio da utilidade pode ser definido como “o princípio que aprova ou desaprova qualquer ação, segundo a tendência que tem de aumentar ou diminuir a felicidade da pessoa cujo interesse está em jogo, ou seja, segundo a tendência de promover ou de comprometer a felicidade de alguém”.\n\nO utilitarismo envolve uma ética adequadamente denominada de consequencialista, na medida em que requer que se avaliem, em cada caso concreto, os efeitos das ações, isto é, se as condutas são eticamente reprováveis a partir do critério da utilidade. Preconiza que as ações humanas devem seguir o princípio da utilidade, consistente na consideração da quantidade de prazer e de dor que as ações provocam nos indivíduos. As ações devem considerar todos os interesses, de maneira que nenhum\n\ncontrainteresse seja\n\ndesconsiderado ou\n\ntenha preponderância sobre outro.\n\nAlém disso, o número de pessoas atingidas pelas ações é objeto de análise. Busca-se sempre promover a maior quantidade de prazer possível ao maior número de indivíduos, ao passo que se evita o desprazer em uma proporção inversa: há um paralelismo entre o prazer e o sofrimento para o inglês, de tal modo que a maximização de um significa proporcionalmente a minimização de outro. Internet: <http://publicadireito.com.br> (com adaptações).\n\nNo segundo período do último parágrafo do texto CB1A1, o conectivo “ao passo que” expressa noção de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa."
+        },
+        {
+          "letra": "B",
+          "texto": "igualdade."
+        },
+        {
+          "letra": "C",
+          "texto": "condição."
+        },
+        {
+          "letra": "D",
+          "texto": "proporcionalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "tempo."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "auspícios da idade",
+        "codificação das leis",
+        "tendência de promover",
+        "consideração da quantidade",
+        "felicidade da pessoa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q8",
+      "numero": 8,
+      "enunciado_principal": "De acordo com o Manual de Redação da Presidência da República, são atributos da redação oficial, entre outros,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o vocabulário rebuscado e o uso do padrão culto da língua."
+        },
+        {
+          "letra": "B",
+          "texto": "a padronização e a linguagem burocrática."
+        },
+        {
+          "letra": "C",
+          "texto": "a clareza, a objetividade e a economia de pensamento."
+        },
+        {
+          "letra": "D",
+          "texto": "a pessoalidade e a formalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "a concisão, a coesão e a coerência."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "redação da presidência",
+        "presidência da república",
+        "redação oficial"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q9",
+      "numero": 9,
+      "enunciado_principal": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n.º 1.171/1994) prevê expressamente que, no exercício de função pública, a conduta de tratar mal uma pessoa que paga seus tributos direta ou indiretamente caracteriza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prevaricação."
+        },
+        {
+          "letra": "B",
+          "texto": "ato de improbidade administrativa."
+        },
+        {
+          "letra": "C",
+          "texto": "causa de dano moral."
+        },
+        {
+          "letra": "D",
+          "texto": "imprudência no desempenho da função pública."
+        },
+        {
+          "letra": "E",
+          "texto": "ato de desumanidade."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "exercício de função pública"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q10",
+      "numero": 10,
+      "enunciado_principal": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n.º 1.171/1994) estabelece que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é vedado ao servidor público deixar de utilizar os avanços técnicos e científicos ao seu alcance ou do seu conhecimento para o desenvolvimento de suas funções."
+        },
+        {
+          "letra": "B",
+          "texto": "a função pública é tida como exercício profissional e, como tal, não se integra na vida particular do servidor."
+        },
+        {
+          "letra": "C",
+          "texto": "qualquer ausência do servidor de seu local de trabalho é um fator de desmoralização do serviço público."
+        },
+        {
+          "letra": "D",
+          "texto": "a moralidade da administração pública é circunscrita à distinção entre o bem e o mal."
+        },
+        {
+          "letra": "E",
+          "texto": "é facultada ao servidor público a participação em movimentos e estudos que se relacionem com a melhoria do exercício de suas funções."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q11",
+      "numero": 11,
+      "enunciado_principal": "De acordo com o Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e das Fundações Públicas Federais (Lei n.º 8.112/1990), um dos requisitos básicos para a investidura em cargo público é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ter idade mínima de 21 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "ter nascido no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "ser domiciliado no território nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "estar no gozo dos direitos políticos."
+        },
+        {
+          "letra": "E",
+          "texto": "possuir o segundo grau completo."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "união das autarquias",
+        "fundações públicas"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q12",
+      "numero": 12,
+      "enunciado_principal": "Considerando o disposto na Lei n.º 8.429/1992, que trata de atos de improbidade administrativa, julgue os seguintes itens. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "transitoriedade do exercício de função no setor público afasta o enquadramento de quem a ocupa no conceito de agente público, para fins de aplicação da citada lei. II A prática de ato com base em divergência interpretativa de lei pendente de pacificação nos tribunais é, por si só, insuficiente para a caracterização da improbidade. III Atos culposos são passíveis de enquadramento em alguma das hipóteses legais de ato de improbidade administrativa. IV Aquele que concorrer dolosamente para a prática de ato de improbidade administrativa, mesmo sem ser servidor público, deverá responder pelo ato. Estão certos apenas os itens"
+        },
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "improbidade administrativa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q13",
+      "numero": 13,
+      "enunciado_principal": "Assinale a opção correta a respeito de planejamento estratégico nas organizações públicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Baixo custo de capital, alta liquidez e alta lucratividade são exemplos de forças em finanças da organização."
+        },
+        {
+          "letra": "B",
+          "texto": "Na elaboração do planejamento estratégico, a formulação das estratégias e políticas antecede a definição das metas e dos objetivos."
+        },
+        {
+          "letra": "C",
+          "texto": "A assertiva de “ser a instituição estratégica de Estado responsável por conectar soluções espaciais aos desafios da sociedade” pode ser entendida como a missão da Agência Espacial Brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "Os valores organizacionais constituem o conjunto de princípios que facilitam o comprometimento dos colaboradores entre si, e não seu comprometimento com o mercado."
+        },
+        {
+          "letra": "E",
+          "texto": "Os pontos fortes decorrem de quaisquer setores do mercado em que a organização pode conseguir vantagens competitivas, tais como novos segmentos e alianças estratégicas."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "organizações públicas",
+        "planejamento estratégico"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q14",
+      "numero": 14,
+      "enunciado_principal": "Em relação ao plano plurianual (PPA), à lei de diretrizes orçamentárias (LDO) e à lei orçamentária anual (LOA), assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A lei que institui o PPA deve estabelecer, de forma nacionalizada, diretrizes, objetivos e metas da administração pública para as despesas de capital e outras delas decorrentes."
+        },
+        {
+          "letra": "B",
+          "texto": "O PPA tem vigência de cinco anos e cumpre a função de estabelecer diretrizes, objetivos e metas de médio prazo da administração pública."
+        },
+        {
+          "letra": "C",
+          "texto": "O Poder Executivo deve elaborar a proposta da LOA e enviá-la ao Poder Legislativo até três meses antes do encerramento do exercício financeiro."
+        },
+        {
+          "letra": "D",
+          "texto": "O exercício da função do planejamento orçamentário é dever do Estado, tendo caráter determinante para o setor público e indicativo para o setor privado."
+        },
+        {
+          "letra": "E",
+          "texto": "A LDO deve estabelecer as diretrizes de política fiscal e respectivas metas, independentemente da trajetória sustentável da dívida pública."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "lei orçamentária",
+        "orçamentária anual",
+        "relação ao plano plurianual",
+        "lei de diretrizes orçamentárias"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q15",
+      "numero": 15,
+      "enunciado_principal": "Assinale a opção correta com base na Lei n.º 8.112/1990.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As sanções civis, penais e administrativas aplicáveis a servidores públicos são inacumuláveis e independentes entre si."
+        },
+        {
+          "letra": "B",
+          "texto": "Nomeação, promoção e readaptação são formas de provimento de cargo público."
+        },
+        {
+          "letra": "C",
+          "texto": "A readaptação consiste no retorno do servidor estável ao cargo anteriormente ocupado em decorrência de sua inabilitação em estágio probatório relativo a outro cargo."
+        },
+        {
+          "letra": "D",
+          "texto": "A reversão de servidor pode ocorrer no interesse da administração pública, desde que sua aposentadoria tenha sido involuntária."
+        },
+        {
+          "letra": "E",
+          "texto": "O prazo para o servidor empossado em cargo público entrar em exercício é de trinta dias, contados a partir da data da posse."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q16",
+      "numero": 16,
+      "enunciado_principal": "Considerando as disposições da Lei n.º 14.133/2021, julgue os itens seguintes. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "empreitada por preço unitário é a contratação da execução de obra ou de serviço por preço certo e total. II O pregão é modalidade de licitação facultativa para aquisição de bens e serviços comuns, podendo o critério de julgamento ser o de menor preço. III A contratação de obras e serviços de engenharia pelo sistema de registro de preços está sintetizada no critério de necessidade permanente ou frequente de obra ou serviço a ser contratado. IV Realizada licitação há menos de seis meses sem que tenham surgido licitantes interessados, será dispensável a licitação para a contratação do mesmo objeto, se mantidas todas as condições definidas no edital daquele certame precedente. V Na execução indireta de obras e serviços de engenharia, são admitidos, entre outros, os regimes de contratação integrada, semi-integrada e por tarefa. Estão certos apenas os itens"
+        },
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e V."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "IV e V."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "disposições da lei"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q17",
+      "numero": 17,
+      "enunciado_principal": "Um malware projetado para monitorar as atividades de um sistema e enviar as informações coletadas para terceiros é do tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trojan."
+        },
+        {
+          "letra": "B",
+          "texto": "ransoware."
+        },
+        {
+          "letra": "C",
+          "texto": "adware."
+        },
+        {
+          "letra": "D",
+          "texto": "rootkit."
+        },
+        {
+          "letra": "E",
+          "texto": "spyware."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q18",
+      "numero": 18,
+      "enunciado_principal": "Os dados relativos a eventos que ocorrem com determinada periodicidade e, portanto, sofrem mudanças constantes são dados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colaborativos."
+        },
+        {
+          "letra": "B",
+          "texto": "federados."
+        },
+        {
+          "letra": "C",
+          "texto": "transacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "inteligentes."
+        },
+        {
+          "letra": "E",
+          "texto": "brutos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q19",
+      "numero": 19,
+      "enunciado_principal": "Para representar objetos lineares unidimensionais, utiliza-se visualização de dados do tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de rede."
+        },
+        {
+          "letra": "B",
+          "texto": "temporal."
+        },
+        {
+          "letra": "C",
+          "texto": "geoespacial."
+        },
+        {
+          "letra": "D",
+          "texto": "multidimensional."
+        },
+        {
+          "letra": "E",
+          "texto": "hierárquica."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Basicos-q20",
+      "numero": 20,
+      "enunciado_principal": "Em business intelligence, mineração de dados consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "processo analógico que cria dados oriundo de padrões inconsistentes entre variáveis, de forma a validá-los com novos subconjuntos de dados."
+        },
+        {
+          "letra": "B",
+          "texto": "processo analítico projetado para explorar grandes quantidades de dados na busca de padrões consistentes e(ou) relacionamentos sistemáticos entre variáveis."
+        },
+        {
+          "letra": "C",
+          "texto": "processo analítico que define o valor e a relação que, por sua vez, vão transformar a informação em peça fundamental para um banco de dados relacional."
+        },
+        {
+          "letra": "D",
+          "texto": "processo analógico que utiliza dados não estruturados para gerar padrões consistentes entre uma ou mais variáveis, de forma a validá-los com novos subconjuntos de dados."
+        },
+        {
+          "letra": "E",
+          "texto": "processo analítico que independe do valor e da relação que é capaz de transformar a informação em peça fundamental para um banco de dados não relacional."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Básicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Basicos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q21",
+      "numero": 21,
+      "enunciado_principal": "Quando de sua criação, a Agência Espacial Brasileira (AEB), autarquia federal de natureza civil, era vinculada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Força Aérea Brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "ao Ministério da Defesa."
+        },
+        {
+          "letra": "C",
+          "texto": "ao Ministério da Ciência, Tecnologia e Inovação."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Instituto Nacional de Pesquisas Espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "à Presidência da República."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "natureza civil",
+        "agência espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q22",
+      "numero": 22,
+      "enunciado_principal": "No que se refere à nova estrutura regimental da AEB, aprovada pelo Decreto n.º 11.192/2022, julgue os itens a seguir. I\n\nCompete à Diretoria de Assuntos Estratégicos acompanhar a\n\npolítica nacional de energia nuclear, e seus desdobramentos\n\nem objetivos e metas. II Compete à Diretoria de Gestão de Portfólio gerenciar os\n\ncontratos que, decorrentes de projetos em execução, sejam\n\nrelativos à transferência de tecnologias associadas a sistemas\n\nespaciais para o setor produtivo. III Compete à Diretoria de Inteligência Estratégica e Novos\n\nNegócios elaborar estudos estratégicos, em conjunto com as\n\nForças Armadas, para identificar ameaças internacionais no\n\nque se refere à utilização de armamento em ambiente espacial\n\npor outros países. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "utilização de armamento",
+        "gestão de portfólio",
+        "estrutura regimental",
+        "inteligência estratégica",
+        "transferência de tecnologias"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q23",
+      "numero": 23,
+      "enunciado_principal": "Julgue os itens a seguir, com base na diretriz sobre Cooperação Internacional Consequente, prevista na Política Nacional de Desenvolvimento das Atividades Espaciais (PNDAE). I\n\nO Brasil deverá necessariamente desenvolver padrões\n\nnacionais próprios para projetos de sistemas espaciais, a fim\n\nde garantir a soberania nacional. II Na área da tecnologia espacial, o compartilhamento amplo do\n\nconhecimento científico resultante da cooperação entre os\n\npaíses é realizado de maneira não onerosa, com livre\n\ncompartilhamento de dados para a realização de projeto\n\nespecífico. III As iniciativas de cooperação científica deverão buscar o\n\nestabelecimento de condições favoráveis para o intercâmbio\n\nde pessoas e assegurar participação proveitosa para o Brasil\n\nnos grandes programas científicos internacionais. IV A cooperação com países que compartilham problemas e\n\ndificuldades similares aos do Brasil deve receber atenção\n\nespecial. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I e IV estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "realização de projeto",
+        "projetos de sistemas",
+        "estabelecimento de condições",
+        "deverão buscar",
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q24",
+      "numero": 24,
+      "enunciado_principal": "De acordo com o Decreto n.º 1.953/1996, os órgãos setoriais do Sistema Nacional de Desenvolvimento das Atividades Espaciais (SINDAE) são responsáveis por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizar estudos estratégicos de setores da economia para proposição e inclusão de novos projetos no Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "B",
+          "texto": "promover parcerias público-privadas para o desenvolvimento do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "prover consultoria setorial ao órgão central para aconselhá-lo na execução do Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "elaborar e atualizar o Programa Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "coordenar setores e executar ações do Programa Nacional de Atividades Espaciais."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "atividades espaciais",
+        "desenvolvimento das atividades"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q25",
+      "numero": 25,
+      "enunciado_principal": "Segundo o Programa Nacional de Atividades Espaciais (PNAE) 2022-2031, a Agência Espacial Brasileira (AEB) deve identificar continuamente propostas de missões espaciais que possam se submeter",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao padrão NASA (National Aeronautics and Space Administration)."
+        },
+        {
+          "letra": "B",
+          "texto": "à ISO (International Organization for Standardization)."
+        },
+        {
+          "letra": "C",
+          "texto": "à European Cooperation for Space Standardization (ECSS)."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Procedimento para Seleção e Adoção de Missões Espaciais (ProSAME)."
+        },
+        {
+          "letra": "E",
+          "texto": "à Associação Brasileira de Normas Técnicas (ABNT)."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "agência espacial",
+        "missões espaciais",
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q26",
+      "numero": 26,
+      "enunciado_principal": "De acordo com a Lei das Atividades Espaciais Nacionais (Lei n.º 14.946/2024), a regulamentação e fiscalização das atividades espaciais de defesa nacional são de competência",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da Presidência da República."
+        },
+        {
+          "letra": "B",
+          "texto": "do Instituto Nacional de Pesquisas Espaciais (INPE)."
+        },
+        {
+          "letra": "C",
+          "texto": "da Agência Espacial Brasileira (AEB) e do Comando da Aeronáutica, de maneira conjunta."
+        },
+        {
+          "letra": "D",
+          "texto": "da Agência Espacial Brasileira (AEB)."
+        },
+        {
+          "letra": "E",
+          "texto": "do Comando da Aeronáutica."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "fiscalização das atividades",
+        "lei das atividades espaciais",
+        "atividades espaciais de defesa"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q27",
+      "numero": 27,
+      "enunciado_principal": "Suponha que um operador espacial civil seja responsável por controlar a atividade espacial civil de um satélite nacional em operação no espaço aéreo brasileiro. Nessa situação, de acordo com a Lei n.o 14.946/2024, caso a licença do operador espacial civil seja cancelada em razão do comprometimento da segurança nacional,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o artefato espacial em operação será leiloado após um período de seis meses, e sua transferência será efetivada a outro operador espacial civil."
+        },
+        {
+          "letra": "B",
+          "texto": "o artefato espacial será considerado um detrito espacial e, assim, não terá um responsável direto."
+        },
+        {
+          "letra": "C",
+          "texto": "a Agência Espacial Brasileira elegerá um operador ad hoc para se tornar o responsável pelo artefato espacial até o fim da sua operação."
+        },
+        {
+          "letra": "D",
+          "texto": "o Comando da Aeronáutica se tornará responsável pelo controle do artefato espacial, com vistas a assegurar a manutenção da segurança nacional."
+        },
+        {
+          "letra": "E",
+          "texto": "o operador espacial civil permanecerá responsável pelo artefato espacial em operação, mesmo após o cancelamento de sua licença."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "razão do comprometimento",
+        "atividade espacial",
+        "comprometimento da segurança",
+        "licença do operador espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q28",
+      "numero": 28,
+      "enunciado_principal": "Conforme o Decreto n.º 10.220/2020, servidores do governo dos Estados Unidos da América (EUA) presentes no Centro Espacial de Alcântara e que estejam ligados a atividades de lançamento têm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acesso a áreas onde veículos lançadores e espaçonaves dos EUA estão armazenados, pois esses espaços, quando ocupados dessa forma, deixam de ser considerados como áreas restritas ou controladas pela parte brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "limitação de acesso a áreas restritas ou controladas, mesmo em áreas onde estão veículos lançadores e espaçonaves dos EUA."
+        },
+        {
+          "letra": "C",
+          "texto": "livre acesso, sem qualquer aviso prévio, a áreas restritas ou controladas em qualquer tempo nas áreas que estão veículos lançadores e espaçonaves dos EUA."
+        },
+        {
+          "letra": "D",
+          "texto": "acesso a áreas restritas ou controladas onde estão veículos lançadores e espaçonaves dos EUA, desde que requisitem autorização prévia com, no mínimo, um dia de antecedência."
+        },
+        {
+          "letra": "E",
+          "texto": "acesso a áreas restritas ou controladas onde estão veículos lançadores e espaçonaves dos EUA, desde que previamente autorizados pelo contrato específico de lançamento. <<<HLINE>>> Espaço livre Text 1A4-I By the middle years of the 20th century, the optimistic story of limitless progress through scientific and technological advance came to be rivalled and sometimes overshadowed by a much more pessimistic, even apocalyptic vision of the trajectory of the modern project. It began to seem increasingly possible that technology would come to master its creators and carry humanity toward unforeseen and possibly catastrophic outcomes. Premonitions of technological wizardry leading to disasters are extremely old, dating back at least to the myth of Icarus, who is said to have fatally fallen into the sea after flying too close to the sun on wings his father, Daedalus, constructed. As the Industrial Revolution gathered steam, dark anticipations became increasingly widespread, in works such as Mary Shelley’s Frankenstein; or, the Modern Prometheus and Karel Capek’s R.U.R. Perhaps technology, not man, was “in the saddle,” as Henry Adams worried. And perhaps machines, becoming ever more capable and interconnected, were the next step in the evolution of life, destined to dominate and eventually eliminate humanity, as Samuel Butler warned. The contours of the future, H. G. Wells announced in one of his famous lectures, “The Discovery of the Future,” were difficult to discern but would surely be unlike the past or the present, and definitely included disasters of new types and magnitudes. In the ghastly world wars, technological advances empowered barbarism on a new scale, destroying the credibility of the simple modernist faith that more potent tools are a straight path to human betterment. Rather, technological advance has produced a cornucopia of double-edged swords, with amplified possibilities for both progress and disaster. A growing herd of horsemen of the anthropogenic apocalypse have ominously appeared on the human horizon of possibility: nuclear weapons, genetic engineering, total surveillance despotism, runaway artificial intelligence, and rampant environmental decay. Daniel Deudney. Dark Skies: Space Expansionism, Planetary Geopolitics, and the Ends of Humanity. New York: Oxford University Press, 2020 (adapted)."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "atividades de lançamento"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q29",
+      "numero": 29,
+      "enunciado_principal": "In text 1A4-I, the author",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uses intertextual connections to describe a view of the uses of technology."
+        },
+        {
+          "letra": "B",
+          "texto": "shows how technology replaced men in the middle of the 20th century."
+        },
+        {
+          "letra": "C",
+          "texto": "is ironic about how dangerous technological advance can be."
+        },
+        {
+          "letra": "D",
+          "texto": "accuses Icarus of being reckless in his flight towards the sun."
+        },
+        {
+          "letra": "E",
+          "texto": "attributes the pessimistic notion of progress to the authors he mentions."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q30",
+      "numero": 30,
+      "enunciado_principal": "Considering the meaning of the expressions used in text 1A4-I, choose the correct option.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "In the first sentence of the third paragraph, the word “ghastly” could be correctly replaced with great without this changing the meaning of the text."
+        },
+        {
+          "letra": "B",
+          "texto": "In the last sentence of the text, the word “ominously” could be correctly replaced with prominently without this changing the meaning of the fragment."
+        },
+        {
+          "letra": "C",
+          "texto": "In the first sentence of the second paragraph, “wizardry” means mythology."
+        },
+        {
+          "letra": "D",
+          "texto": "In the second sentence of the second paragraph, the fragment “gathered steam” has the same meaning as lost ground."
+        },
+        {
+          "letra": "E",
+          "texto": "In the third sentence of the second paragraph, the replacement of the expression ‘in the saddle’ with in control would maintain the meaning of the excerpt."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q31",
+      "numero": 31,
+      "enunciado_principal": "In the last paragraph of text 1A4-I, the",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "excerpt “rampant environmental decay” (last sentence) refers to the natural decline earth environment is likely to go through."
+        },
+        {
+          "letra": "B",
+          "texto": "word “Rather” (second sentence) introduces a statement that adds a complement to what came before it."
+        },
+        {
+          "letra": "C",
+          "texto": "word “cornucopia” (second sentence) describes the shape of the “double-edged swords”."
+        },
+        {
+          "letra": "D",
+          "texto": "word “runaway” (last sentence) is describing a kind of artificial intelligence that is out of control."
+        },
+        {
+          "letra": "E",
+          "texto": "fragment “A growing herd of horsemen” (last sentence) is a description of groups of giant men riding horses. <<<HLINE>>> Text 1A4-II The pursuit of space exploration represents one of the most captivating undertakings of the human race, serving as a testament to our inherent drive to comprehend the cosmos and our position within it. As humanity expands its reach beyond the confines of Earth, the intricate and essential relationship between technology and law grows increasingly intricate and indispensable. The rapid progress of technology has ushered us into an era when endeavours in outer space, previously confined to the realm of science fiction, are now becoming tangible and feasible. The present circumstances require a comprehensive legal structure encompassing the existing range of space endeavours and the flexibility to accommodate dynamic technological advancements. The Outer Space Treaty of 1967 set the foundational legal principles governing space exploration activities. However, as humanity continues to explore space and private companies participate alongside sovereign nations, the intersection of technology and law serves as both a catalyst for progress and a cause of disagreement. Bansi Kaneria; Shivam Pandey. Interplay Between Technology and Law in Space Exploration. In: IOSR Journal of Environmental Science Toxicology and Food Technology, 2024, 18 (03): 31-46 (adapted)."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q32",
+      "numero": 32,
+      "enunciado_principal": "The expression “a comprehensive legal structure” (second sentence of the second paragraph) could be correctly replaced, maintaining the original meaning of text 1A4-II, with",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "an understandable system of laws."
+        },
+        {
+          "letra": "B",
+          "texto": "a compassionate system of legal principles."
+        },
+        {
+          "letra": "C",
+          "texto": "a compedium of laws."
+        },
+        {
+          "letra": "D",
+          "texto": "a thorough legal framework."
+        },
+        {
+          "letra": "E",
+          "texto": "a manageable legal structure."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q33",
+      "numero": 33,
+      "enunciado_principal": "Based on the last paragraph of text 1A4-II, it is correct to conclude that the Outer Space Treaty of 1967",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "limited itself to imposing rules on the way private companies explore space travelling."
+        },
+        {
+          "letra": "B",
+          "texto": "imposed the intersection of technology and law."
+        },
+        {
+          "letra": "C",
+          "texto": "resulted in disagreements about space exploration in the 20th century."
+        },
+        {
+          "letra": "D",
+          "texto": "was signed by most sovereign countries in the world."
+        },
+        {
+          "letra": "E",
+          "texto": "was unable to foresee some aspects of today’s space exploration activities."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q34",
+      "numero": 34,
+      "enunciado_principal": "In the second paragraph of text 1A4-II, the expression “has ushered”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explains why endeavours in space are now “tangible and feasible”."
+        },
+        {
+          "letra": "B",
+          "texto": "is a verbal tense used to help the reader grasp what “progress” means in the text."
+        },
+        {
+          "letra": "C",
+          "texto": "has a meaning similar to has guided."
+        },
+        {
+          "letra": "D",
+          "texto": "is written in the singular because of the word “technology”."
+        },
+        {
+          "letra": "E",
+          "texto": "could be replaced with was ushering us without this changing the meaning of the sentence."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q37",
+      "numero": 37,
+      "enunciado_principal": "Em relação a soberania, julgue os itens a seguir. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "soberania, no contexto do direito internacional, é o exercício da autoridade de um povo por meio de seus órgãos constitucionais representativos. II A violação da soberania de um país pode levar ao início de um conflito, pois esse princípio está relacionado ao conceito de Estado. III A resolução pacífica de problemas globais, como alimentação, energia e meio ambiente, dentro do direito internacional, depende da coordenação de diretrizes entre os Estados, por meio de tratados e convenções. IV Classicamente, a soberania foi definida como separável, de forma absoluta e perpétua, da ideia de Estado. Estão certos apenas os itens"
+        },
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q38",
+      "numero": 38,
+      "enunciado_principal": "Tal como na cooperação recebida, a formalização da Cooperação Sul-Sul para o Desenvolvimento (CSSD) se dá a partir de acordo de cooperação técnica com um ou mais países, ou no marco de um acordo básico com um organismo internacional. A partir do marco jurídico geral, são propostos ajustes complementares ou programas executivos que passam a dar contorno para a cooperação prestada. Do ponto de vista operacional da cooperação, a execução administrativo-financeira pode ser feita diretamente pelo governo brasileiro, com recursos próprios; de forma paralela pelo governo brasileiro e por uma entidade parceira, com recursos compartilhados; e, ainda, de forma descentralizada a uma entidade parceira, sendo os recursos compartilhados ou não.\n\nCooperação internacional em tempos de pandemia: relatório Cobradi 2019-2020. Considerando-se o trecho precedente e o contexto da cooperação internacional, uma característica distintiva da cooperação transregional é que ela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é implementada por meio de contribuições financeiras reembolsáveis, como empréstimos ou soft loans, para projetos de infraestrutura em países de baixa renda."
+        },
+        {
+          "letra": "B",
+          "texto": "envolve a participação exclusiva de países vizinhos, que compartilham fronteiras geográficas e desafios comuns."
+        },
+        {
+          "letra": "C",
+          "texto": "envolve a atuação de entes subnacionais (como estados ou municípios) em projetos de cooperação direta com outros entes subnacionais no exterior."
+        },
+        {
+          "letra": "D",
+          "texto": "pressupõe a existência de um acordo básico entre um país desenvolvido e um organismo internacional, e atua no âmbito de organizações ou arranjos regionais e(ou) sub-regionais."
+        },
+        {
+          "letra": "E",
+          "texto": "ocorre entre países de diferentes regiões do mundo, buscando promover o intercâmbio de experiências e boas práticas em áreas como desenvolvimento sustentável, comércio e segurança."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "formalização da cooperação",
+        "entidade parceira",
+        "vista operacional",
+        "cooperação técnica",
+        "organismo internacional"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q40",
+      "numero": 40,
+      "enunciado_principal": "No contexto da cooperação internacional, os acordos bilaterais e memorandos de entendimento na Cooperação Sul-Sul para o Desenvolvimento (CSSD)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são utilizados exclusivamente para a cooperação trilateral, envolvendo o Brasil, um país desenvolvido e um país em desenvolvimento."
+        },
+        {
+          "letra": "B",
+          "texto": "são implementados por meio de contribuições financeiras reembolsáveis, como empréstimos ou soft loans, para projetos de infraestrutura em países de baixa renda."
+        },
+        {
+          "letra": "C",
+          "texto": "são instrumentos informais que não geram obrigações jurídicas e servem apenas como declarações de intenções entre os países."
+        },
+        {
+          "letra": "D",
+          "texto": "atuam como acordos vinculantes que estabelecem as metas e os objetivos específicos da CSSD e definem as responsabilidades de cada país e os recursos a serem alocados."
+        },
+        {
+          "letra": "E",
+          "texto": "atuam como marcos jurídicos gerais que formalizam a cooperação técnica entre o Brasil e outros países e permitem a proposição de ajustes complementares ou programas executivos."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "cooperação internacional"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q42",
+      "numero": 42,
+      "enunciado_principal": "Assinale a opção em que é apresentada e descrita uma técnica eficaz, utilizada em negociações comerciais em fóruns multilaterais, para alcançar consenso entre múltiplas partes com interesses divergentes, considerando-se a necessidade de flexibilidade estratégica e de adaptação às motivações dos parceiros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comunicação seletiva e controle de informação: compartilhamento estratégico de informações, mantendo-se posições firmes e evitando-se revelar dados sensíveis que possam comprometer a posição de negociação do país"
+        },
+        {
+          "letra": "B",
+          "texto": "concessões unilaterais aceleradas: realização rápida de concessões substanciais com ou sem reciprocidade, visando a destravar o processo e a criar um clima positivo, com foco no “compromisso único”"
+        },
+        {
+          "letra": "C",
+          "texto": "foco exclusivo em resultados quantificáveis: concentração em atingir metas específicas de acesso a mercados e de redução tarifária, independentemente das considerações políticas internas ou das necessidades dos parceiros"
+        },
+        {
+          "letra": "D",
+          "texto": "negociação baseada em interesses com foco em soluções integrativas: priorização da compreensão dos interesses subjacentes de cada parte, em busca de soluções criativas que maximizem ganhos mútuos e promovam resultados de “soma positiva”"
+        },
+        {
+          "letra": "E",
+          "texto": "táticas de força e ameaças veladas: utilização de pressão diplomática e ameaças sutis de retaliação comercial para influenciar a tomada de decisão, visando a forçar concessões unilaterais"
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "motivações dos parceiros",
+        "necessidade de flexibilidade",
+        "negociações comerciais",
+        "flexibilidade estratégica"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q43",
+      "numero": 43,
+      "enunciado_principal": "Assinale a opção que apresenta as melhores ferramentas de diplomacia na cooperação internacional, considerando o estabelecimento de regras e normas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diplomacia científica e ambiental como pontos focais"
+        },
+        {
+          "letra": "B",
+          "texto": "missões diplomáticas e protocolos de Estado"
+        },
+        {
+          "letra": "C",
+          "texto": "tratados, acordos e sanções econômicas"
+        },
+        {
+          "letra": "D",
+          "texto": "negociações bilaterais, multilaterais e diplomacia pública"
+        },
+        {
+          "letra": "E",
+          "texto": "tratados, acordos e convenções internacionais"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "cooperação internacional",
+        "estabelecimento de regras"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q44",
+      "numero": 44,
+      "enunciado_principal": "Em negociações comerciais internacionais, tendo em vista a diversidade de interesses e estratégias entre os países, para construir confiança e garantir acordos duradouros é fundamental levar em consideração a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intervenção proativa, com a utilização de instrumentos de pressão econômica e política para influenciar as decisões dos parceiros, com vistas a obter vantagens unilaterais e a impor os próprios interesses."
+        },
+        {
+          "letra": "B",
+          "texto": "reciprocidade estrita, com a exigência de concessões equivalentes e imediatas em todas as áreas, buscando-se o equilíbrio perfeito em cada etapa da negociação, independentemente do contexto."
+        },
+        {
+          "letra": "C",
+          "texto": "soberania absoluta, com a defesa intransigente dos interesses nacionais, rejeitando-se qualquer forma de compromisso ou cessão de autonomia decisória em nome da cooperação."
+        },
+        {
+          "letra": "D",
+          "texto": "discriminação seletiva, com a priorização de acordos com países que compartilham os mesmos valores políticos e ideológicos, excluindo-se aqueles que apresentam divergências significativas."
+        },
+        {
+          "letra": "E",
+          "texto": "transparência e a boa-fé, com a divulgação clara das informações relevantes e a condução das negociações com honestidade e integridade, em busca de soluções mutuamente benéficas."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "diversidade de interesses",
+        "negociações comerciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q45",
+      "numero": 45,
+      "enunciado_principal": "O Tratado sobre os Princípios que Regem as Atividades dos Estados na Exploração e no Uso do Espaço Exterior tem como principal objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regular a exploração de corpos celestes, exceto a Lua."
+        },
+        {
+          "letra": "B",
+          "texto": "regular a propriedade sobre os recursos no espaço."
+        },
+        {
+          "letra": "C",
+          "texto": "regular a exploração do espaço exterior, incluindo a Lua e outros corpos celestes."
+        },
+        {
+          "letra": "D",
+          "texto": "definir os direitos dos astronautas em missões espaciais privadas."
+        },
+        {
+          "letra": "E",
+          "texto": "regrar a colocação de armas nucleares no espaço."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q47",
+      "numero": 47,
+      "enunciado_principal": "O Acordo sobre o Resgate de Astronautas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tem como principal objetivo estabelecer regras para que os países enviem missões militares ao espaço a fim de resgatar astronautas."
+        },
+        {
+          "letra": "B",
+          "texto": "estabelece regras para o resgate de astronautas, bem como dos objetos que tiverem sido enviados com eles."
+        },
+        {
+          "letra": "C",
+          "texto": "atribui ao secretariado geral das Nações Unidas a função articuladora de coordenação do resgate de astronautas."
+        },
+        {
+          "letra": "D",
+          "texto": "garante que os astronautas sejam resgatados caso sofram acidente em território de qualquer país."
+        },
+        {
+          "letra": "E",
+          "texto": "garante que os astronautas sejam resgatados caso decidam anular uma missão."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q49",
+      "numero": 49,
+      "enunciado_principal": "Com base no Acordo que Regula as Atividades dos Estados na Lua e em Outros Corpos Celestes, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os Estados podem realizar a mineração de metais raros na Lua, sem restrições."
+        },
+        {
+          "letra": "B",
+          "texto": "Os recursos da Lua devem ser destinados ao benefício especial dos países em desenvolvimento."
+        },
+        {
+          "letra": "C",
+          "texto": "Os Estados podem explorar a Lua de forma privada, sem a necessidade de regulamentação internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Os recursos da Lua destinam-se ao benefício exclusivo dos países envolvidos em missões espaciais."
+        },
+        {
+          "letra": "E",
+          "texto": "Os Estados devem cooperar entre si e utilizar os recursos da Lua e de outros corpos celestes de forma que isso beneficie toda a humanidade."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q50",
+      "numero": 50,
+      "enunciado_principal": "No Tratado sobre os Princípios que Regem as Atividades dos Estados na Exploração e no Uso do Espaço Exterior, existe uma cláusula que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proíbe a troca de tecnologia militar entre países."
+        },
+        {
+          "letra": "B",
+          "texto": "permite ensaios com armas em órbita, exceto as de destruição em massa."
+        },
+        {
+          "letra": "C",
+          "texto": "estabelece um sistema de defesa para os astronautas."
+        },
+        {
+          "letra": "D",
+          "texto": "possibilita a utilização de pessoal militar para fins de pesquisas científicas ou para qualquer outro fim pacífico."
+        },
+        {
+          "letra": "E",
+          "texto": "permite a criação de bases militares em outros planetas."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q51",
+      "numero": 51,
+      "enunciado_principal": "O Acordo sobre o Retorno de Objetos Lançados no Espaço Exterior especifica que o Estado em cujo território caia um objeto espacial de outro Estado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pode autorizar imediatamente que o objeto seja destruído."
+        },
+        {
+          "letra": "B",
+          "texto": "pode negociar a venda do objeto ao país que realizar sua recuperação."
+        },
+        {
+          "letra": "C",
+          "texto": "deve permitir que o país de origem recupere o objeto de acordo com as normas do referido acordo internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "deve entregar o objeto ao país de origem, sem necessidade de seguir qualquer procedimento legal para tanto."
+        },
+        {
+          "letra": "E",
+          "texto": "pode manter o objeto e usá-lo para fins militares, até que o país de origem o reclame."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q53",
+      "numero": 53,
+      "enunciado_principal": "O Programa Espacial Brasileiro (PEB) foi oficialmente instituído para coordenar as atividades espaciais no País. Diversos acontecimentos contribuíram para estruturar e para implementar o programa, sendo um dos eventos que marcou de modo significativo a estruturação do PEB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a criação de uma estação de rastreio em Fernando de Noronha, em 1956."
+        },
+        {
+          "letra": "B",
+          "texto": "a internalização no Brasil do Tratado do Espaço, realizada por meio de decreto."
+        },
+        {
+          "letra": "C",
+          "texto": "a formalização do Grupo de Organização da Comissão Nacional de Atividades Espaciais (GOCNAE), que originou a Comissão Nacional de Atividades Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "a construção da estação operacional de Cuiabá para receber imagens de satélites."
+        },
+        {
+          "letra": "E",
+          "texto": "o lançamento do primeiro satélite brasileiro, em 1993."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "atividades espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q54",
+      "numero": 54,
+      "enunciado_principal": "Uma das principais funções do Comitê das Nações Unidas para o Uso Pacífico do Espaço Exterior (COPUOS), criado em 1959 pela\n\nAssembleia Geral\n\nda\n\nOrganização das\n\nNações Unidas (ONU), é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desenvolver normas e princípios visando à exploração não conflituosa do espaço."
+        },
+        {
+          "letra": "B",
+          "texto": "definir padrões técnicos para a construção de veículos espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "regulamentar a exploração comercial do espaço por empresas privadas."
+        },
+        {
+          "letra": "D",
+          "texto": "supervisionar a construção de bases lunares internacionais."
+        },
+        {
+          "letra": "E",
+          "texto": "emitir licenças para lançamento de satélites no espaço exterior."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "funções do comitê das nações"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q55",
+      "numero": 55,
+      "enunciado_principal": "Com relação às políticas espaciais, assinale a opção na qual é apresentada a iniciativa que prevê, especificamente, o uso de dados espaciais para resposta a desastres naturais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Marco de Sendai para Redução de Desastres"
+        },
+        {
+          "letra": "B",
+          "texto": "Acordo de Salvaguardas Tecnológicas Brasil-Estados Unidos da América"
+        },
+        {
+          "letra": "C",
+          "texto": "Acordo Artemis"
+        },
+        {
+          "letra": "D",
+          "texto": "Carta Espacial Internacional Espaço e Grandes Catástrofes"
+        },
+        {
+          "letra": "E",
+          "texto": "Convenção Quadro das Nações Unidas sobre Mudança do Clima"
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q57",
+      "numero": 57,
+      "enunciado_principal": "O Brasil ratificou alguns tratados espaciais internacionais e, por meio deles, internalizou princípios fundamentais para a governança do tema via decretos executivos. Desses tratados, o que incentivou o país a estabelecer uma estrutura institucional para coordenar as atividades espaciais foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o Tratado de Montego Bay, que prevê a delimitação espacial sob jurisdição internacional."
+        },
+        {
+          "letra": "B",
+          "texto": "o Tratado sobre os princípios que regem as atividades dos Estados na exploração e no uso do espaço exterior, inclusive a Lua e outros corpos celestes."
+        },
+        {
+          "letra": "C",
+          "texto": "a Convenção sobre Responsabilidade Internacional por Danos Causados por Objetos Espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "o Acordo sobre o resgate de astronautas, o retorno de astronautas e a devolução de objetos lançados no espaço exterior."
+        },
+        {
+          "letra": "E",
+          "texto": "a Convenção sobre o Registro de Objetos Lançados no Espaço Exterior."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "atividades espaciais",
+        "estrutura institucional"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q58",
+      "numero": 58,
+      "enunciado_principal": "O Brasil tem defendido, no âmbito internacional, políticas voltadas para a sustentabilidade no espaço. Nesse sentido, um dos principais temas defendidos pelo país é relativo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à inclusão de um objetivo de desenvolvimento sustentável específico para a exploração espacial."
+        },
+        {
+          "letra": "B",
+          "texto": "à repartição de benefícios oriundos da exploração de recursos espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "à regulamentação das patentes decorrentes da exploração dos recursos espaciais."
+        },
+        {
+          "letra": "D",
+          "texto": "ao desenvolvimento de estações espaciais exclusivas para países em desenvolvimento."
+        },
+        {
+          "letra": "E",
+          "texto": "à elaboração de normas específicas sobre detritos espaciais."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q59",
+      "numero": 59,
+      "enunciado_principal": "Assinale a opção em que é corretamente apresentado o nome do primeiro satélite desenvolvido pelo Brasil que desempenhou um papel fundamental no monitoramento ambiental e na segurança alimentar.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sputnik"
+        },
+        {
+          "letra": "B",
+          "texto": "Amazônia-1"
+        },
+        {
+          "letra": "C",
+          "texto": "Voyager 1"
+        },
+        {
+          "letra": "D",
+          "texto": "SGDC-1"
+        },
+        {
+          "letra": "E",
+          "texto": "Hubble"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [
+        "monitoramento ambiental"
+      ],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-1-Conhecimentos-Especificos-q60",
+      "numero": 60,
+      "enunciado_principal": "O principal objetivo da Convenção sobre o Registro de Objetos Lançados ao Espaço Exterior (1976), da qual o Brasil é signatário, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proibir lançamentos comerciais de satélites sem autorização da ONU."
+        },
+        {
+          "letra": "B",
+          "texto": "criar um banco de dados global para o rastreamento de objetos espaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "estabelecer um sistema de pagamento de royalties pela exploração do espaço."
+        },
+        {
+          "letra": "D",
+          "texto": "garantir que apenas Estados-membros da ONU possam lançar satélites no espaço."
+        },
+        {
+          "letra": "E",
+          "texto": "regular a repartição de benefícios e de patentes relacionadas à exploração dos corpos celestes."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 1 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 1",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-1-Conhecimentos-Especificos.pdf"
+    }
+  ]
+}

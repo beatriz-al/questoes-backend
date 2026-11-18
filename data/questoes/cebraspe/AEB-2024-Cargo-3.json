@@ -1,0 +1,1285 @@
+{
+  "prova_id": "AEB-2024-Cargo-3",
+  "banca": "cebraspe",
+  "meta": {
+    "cargo": "Cargo 3",
+    "ano": "2024",
+    "orgao": "AEB",
+    "slug": "AEB_24",
+    "link_acesso": "https://www.cebraspe.org.br/concursos/AEB_24",
+    "link_documento": "https://cdn.cebraspe.org.br/concursos/AEB_24/arquivos/051_AEB_24_003_01.pdf"
+  },
+  "erros": [
+    "Q28: enunciado vazio",
+    "Q33: enunciado vazio",
+    "Q34: enunciado vazio",
+    "Q40: enunciado vazio",
+    "Q47: enunciado vazio",
+    "Q50: enunciado vazio",
+    "Q53: enunciado vazio"
+  ],
+  "total": 33,
+  "questoes": [
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q21",
+      "numero": 21,
+      "enunciado_principal": "Quando de sua criação, a Agência Espacial Brasileira (AEB), autarquia federal de natureza civil, era vinculada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao Instituto Nacional de Pesquisas Espaciais."
+        },
+        {
+          "letra": "B",
+          "texto": "à Força Aérea Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "ao Ministério da Defesa."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Ministério da Ciência, Tecnologia e Inovação."
+        },
+        {
+          "letra": "E",
+          "texto": "à Presidência da República."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "natureza civil",
+        "agência espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q22",
+      "numero": 22,
+      "enunciado_principal": "No que se refere à nova estrutura regimental da AEB, aprovada pelo Decreto n.º 11.192/2022, julgue os itens a seguir. I\n\nCompete à Diretoria de Assuntos Estratégicos acompanhar a\n\npolítica nacional de energia nuclear, e seus desdobramentos\n\nem objetivos e metas. II Compete à Diretoria de Gestão de Portfólio gerenciar os\n\ncontratos que, decorrentes de projetos em execução, sejam\n\nrelativos à transferência de tecnologias associadas a sistemas\n\nespaciais para o setor produtivo. III Compete à Diretoria de Inteligência Estratégica e Novos\n\nNegócios elaborar estudos estratégicos, em conjunto com as\n\nForças Armadas, para identificar ameaças internacionais no\n\nque se refere à utilização de armamento em ambiente espacial\n\npor outros países. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "utilização de armamento",
+        "gestão de portfólio",
+        "estrutura regimental",
+        "inteligência estratégica",
+        "transferência de tecnologias"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q23",
+      "numero": 23,
+      "enunciado_principal": "Com base na Lei n.º 14.946/2024, a autorização para voo de um veículo lançador civil em espaço aéreo brasileiro deverá ser expedida",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela Agência Nacional de Aviação Civil e pelo Exército Brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "pela Agência Espacial Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "pela Agência Espacial Brasileira e pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo Comando da Aeronáutica."
+        },
+        {
+          "letra": "E",
+          "texto": "pela Agência Nacional de Aviação Civil."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q24",
+      "numero": 24,
+      "enunciado_principal": "Conforme o Decreto n.º 10.220/2020, servidores do governo dos Estados Unidos da América (EUA) presentes no Centro Espacial de Alcântara e que estejam ligados a atividades de lançamento têm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acesso a áreas onde veículos lançadores e espaçonaves dos EUA estão armazenados, pois esses espaços, quando ocupados dessa forma, deixam de ser considerados como áreas restritas ou controladas pela parte brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "livre acesso, sem qualquer aviso prévio, a áreas restritas ou controladas em qualquer tempo nas áreas que estão veículos lançadores e espaçonaves dos EUA."
+        },
+        {
+          "letra": "C",
+          "texto": "limitação de acesso a áreas restritas ou controladas, mesmo em áreas onde estão veículos lançadores e espaçonaves dos EUA."
+        },
+        {
+          "letra": "D",
+          "texto": "acesso a áreas restritas ou controladas onde estão veículos lançadores e espaçonaves dos EUA, desde que requisitem autorização prévia com, no mínimo, um dia de antecedência."
+        },
+        {
+          "letra": "E",
+          "texto": "acesso a áreas restritas ou controladas onde estão veículos lançadores e espaçonaves dos EUA, desde que previamente autorizados pelo contrato específico de lançamento."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "atividades de lançamento"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q25",
+      "numero": 25,
+      "enunciado_principal": "De acordo com o Regulamento Espacial Brasileiro (REB), assinale a opção correta acerca da obtenção de licença de operador de lançamento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A obtenção da licença ocorre a partir de consulta prévia obrigatória da AEB aos órgãos e entidades da administração pública federal, para fins de verificação de ausência de conflito entre a parte requerente e os interesses de segurança nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "A publicação do resultado do pedido de deferimento da licença deve ocorrer no prazo de até trinta dias contados a partir da data do pedido, podendo o prazo ser prorrogado por igual período."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente pode ser deferido pedido de licença de parte requerente que forneça documentação relativa à sua personalidade jurídica, à sua qualificação técnica e à sua regularidade fiscal e trabalhista."
+        },
+        {
+          "letra": "D",
+          "texto": "A obtenção da licença depende da comprovação de aptidão técnica da parte requerente, a qual deve ser realizada por meio de atestado de qualificação."
+        },
+        {
+          "letra": "E",
+          "texto": "Para deferimento do pedido de licença, é prescindível que a parte requerente comprove que tem sede ou representação legal no Brasil."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "regulamento espacial",
+        "obtenção de licença de operador"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q26",
+      "numero": 26,
+      "enunciado_principal": "Segundo o seu Programa de Desenvolvimento Integrado (PDI), o Centro Espacial de Alcântara (CEA) tem, entre outros, o objetivo de realizar I\n\natividades industriais que se relacionem ao Setor Espacial\n\nBrasileiro. II atividades relacionadas ao turismo e à conscientização da\n\nsociedade sobre o valor das atividades espaciais. III o lançamento de artefatos espaciais civis e militares. IV a capacitação de capital humano. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I, II e III estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I, III e IV estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I, II e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "atividades espaciais",
+        "atividades industriais",
+        "capacitação de capital humano",
+        "lançamento de artefatos espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q27",
+      "numero": 27,
+      "enunciado_principal": "Com base na Política de Inovação da Agência Espacial Brasileira, assinale a opção correta acerca da adoção e do apoio a criações de inventores independentes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É responsabilidade do Núcleo de Inovação Tecnológica da AEB avaliar a invenção cuja adoção tenha sido solicitada, bem como a sua afinidade com a área espacial."
+        },
+        {
+          "letra": "B",
+          "texto": "Após concedido o apoio da AEB, é vedada a transferência de tecnologia para empresas já constituídas."
+        },
+        {
+          "letra": "C",
+          "texto": "A solicitação de inventor para a adoção da sua criação pela AEB deverá ser avaliada pelo Instituto Nacional de Propriedade Industrial (INPI)."
+        },
+        {
+          "letra": "D",
+          "texto": "O inventor independente não será obrigado a compartilhar com a AEB os eventuais ganhos econômicos auferidos com a exploração da invenção protegida adotada pela Agência."
+        },
+        {
+          "letra": "E",
+          "texto": "Para receber o apoio da AEB, o inventor deve comprovar a viabilidade técnica e econômica de sua invenção."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "criações de inventores",
+        "inovação da agência espacial"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q29",
+      "numero": 29,
+      "enunciado_principal": "No que se refere à análise das estratégias e dos resultados das políticas públicas, é correto afirmar que a corrente teórica neoinstitucionalista",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "negligencia o papel das instituições na análise das políticas públicas, concentrando-se exclusivamente nos aspectos econômicos e nas relações de poder entre os atores sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "foca exclusivamente os grupos de interesse e as demandas da sociedade civil como determinantes das políticas públicas, em contraposição ao papel do Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "prioriza a análise do Estado como um ator neutro que busca conciliar os interesses diversos da sociedade, desde sua origem, sem considerar a influência das instituições."
+        },
+        {
+          "letra": "D",
+          "texto": "baseia-se em uma perspectiva marxista, considerando as políticas públicas reflexo dos interesses do capital e da luta de classes, sem levar em conta a autonomia do Estado."
+        },
+        {
+          "letra": "E",
+          "texto": "focava inicialmente o Estado como o principal agente na formulação de políticas (state-centered), tendo evoluído para uma abordagem que prevê um equilíbrio entre o papel do Estado e o da sociedade (polity-centered) na formulação dessas políticas."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "análise das estratégias"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q30",
+      "numero": 30,
+      "enunciado_principal": "Assinale a opção correta no que diz respeito aos modelos de tomada de decisão em políticas públicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O modelo racional é aplicável apenas em contextos de certeza, ao passo que o incremental é mais flexível e adaptável; o chamado modelo da lata de lixo combina elementos de ambos, com foco na interação entre problemas e soluções."
+        },
+        {
+          "letra": "B",
+          "texto": "O modelo racional é baseado em negociações e compromissos, ao passo que o incremental foca a maximização dos objetivos com base em informações precisas; o chamado modelo da lata de lixo prioriza a convergência de problemas e soluções."
+        },
+        {
+          "letra": "C",
+          "texto": "O modelo racional é focado em decisões técnicas, ao passo que o incremental prioriza aspectos políticos; o chamado modelo da lata de lixo é uma variante do incremental, mas com maior ênfase nas instituições."
+        },
+        {
+          "letra": "D",
+          "texto": "O modelo racional busca maximizar os objetivos com base em informações precisas, ao passo que o incremental envolve negociações e compromissos; o chamado modelo da lata de lixo é similar ao incremental, mas com foco em ambiguidades."
+        },
+        {
+          "letra": "E",
+          "texto": "O modelo racional avalia todas as alternativas possíveis para maximizar os objetivos, ao passo que o incremental envolve mudanças graduais por meio de negociações; o chamado modelo da lata de lixo caracteriza-se pela busca de soluções para problemas mal definidos. Espaço livre"
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q31",
+      "numero": 31,
+      "enunciado_principal": "Constitui exemplo de política pública redistributiva",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a concessão de subsídios para empresas que contratem jovens aprendizes, com vistas ao aumento da empregabilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "a implementação de um sistema de saúde universal que ofereça atendimento gratuito a todos os cidadãos, independentemente da renda."
+        },
+        {
+          "letra": "C",
+          "texto": "a criação de um programa de isenção de impostos para pessoas com renda inferior a determinado limite, de forma a permitir que esses indivíduos tenham maior poder de compra."
+        },
+        {
+          "letra": "D",
+          "texto": "o financiamento de projetos culturais que visem promover a diversidade e a inclusão social em comunidades carentes."
+        },
+        {
+          "letra": "E",
+          "texto": "a construção de estradas e infraestrutura que beneficiem a população em geral, sem foco em grupos específicos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q32",
+      "numero": 32,
+      "enunciado_principal": "Considerando a relação entre orçamento e política fiscal, julgue os itens a seguir. I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "política fiscal pode contribuir para a manutenção de elevado nível de emprego por meio de incentivos governamentais. II A estabilidade nos níveis de preços pode ser influenciada pela política fiscal, especialmente por meio da gestão orçamentária dos gastos e receitas públicas. III A política fiscal influencia de forma direta a administração da taxa de câmbio, por meio da execução orçamentária e do equilíbrio fiscal. Assinale a opção correta."
+        },
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q35",
+      "numero": 35,
+      "enunciado_principal": "Instituído pela Lei Complementar n.º 200/2023, o regime fiscal sustentável (RFS)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabelece que o crescimento real dos limites da despesa primária poderá variar de 0,6% a 2,5% ao ano."
+        },
+        {
+          "letra": "B",
+          "texto": "estabelece um limite fixo e inalterável para as despesas primárias do governo."
+        },
+        {
+          "letra": "C",
+          "texto": "permite o crescimento ilimitado das despesas públicas caso a arrecadação supere as metas estabelecidas."
+        },
+        {
+          "letra": "D",
+          "texto": "tem como único objetivo a manutenção de superávit primário em todos os exercícios financeiros."
+        },
+        {
+          "letra": "E",
+          "texto": "prevê que o equilíbrio das contas públicas seja automaticamente mantido por meio da arrecadação tributária e do crescimento econômico, o que dispensa a necessidade de ajustes fiscais."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "lei complementar"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q36",
+      "numero": 36,
+      "enunciado_principal": "De acordo com as normas brasileiras relacionadas ao gerenciamento de projetos,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o engajamento das partes interessadas tem como objetivo identificar, compreender e tratar as necessidades, os interesses e as preocupações das partes interessadas."
+        },
+        {
+          "letra": "B",
+          "texto": "as partes interessadas devem atuar no projeto de forma mediada pelos membros da equipe de trabalho, não devendo nele se envolver direta ou ativamente."
+        },
+        {
+          "letra": "C",
+          "texto": "o engajamento das partes interessadas tem como objetivo principal a produção de material de divulgação do projeto para manter as partes de interesse motivadas com o propósito do projeto."
+        },
+        {
+          "letra": "D",
+          "texto": "são consideradas partes interessadas apenas aquelas externas ao projeto, como investidores e patrocinadores."
+        },
+        {
+          "letra": "E",
+          "texto": "o processo de identificar as partes interessadas para benefício do projeto deve ser realizado apenas no início de um projeto."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "gerenciamento de projetos"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q37",
+      "numero": 37,
+      "enunciado_principal": "Conforme\n\nas\n\nnormas técnicas\n\nbrasileiras relativas\n\nao gerenciamento de projetos, um portfólio, no âmbito do gerenciamento de projetos, consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um grupo formado apenas por projetos que estejam atualmente em desenvolvimento na organização."
+        },
+        {
+          "letra": "B",
+          "texto": "uma lista de produtos finalizados que se pretende mostrar a um cliente."
+        },
+        {
+          "letra": "C",
+          "texto": "um conjunto de produtos ou serviços que tenham resultado do empreendimento de um único esforço temporário."
+        },
+        {
+          "letra": "D",
+          "texto": "um conjunto de projetos, programas e trabalhos realizados para que se atinjam os objetivos estratégicos de uma organização."
+        },
+        {
+          "letra": "E",
+          "texto": "um grupo de possíveis projetos a serem executados no futuro."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "gerenciamento de projetos consiste"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q38",
+      "numero": 38,
+      "enunciado_principal": "No que concerne aos indicadores-chave de desempenho (KPI), assinale a opção correta, considerando o PMBOK 7.ª edição.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um indicador de antecipação é utilizado primordialmente para verificar a relação causal entre resultados e variáveis ambientais."
+        },
+        {
+          "letra": "B",
+          "texto": "São exemplos de indicadores de espera o número de entregas concluídas, a variação de custo e a quantidade de recursos consumidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os KPI são medidas qualitativas de avaliação de desempenho."
+        },
+        {
+          "letra": "D",
+          "texto": "O sucesso de um projeto não pode ser avaliado de forma quantitativa de acordo com os KPI."
+        },
+        {
+          "letra": "E",
+          "texto": "Caso o indicador de antecipação seja de difícil quantificação, ele não pode ser utilizado para avaliação de determinado projeto."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q39",
+      "numero": 39,
+      "enunciado_principal": "No ciclo de vida de um projeto, a etapa em que o gerente pode identificar desvios a fim de garantir o correto andamento do projeto é a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iniciação."
+        },
+        {
+          "letra": "B",
+          "texto": "planejamento."
+        },
+        {
+          "letra": "C",
+          "texto": "execução."
+        },
+        {
+          "letra": "D",
+          "texto": "monitoramento e controle."
+        },
+        {
+          "letra": "E",
+          "texto": "encerramento."
+        }
+      ],
+      "gabarito": "D",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "andamento do projeto"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q41",
+      "numero": 41,
+      "enunciado_principal": "No controle de projetos, para representar o cronograma de atividades de maneira temporal em forma de tabela, é indicado o uso do",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gráfico de Gantt."
+        },
+        {
+          "letra": "B",
+          "texto": "Roadmaps."
+        },
+        {
+          "letra": "C",
+          "texto": "Kanban."
+        },
+        {
+          "letra": "D",
+          "texto": "CPM (critical path method)."
+        },
+        {
+          "letra": "E",
+          "texto": "Scrum."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "atividades de maneira temporal"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q42",
+      "numero": 42,
+      "enunciado_principal": "Considerando o desenvolvimento de um novo circuito de uma câmera térmica de cubesat, é correto afirmar que, após a elaboração de um protótipo e da realização de testes em laboratório, o TRL (technology readiness level) alcançado é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "TRL 2."
+        },
+        {
+          "letra": "B",
+          "texto": "TRL 3."
+        },
+        {
+          "letra": "C",
+          "texto": "TRL 4."
+        },
+        {
+          "letra": "D",
+          "texto": "TRL 5."
+        },
+        {
+          "letra": "E",
+          "texto": "TRL 6."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "realização de testes"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q43",
+      "numero": 43,
+      "enunciado_principal": "Segundo as normas técnicas brasileiras para a organização de projetos de sistemas espaciais, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O lançamento de um satélite deve se dar na última fase de um projeto (fase F)."
+        },
+        {
+          "letra": "B",
+          "texto": "A primeira fase de um projeto (fase A), denominada fase de definição, tem como principal objetivo definir uma proposta específica para desenvolvimento do projeto."
+        },
+        {
+          "letra": "C",
+          "texto": "O objetivo principal da fase de desenvolvimento (fase C) de um projeto, é a obtenção de um design qualificado para a produção dos produtos necessários para a operação do sistema."
+        },
+        {
+          "letra": "D",
+          "texto": "As fases de desenvolvimento e produção devem necessariamente ser conduzidas de forma independente, mesmo quando o projeto levar à produção de uma única unidade de voo."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo de qualificação tem como objetivo principal assegurar que um projeto disponha de recursos governamentais suficientes para ser iniciado. Espaço livre"
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "organização de projetos",
+        "projetos de sistemas espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q44",
+      "numero": 44,
+      "enunciado_principal": "De acordo com as normas técnicas brasileiras para a organização de projetos de sistemas espaciais, as fases de um projeto de satélite são as listadas a seguir. 1 fase de viabilidade; 2 fase de análise da missão; 3 fase de desenvolvimento; 4 fase de eliminação; 5 fase de definição; 6 fase de produção; 7 fase de utilização. Assinale a opção que apresenta corretamente a ordem em que as sete fases precedentes tipicamente ocorrem.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3, 1, 2, 5, 6, 4 e 7"
+        },
+        {
+          "letra": "B",
+          "texto": "2, 1, 5, 3, 6, 7 e 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1, 2, 5, 3, 6, 7 e 4"
+        },
+        {
+          "letra": "D",
+          "texto": "1, 2, 3, 5, 6, 7 e 4"
+        },
+        {
+          "letra": "E",
+          "texto": "2, 1, 3, 5, 6, 7 e 4"
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "análise da missão",
+        "organização de projetos",
+        "projeto de satélite",
+        "projetos de sistemas espaciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q45",
+      "numero": 45,
+      "enunciado_principal": "Considerando que um veículo lançador de dois estágios opera com hidrocarboneto da família dos alcanos \u0002C\u0002H\u0003\u0002\u0004\u0003\u0005 como combustível e oxigênio líquido como oxidante, assinale a opção correta, com base no par propelente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na atualidade, não existem sistemas de propulsão com oxigênio líquido e n = 1 ou n > 20."
+        },
+        {
+          "letra": "B",
+          "texto": "Em termos de impulso específico (no nível do mar), um motor com n = 1 seria de qualidade inferior àquele com H2 e O2 líquidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Para n > 20, a proporção do vapor d’água nos produtos, em base mássica, supera a proporção do dióxido de carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "Um motor bipropelente líquido com n = 1 tem impulso específico (no nível do mar) superior ao do motor a propelentes híbridos com n > 20."
+        },
+        {
+          "letra": "E",
+          "texto": "O motor a propelentes híbridos com n > 20 tem potencial de queima acidental superior a um correspondente a propelentes sólidos nas fases de integração do veículo lançador."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q46",
+      "numero": 46,
+      "enunciado_principal": "Um veículo lançador de satélites de pequeno porte, com dois estágios, apresenta as seguintes características: •\n\nmassa total no momento do lançamento de 10.000 kg; •\n\nmassa da carga útil igual a 40 kg; •\n\nórbita inclinada de 97,35°; •\n\n500 km de altitude; •\n\npropulsores do 1.º estágio: isp (no nível do mar) de 234 s; •\n\npropulsores do 2.º estágio: isp de 315 s. Tendo como referência essa situação hipotética, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O impulso específico dos propulsores do segundo estágio indica que o motor é à base de LOx e querosene."
+        },
+        {
+          "letra": "B",
+          "texto": "Operando em Alcântara, tal lançamento requereria"
+        },
+        {
+          "letra": "C",
+          "texto": "O DeltaV, para a órbita requerida, é de no máximo 1.500 m/s."
+        },
+        {
+          "letra": "D",
+          "texto": "A fração de carga útil (40 kg/10.000 kg) é incompatível com a tecnologia atual de veículos lançadores, uma vez que a carga útil máxima deveria ser de 4 kg."
+        },
+        {
+          "letra": "E",
+          "texto": "O impulso específico dos propulsores do primeiro estágio indica que o motor é à base de hidrogênio e oxigênio líquidos."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "momento do lançamento"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q48",
+      "numero": 48,
+      "enunciado_principal": "Acerca da reutilização de estágios de veículos lançadores, conforme praticado pela SpaceX, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Veículos de três ou mais estágios seriam os mais recomendados para empregar a estratégia de reutilização, uma vez que facilita a recuperação dos estágios."
+        },
+        {
+          "letra": "B",
+          "texto": "O DeltaV do primeiro estágio tem pouca influência na reutilização em comento."
+        },
+        {
+          "letra": "C",
+          "texto": "Empregando-se motores de alto desempenho à base de LOx e querosene é possível desenvolver um veículo lançador de pequenos satélites de estágio único reutilizável."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso de motores sólidos é uma alternativa tecnológica para a reutilização desses estágios."
+        },
+        {
+          "letra": "E",
+          "texto": "Em um veículo de dois estágios, o elevado DeltaV do segundo estágio dificulta sua reutilização."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "reutilização de estágios"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q49",
+      "numero": 49,
+      "enunciado_principal": "Tendo em vista que o governo brasileiro, em parceria com a iniciativa privada, está desenvolvendo dois veículos lançadores de satélites de pequeno porte, em que ambos empregam propulsão sólida nos três estágios, assinale a opção correta, com base nessa tecnologia propulsiva.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A integração de dois veículos, se realizada verticalmente e nas proximidades do ponto de lançamento, limita a frequência de missões daquele sítio. No CLA, essa fase pode ser feita em uma estrutura similar à TMI (torre móvel de integração)."
+        },
+        {
+          "letra": "B",
+          "texto": "Motores-foguetes a combustível sólido são mais simples e de menor custo de desenvolvimento, contudo, são muito mais complexos para fabricação e têm maior custo, comparativamente à propulsão líquida."
+        },
+        {
+          "letra": "C",
+          "texto": "Garante-se maior precisão na inserção orbital empregando-se três estágios, quando comparados a um veículo de dois estágios."
+        },
+        {
+          "letra": "D",
+          "texto": "Considere que um dos veículos tenha a seguinte distribuição de massa para o primeiro, o segundo e o terceiro estágios:"
+        },
+        {
+          "letra": "E",
+          "texto": "Se, para um dos veículos, os dois primeiros estágios são baseados em um mesmo motor, então, em termos de distribuição de massa e de fração de DeltaV, esse veículo estaria na configuração ótima."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q51",
+      "numero": 51,
+      "enunciado_principal": "Em relação aos satélites nacionais, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os satélites geoestacionários de comunicação operam em órbita circular de até 1.000 km de altitude."
+        },
+        {
+          "letra": "B",
+          "texto": "O INPE está desenvolvendo satélites baseados na PMM, inclusive um meteorológico, em parceria com a China."
+        },
+        {
+          "letra": "C",
+          "texto": "Atualmente, o INPE opera quatro satélites: dois em parceria com a China (CBERS); um baseado na plataforma multimissão (PMM); e um geoestacionário de comunicação estratégica (SGDC)."
+        },
+        {
+          "letra": "D",
+          "texto": "Os satélites da família CBERS, em operação, são utilizados para sensoriamento remoto, com sensores ativos e passivos."
+        },
+        {
+          "letra": "E",
+          "texto": "O satélite Amazonia-1 foi planejado e construído para sensoriamento remoto, emprega a PMM como módulo de serviço e é operado por profissionais brasileiros."
+        }
+      ],
+      "gabarito": "E",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q52",
+      "numero": 52,
+      "enunciado_principal": "Assinale a opção correta, considerando que, em uma operação de lançamento, as equipes operacionais e de segurança são responsáveis pelo veículo e pela sua carga útil, desde os momentos iniciais do voo até a inserção do satélite em órbita.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em uma operação de lançamento, a separação da coifa que protege a carga útil pode ocorrer entre 50 km e 80 km de altitude."
+        },
+        {
+          "letra": "B",
+          "texto": "A infraestrutura básica do sistema de localização do veículo e da carga útil deve, idealmente, contar com radares, sistema de tratamento de dados e sistema de visualização gráfica de localização. Lançamentos a partir do CLA podem se valer da infraestrutura de localização do CLBI, quando requisitado."
+        },
+        {
+          "letra": "C",
+          "texto": "No CLA, o setor de preparação e lançamento de veículos de pequeno porte, propulsados a propelente sólido, tem instalações destinadas à preparação, aos ensaios de controle dos módulos do veículo e da carga útil e ao ensaio de propulsores de estágios superiores."
+        },
+        {
+          "letra": "D",
+          "texto": "As condições meteorológicas são de importância secundária nas missões de lançamento orbitais, mas são crucias nos voos suborbitais."
+        },
+        {
+          "letra": "E",
+          "texto": "O plano de segurança de uma campanha de lançamento compreende a segurança de voo, a segurança de superfície e a segurança espacial, e, ocorrendo uma colisão com outro artefato espacial, é acionado o sistema de comando de teledestruição do veículo."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "operação de lançamento",
+        "inserção do satélite",
+        "momentos iniciais"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q54",
+      "numero": 54,
+      "enunciado_principal": "O rol de atores do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI), conforme a Política Nacional de Ciência, Tecnologia e Inovação (PNCTI), inclui I\n\no Ministério da Ciência, Tecnologia e Inovação. II o Banco Nacional de Desenvolvimento Econômico e Social\n\n(BNDES). III as assembleias legislativas estaduais. IV a Confederação Nacional da Indústria. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens II e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos. <<<HLINE>>> Espaço livre"
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "desenvolvimento econômico",
+        "confederação nacional da indústria"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q55",
+      "numero": 55,
+      "enunciado_principal": "Considerando as fontes de financiamento do PNCTI, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O objetivo central do Fundo Setorial Aeroespacial é estimular o desenvolvimento científico e tecnológico da indústria aeroespacial nacional, principalmente no que tange aos projetos de desenvolvimento de satélites e de veículos lançadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Existem, no total, quatro fundos setoriais em operação inseridos no Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT)."
+        },
+        {
+          "letra": "C",
+          "texto": "Os recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) somete poderão ser aplicados na modalidade reembolsável, sob a forma de empréstimo à Financiadora de Estudos e Projetos (FINEP)."
+        },
+        {
+          "letra": "D",
+          "texto": "As receitas do Fundo Setorial Espacial são provenientes dos lançamentos efetuados no Centro Espacial de Alcântara e de porcentagem do faturamento bruto das empresas de manufaturas de sistemas de satélites que atuam no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "As ações transversais do PNCTI serão financiadas por recursos de mais de um fundo setorial."
+        }
+      ],
+      "gabarito": "X",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q56",
+      "numero": 56,
+      "enunciado_principal": "Com base na Lei do Bem (Lei n.º 11.196/2005), assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A União poderá subvencionar o valor da remuneração de pesquisadores que estejam cursando pós-graduação em nível de mestrado ou doutorado empregados em atividades de inovação tecnológica no território brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "A pessoa jurídica responsável pela concepção de inovação tecnológica poderá usufruir de dedução fiscal, para fins de apuração do lucro líquido, nos termos especificados na lei."
+        },
+        {
+          "letra": "C",
+          "texto": "O emprego dos benefícios fiscais da Lei do Bem independe da comprovação de regularidade fiscal da pessoa jurídica beneficiada."
+        },
+        {
+          "letra": "D",
+          "texto": "É prevista a redução de 10% do imposto sobre produtos industrializados (IPI) incidente em aparelhos e instrumentos destinados a pesquisa e desenvolvimento tecnológico."
+        },
+        {
+          "letra": "E",
+          "texto": "Nas remessas de produtos ao exterior destinadas ao registro e manutenção de patentes, a alíquota do imposto de renda retido na fonte é fixada em 10%."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "lei do bem lei"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q57",
+      "numero": 57,
+      "enunciado_principal": "De acordo com a Lei de Informática (Lei n.º 8.248/1991), julgue os itens a seguir. I\n\nEmpresas que exerçam atividades de desenvolvimento de\n\ntecnologias da informação e que investirem em atividades de\n\npesquisa, desenvolvimento e inovação farão jus a crédito\n\nfinanceiro decorrente do gasto mínimo efetivamente aplicado\n\nnessas atividades. II São isentas do IPI as compras de máquinas e equipamentos\n\nutilizados na execução de programa de pesquisa científica. III Serão concedidos incentivos às empresas que investirem,\n\nanualmente, no mínimo 20% de seu faturamento bruto no\n\nmercado interno, em atividades de pesquisa, desenvolvimento\n\ne inovação referentes ao setor de tecnologias da informação e\n\ncomunicação. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "execução de programa",
+        "lei de informática lei",
+        "atividades de pesquisa",
+        "inovação farão",
+        "inovação referentes"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q58",
+      "numero": 58,
+      "enunciado_principal": "Em relação ao modelo da tripla hélice (ou hélice tríplice), julgue os itens seguintes. I\n\nEsse modelo prevê uma metodologia de governança para o\n\nexame de pontos fortes e fracos locais e o preenchimento de\n\nlacunas nas relações entre parques tecnológicos, indústrias e\n\ngovernos. II Tal modelo prevê fomento à criação de empresas, porém, sem\n\na transferência de tecnologias. III Cada hélice do modelo é uma esfera institucional\n\nindependente, mas\n\nque\n\ntrabalha em\n\ncooperação e interdependência com as demais, por meio de fluxos de conhecimento entre elas. Assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "B",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "relação ao modelo",
+        "transferência de tecnologias",
+        "fomento à criação de empresas"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q59",
+      "numero": 59,
+      "enunciado_principal": "Com base no marco legal de ciência, tecnologia e inovação, assinale a opção correta. Nesse sentido, considere que a sigla ICT, sempre que empregada, significa instituição científica, tecnológica e de inovação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É vedado às ICT públicas prestar serviços técnicos especializados a instituições públicas ou privadas."
+        },
+        {
+          "letra": "B",
+          "texto": "No âmbito de acordo de parceria para pesquisa, desenvolvimento e inovação, é facultada a transferência de recursos financeiros públicos para o parceiro privado."
+        },
+        {
+          "letra": "C",
+          "texto": "A celebração de acordo de parceria para pesquisa, desenvolvimento e inovação dispensa licitação ou outro processo competitivo de seleção equivalente."
+        },
+        {
+          "letra": "D",
+          "texto": "No âmbito de acordo de parceria para pesquisa, desenvolvimento e inovação, a ICT pública é impedida de ceder ao parceiro privado a totalidade dos direitos de propriedade intelectual de quaisquer tecnologias geradas durante a vigência do acordo."
+        },
+        {
+          "letra": "E",
+          "texto": "É exigida da ICT pública a celebração de contrato de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de criação por ela desenvolvida isoladamente ou por meio de parceria."
+        }
+      ],
+      "gabarito": "C",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [
+        "instituição científica"
+      ],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    },
+    {
+      "id": "AEB-2024-Cargo-3-Conhecimentos-Especificos-q60",
+      "numero": 60,
+      "enunciado_principal": "Um dos eixos da Política de Inovação da AEB prevê",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a ampliação da qualificação profissional por meio da formação tecnológica de recursos humanos da AEB, de empresas, de ICT e de entidades privadas sem fins lucrativos dedicadas à área espacial."
+        },
+        {
+          "letra": "B",
+          "texto": "o alinhamento entre os programas e as ações de fomento à inovação promovidas pelas entidades públicas da União com países que são potências no setor espacial."
+        },
+        {
+          "letra": "C",
+          "texto": "o estímulo à produção de científica de forma sigilosa, para o impulsionamento de patentes brasileiras no setor espacial."
+        },
+        {
+          "letra": "D",
+          "texto": "a proteção do conhecimento adquirido pela inovação e pelo estímulo à nacionalização do conhecimento patenteável produzido no país na área espacial."
+        },
+        {
+          "letra": "E",
+          "texto": "a superação das desigualdades regionais na formulação e na implementação de políticas de inovação da área espacial."
+        }
+      ],
+      "gabarito": "A",
+      "prova": "Cebraspe - AEB - Cargo 3 - 2024 - Conhecimentos Específicos",
+      "area": "Geral",
+      "assunto": null,
+      "ano": "2024",
+      "orgao": "AEB",
+      "cargo": "Cargo 3",
+      "keywords": [],
+      "arquivo": "AEB-2024-Cargo-3-Conhecimentos-Especificos.pdf"
+    }
+  ]
+}
